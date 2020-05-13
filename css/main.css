@@ -1,6 +1,17 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+
 body {
-    margin: 0 auto;
-    width: 80%;
+    background-color: #feffe3;
+}
+
+p, ul, ol, li{
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1, h2, h3, h4, .site-nav {
+    font-family: 'Open Sans', sans-serif;
 }
 
 img {
@@ -11,13 +22,68 @@ img {
     margin-right: auto;
 }
 
+a {
+    text-decoration: none;
+}
+
+hr {
+    border-top: 1px solid #bbb;
+}
+
+.full-width {
+    width: 100%;
+    float: left;
+}
+
+.main {
+    width: 69%;
+    float: left;
+}
+
+.menu {
+    width: 25%;
+    float: left;
+}
+
+.spacer-4 {
+    height: 100%;
+    width: 4%;
+    float: left;
+}
+
+.spacer-2 {
+    height: 100%;
+    width: 2%;
+    float: left;
+}
+
+.site-title {
+    margin: 0;
+}
+
+.date {
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+
 .center, .post-meta {
     text-align: center;
+}
+
+.post {
+    margin: 0 auto;
+    width: 80%;
 }
 
 .post-title {
     text-align: center;
     font-size: 250%;
+    margin-top: 200px;
+}
+
+.post-subtitle {
+    margin-bottom: -10px;
+    margin-top: -10px;
 }
 
 .pagination {
@@ -26,7 +92,7 @@ img {
 }
 
 .pagination a {
-    color: darkslategray;
+    color: #666;
     text-decoration: none;
     font-size: 150%;
     
@@ -41,4 +107,9 @@ img {
 
 .page_number {
     margin-top: 10%;
+}
+
+.quote {
+    width: 65%;
+    margin: 0 auto;
 }

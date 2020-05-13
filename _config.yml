@@ -29,7 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: brennankbrown
 github_username:  brennanbrown
 
-paginate: 5
+paginate: 3
+excerpt_separator: <!--more-->
 
 # Build settings
 

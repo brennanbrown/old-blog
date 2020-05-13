@@ -5,18 +5,39 @@
 layout: default
 ---
 
+<div class="spacer-4">&nbsp;</div>
+
+<div class="main">
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-{% endfor %}
 
-<hr>
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  
+  {% if post.excerpt %}
+    <div class="post-subtitle">
+      {{ post.excerpt }}
+    </div>
+  {% endif %}
+  <p class="author">
+    <span class="date">Posted On: {{ post.date | date: "%A, %B %d, %Y"}}</span> 
+  </p>
+  <hr>
+{% endfor %}
+</div>
+
+<div class="spacer-2">&nbsp;</div>
+
+<div class="menu">
+  <h2>About Me</h2>
+  <h2>Newsletter</h2>
+  <h2>Contact Me</h2>
+  <h2>Categories</h2>
+</div>
+
+
 
 <!-- Pagination links -->
-<div class="pagination center">
+<div class="full-width pagination center">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">←</a>
   {% else %}
