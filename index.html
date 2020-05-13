@@ -29,9 +29,24 @@ layout: default
 
 <div class="menu">
   <h2>About Me</h2>
+  <p>Hi, I'm Brennan. I'm a 24-year-old blogger and junior developer from Winnipeg, Manitoba and currently residing in Calgary, Alberta. His main focuses in his writing include self-development, community, and his experiences with programming.  </p>
+  
   <h2>Newsletter</h2>
+  <input placeholder="Sign Up Here!">
+
   <h2>Contact Me</h2>
+  <p>Interested in having a chat? Feel free to shoot me a DM anytime on <a href="https://twitter.com/brennankbrown/">Twitter.</a></p>
+  
   <h2>Categories</h2>
+ 	<div class="tags-expo">
+    <div class="tags-expo-list">
+      {% for tag in site.tags %}
+      <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+      <o>|</o>
+      {% endfor %}
+    </div>
+  </div>
+
 </div>
 
 

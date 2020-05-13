@@ -4,14 +4,15 @@
 
 body {
     background-color: #feffe3;
+    overflow: auto;
 }
 
 p, ul, ol, li{
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3, h4, .site-nav {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Merriweather', serif;
 }
 
 img {
@@ -33,6 +34,17 @@ hr {
 .full-width {
     width: 100%;
     float: left;
+    background-color: #444;
+    color: #fff;
+    padding-bottom: 10px;
+}
+
+.full-width a {
+    color: #eee;
+}
+
+.full-width a:visited {
+    color: #eee;
 }
 
 .main {
@@ -42,6 +54,11 @@ hr {
 
 .menu {
     width: 25%;
+    float: left;
+}
+
+.page-content {
+    width: 100%;
     float: left;
 }
 
@@ -58,7 +75,15 @@ hr {
 }
 
 .site-title {
-    margin: 0;
+    font-size: 2.5em;
+}
+
+.site-nav {
+    font-size: 1.5em;
+}
+
+.tags-expo-list {
+    text-align: justify;
 }
 
 .date {
@@ -78,12 +103,17 @@ hr {
 .post-title {
     text-align: center;
     font-size: 250%;
-    margin-top: 200px;
 }
 
 .post-subtitle {
     margin-bottom: -10px;
     margin-top: -10px;
+}
+
+.post-meta {
+    background-color: #ddd;
+    width: 70%;
+    margin: 0 auto;
 }
 
 .pagination {
