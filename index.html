@@ -10,17 +10,18 @@ layout: default
 <div class="main">
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  
-  {% if post.excerpt %}
-    <div class="post-subtitle">
-      {{ post.excerpt }}
-    </div>
-  {% endif %}
-  <p class="author">
-    <span class="date">Posted On: {{ post.date | date: "%A, %B %d, %Y"}}</span> 
-  </p>
+  <div class=post-summary>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    
+    {% if post.excerpt %}
+      <div class="post-subtitle">
+        {{ post.excerpt }}
+      </div>
+    {% endif %}
+    <p class="author">
+      <span class="date">Posted On: {{ post.date | date: "%A, %B %d, %Y"}}</span> 
+    </p>
+  </div>  
   <hr>
 {% endfor %}
 </div>
@@ -29,24 +30,30 @@ layout: default
 
 <div class="menu">
   <h2>About Me</h2>
-  <p>Hi, I'm Brennan. I'm a 24-year-old blogger and junior developer from Winnipeg, Manitoba and currently residing in Calgary, Alberta. His main focuses in his writing include self-development, community, and his experiences with programming.  </p>
+  <img src="/avatar.png" alt="Brennan's Face" height="150" width="150">
+  <p>Hi, I'm Brennan. I'm a 24-year-old blogger and junior developer from Winnipeg, Manitoba and currently residing in Calgary, Alberta. My current main focuses in my writing include self-development, community, and my experiences with programming.  </p>
   
-  <h2>Newsletter</h2>
-  <input placeholder="Sign Up Here!">
 
   <h2>Contact Me</h2>
-  <p>Interested in having a chat? Feel free to shoot me a DM anytime on <a href="https://twitter.com/brennankbrown/">Twitter.</a></p>
+  <p>Interested in having a chat? Feel free to shoot me a DM anytime on <a href="https://twitter.com/brennankbrown/">Twitter.</a> I'm also always updating projects on <a href="https://github.com/brennanbrown/">GitHub</a>if you wanna follow me there!</p>
   
+  <h2>Sign Up!</h2>
+  <iframe src="https://brennan.substack.com/embed" width="100%" height="270" frameborder="0" scrolling="no"></iframe>
+
   <h2>Categories</h2>
  	<div class="tags-expo">
-    <div class="tags-expo-list">
-      {% for tag in site.tags %}
-      <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
-      <o>|</o>
-      {% endfor %}
-    </div>
+    <select name="Select a Category">
+    {% assign sorted_tags = (site.tags | sort:0) %}
+    {% for tag in sorted_tags %}
+      {% assign t = tag | first %}
+      {% assign posts = tag | last %}
+      <option><a href="tagged/{{ t | slugify }}" class="post-tag">{{ tag[0] }} </a> ({{ posts | size }} Posts)</a></option>
+    {% endfor %}
+    </select>
+    <button>Go To Category Page</button>
   </div>
-
+</div>
+  
 </div>
 
 

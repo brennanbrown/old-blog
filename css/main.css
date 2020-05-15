@@ -1,10 +1,130 @@
-*, *::before, *::after {
-    box-sizing: border-box;
-  }
+/* RESPONSIVE DESIGN */
+
+@media only screen and (min-width: 1000px)
+{ 
+    *, *::before, *::after {
+        box-sizing: border-box;
+    }
+
+    .full-width {
+        width: 100%;
+        float: left;
+        background-color: #333;
+        color: #fff;
+        padding-bottom: 10px;
+    }
+    
+
+    .main {
+        width: 69%;
+        float: left;
+    }
+    
+    .menu {
+        width: 25%;
+        float: left;
+    }
+    
+    .page-content {
+        width: 100%;
+        float: left;
+    }
+    
+    .spacer-4 {
+        height: 100%;
+        width: 4%;
+        float: left;
+    }
+    
+    .spacer-2 {
+        height: 100%;
+        width: 2%;
+        float: left;
+    }  
+
+    .full-width a {
+        color: #eee;
+    }
+    
+    .full-width a:visited {
+        color: #eee;
+    }
+
+    .pagination a {
+        color: #666;
+        text-decoration: none;
+        font-size: 150%;
+        
+    }
+
+    a {
+        color: #002;
+    }
+
+    a:hover {
+        color: #004;
+    }
+
+    
+    .pagination a.active {
+        color: white;
+    }
+
+    .tags-expo select, .tags-expo button {
+        width: 80%;
+        padding: 5px;
+        margin: 5px;
+    }
+} 
+
+@media only screen and (max-width: 999px)
+{ 
+    .full-width, .main, .menu, .page-content, .spacer-4, .spacer-2 {
+        margin: 0 auto;
+        width: 95%;
+    }
+
+    .full-width {
+        color: #000;
+        padding-bottom: 10px;
+    }
+
+    a {
+        color: #004;
+        background-color: #faf8eb;
+        padding: 3px;
+    }
+    
+    a:visited {
+        color: #002;
+        background-color: #f5f1da;
+    }
+
+    a:hover {
+        background-color: #edebda;
+    }
+
+    .tags-expo {
+        margin-bottom: 45px;
+    }
+
+    .tags-expo select, .tags-expo button {
+        width: 100%;
+        padding: 5px;
+        margin: 5px;
+        text-align: center;
+    }
+    
+} 
+
+/* MAIN */
+
+
 
 body {
-    background-color: #feffe3;
+    background-color: #fff;
     overflow: auto;
+    font-size: 130%;
 }
 
 p, ul, ol, li{
@@ -31,48 +151,6 @@ hr {
     border-top: 1px solid #bbb;
 }
 
-.full-width {
-    width: 100%;
-    float: left;
-    background-color: #444;
-    color: #fff;
-    padding-bottom: 10px;
-}
-
-.full-width a {
-    color: #eee;
-}
-
-.full-width a:visited {
-    color: #eee;
-}
-
-.main {
-    width: 69%;
-    float: left;
-}
-
-.menu {
-    width: 25%;
-    float: left;
-}
-
-.page-content {
-    width: 100%;
-    float: left;
-}
-
-.spacer-4 {
-    height: 100%;
-    width: 4%;
-    float: left;
-}
-
-.spacer-2 {
-    height: 100%;
-    width: 2%;
-    float: left;
-}
 
 .site-title {
     font-size: 2.5em;
@@ -82,8 +160,9 @@ hr {
     font-size: 1.5em;
 }
 
-.tags-expo-list {
+.tags-expo {
     text-align: justify;
+    padding: 1px;
 }
 
 .date {
@@ -95,9 +174,21 @@ hr {
     text-align: center;
 }
 
+.menu h2 {
+    text-align: center;
+}
+
+.newsletter {
+    width: 100%;
+}
+
 .post {
     margin: 0 auto;
     width: 80%;
+}
+
+.post-summary hr{
+    display: none;
 }
 
 .post-title {
@@ -111,7 +202,7 @@ hr {
 }
 
 .post-meta {
-    background-color: #ddd;
+    background-color: #fefff2;
     width: 70%;
     margin: 0 auto;
 }
@@ -120,26 +211,14 @@ hr {
     font-weight: bold;
     font-size: 150%;
 }
-
-.pagination a {
-    color: #666;
-    text-decoration: none;
-    font-size: 150%;
-    
-}
-
-.pagination a.active {
-    background-color: #4CAF50;
-    color: white;
-  }
   
-.pagination a:hover:not(.active) {background-color: #ddd;}
+.pagination a:hover:not(.active) {background-color: #444;}
 
 .page_number {
     margin-top: 10%;
 }
 
 .quote {
-    width: 65%;
+    width: 55%;
     margin: 0 auto;
 }
