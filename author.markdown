@@ -14,4 +14,4 @@ Brennan Kenneth Brown is 24-year-old blogger and junior developer from Winnipeg,
   
 Brennan also enjoys a variety of creative side-projects, having composed various soundtracks and Neo-classical music under the pseudonym [**Augustin**](https://augustin.bandcamp.com/), and has a photography portfolio that can be seen at [**Project Qvl**](https://deviantart.com/qvl). 
 
-He is also working on a self-published book of poetry with excerpts that can be found at [**Warsaw Mountain**](https://warsawmountain.com/). He also maintains a dream-like blog dedicated to vaporwave and album art called [**Pale Site**](http://pale.site/).
+He is also working on a self-published book of poetry with excerpts that can be found at [**Warsaw Mountain**](https://warsawmountain.tumblr.com/). He also maintains a dream-like blog dedicated to vaporwave and album art called [**Pale Site**](http://pale.pw/).
