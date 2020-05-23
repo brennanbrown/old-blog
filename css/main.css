@@ -43,7 +43,11 @@
     }  
 
     .full-width a {
-        color: #eee;
+        color: #fff;
+    }
+
+    .full-width a:hover {
+        color: #777;
     }
     
     .full-width a:visited {
@@ -58,11 +62,11 @@
     }
 
     a {
-        color: #002;
+        color: rgb(57, 57, 105);
     }
 
     a:hover {
-        color: #004;
+        color: rgb(109, 96, 163);
     }
 
     
@@ -124,7 +128,6 @@
 body {
     background-color: #fff;
     overflow: auto;
-    font-size: 130%;
 }
 
 p, ul, ol, li{
@@ -219,6 +222,6 @@ hr {
 }
 
 .quote {
-    width: 55%;
+    width: 65%;
     margin: 0 auto;
 }
