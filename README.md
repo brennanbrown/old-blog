@@ -2,11 +2,11 @@
 
 > A personal collection of essays I've written. A personal journey of lifelong learning, sharing resources, creating things, and trying to be better. 
 
-[![Build Status](http://img.shields.io/travis/doge/wow.svg)](https://travis-ci.org/doge/wow)
-[![Coverage Status](http://img.shields.io/coveralls/doge/wow.svg)](https://coveralls.io/r/doge/wow)
+[![Issues](https://img.shields.io/github/issues/brennanbrown/blog?style=flat-square)](https://github.com/brennanbrown/blog/issues)
+[![Forks](https://img.shields.io/github/forks/brennanbrown/blog?style=flat-square)](https://github.com/brennanbrown/blog/forks)
+[![Stars](https://img.shields.io/github/stars/brennanbrown/blog?style=flat-square)](https://github.com/brennanbrown/blog/)
 [![Gem Version](http://img.shields.io/gem/v/suchgem.svg)](https://rubygems.org/gems/suchgem)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
-[![Badges](http://img.shields.io/:badges-7/7-ff6799.svg)](https://github.com/badges/badgerbadgerbadger)
 
 ## History
 
