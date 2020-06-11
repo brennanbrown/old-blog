@@ -11,6 +11,7 @@ categories:
 tags:
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="3000" data-height="2000" src="https://cdn-images-1.medium.com/max/2560/1*S8xlaxth2uIZecHTVMNpHw.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/laptop-notebook-working-outside-4778/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
@@ -21,7 +22,7 @@ Writing has been a gratifying experience — there’s an amount of catharsi
 
 As it stands right now, I get a view hundred views per day, and that’s exciting! This is mainly from comment responses as opposed to my original work, though — and that’s okay.
 
-* * *
+
 
 I can’t say my timing was the best, though. It’s probably just the newsfeed I’ve accidentally prescribed myself— the <a href="http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en" target="_blank" rel="noopener noreferrer">filter bubble</a> we all unknowingly have — but a few people seem to be uncertain about Medium and it’s future.
 
@@ -41,7 +42,7 @@ We can’t ignore those we don’t like — and we shouldn’t try. But I th
 
 <a href="https://medium.com/u/59cb2e9f3b38" target="_blank" rel="noopener noreferrer">Your Friends @ Medium</a> are here, they exist. If you have concerns, communicate them directly to Medium. Don’t murmur your anxieties from the sidelines — that can just cause fearmongering.
 
-* * *
+
 
 At the end of the day, though, as much as I like Medium it _is_ just a platform. It’s perfectly fine if people want to embark elsewhere _so long as_ they keep creating content. That’s what is vital. The world is too full of consumers and curators. Too few have the courage to be original and display it publicly.
 

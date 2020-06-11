@@ -31,7 +31,7 @@ Going through the whole Beeminder process again opened my eyes to a few things t
 
 <!--more-->
 
-## **1. Be Anti-Circle** 
+## <b>1. Be Anti-Circle</b> 
 
 It’s said that the definition of insanity is doing the same thing over and over again, but expecting different results. I was sifting through old text files on Dropbox, some all the way back from 2015 when I was back in high school, and I embarrassingly realized that there were certain goals there that I _still_ had been writing down for 2020.  
   
@@ -57,7 +57,7 @@ Don’t allow yourself to get too comfortable using one particular thing. In fac
 
 At the very least, have a simple, fail-safe system that you _archive everything_ on. Whether it be a VCS repository, a USB drive, or a secondary laptop with a text editor.
 
-## **4. Stack the Goodness** 
+## <b>4. Stack the Goodness</b> 
 
 A simple solution to adding multiple new habits or daily tasks into your life is to build them upon things you already are doing very well and effortlessly. Such as taking the time you brush your teeth at night to think of everything you’re grateful for that’s happened during the day.
 

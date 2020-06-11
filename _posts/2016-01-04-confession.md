@@ -40,7 +40,7 @@ I researched heavily in different ways of generating income, both passive and ac
 
 &nbsp;
 
-* * *
+
 
 Luckily for me, I have a passion for long-form writing and memoir-based prose. So you could say that&#8217;s what this blog is centred around. It might be naive to say, but I believe that&#8217;s what blogging should be about.
 

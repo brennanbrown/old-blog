@@ -12,6 +12,7 @@ tags:
   - Creativity
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="5848" data-height="3899" src="https://cdn-images-1.medium.com/max/2560/1*KaVNFCzQ4K5IQXmMjn7_Uw.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/black-and-white-forest-trees-branches-4243/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
@@ -54,7 +55,7 @@ It’s been nearly impossible for me to find good resources regarding the creati
 
 #### Frontier for the Everyman
 
-This is the reason why I’ve started an experiment — a new publication entitled **_the Paper Drafts_**. A place where the typical person — the non-writer — can express themselves.
+This is the reason why I’ve started an experiment — a new publication entitled <b>_the Paper Drafts_</b>. A place where the typical person — the non-writer — can express themselves.
 
 It’s modest, yet idealistic in its concept. Right now, it’s just myself spitballing ideas into an abyss. If that’s how it stays, that’s fine by me. The entire point is to merely present thoughts — even the branding is plain.
 

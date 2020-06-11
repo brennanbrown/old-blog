@@ -13,6 +13,7 @@ tags:
   - Open Source
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="4256" data-height="2832" src="https://cdn-images-1.medium.com/max/2560/1*OpLEH1zDFVGaKopvYnLc7Q.jpeg" /> <figcaption class="wp-caption-text">Pinot’s Palette | <a href="https://en.wikipedia.org/wiki/Pinot%27s_Palette#/media/File:Pinots_Palette_Class.JPG" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
@@ -27,7 +28,7 @@ These are professionals that I’m talking about. People who make their liveliho
 
 But what that’s the wrong answer? What if we instead viewed our work in an entirely different light?
 
-* * *
+
 
 #### Motivation
 
@@ -37,7 +38,7 @@ But what that’s the wrong answer? What if we instead viewed our work in an ent
 
 When a price tag is put on something, it becomes obligatory. It has to meet certain criteria, and is subsequently no longer entirely of our own. It is a mistake to think of what you produce solely from monetary value, and you shouldn’t be creating in the first place if that’s your mindset from the get go.
 
-* * *
+
 
 Often times, too, it’s more of an attempt to squeeze blood from a stone. Also awhile back, I ran an independent music review website, and made only a few dollars from AdSense in the span of months and dozens of articles.
 

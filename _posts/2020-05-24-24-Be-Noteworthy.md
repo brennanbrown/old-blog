@@ -70,31 +70,31 @@ It allows me to take a step back and understand the minuscule, day-by-day advanc
 
 Getting somewhere important and creating something big requires a bunch of small steps that nobody sees, and in an act of transparency and pragmatism, I’ve decided to share mine here.
 
-*(You can view the progress/graphs to all of these **[here](https://beeminder.com/brennanbrown)**.)*
+*(You can view the progress/graphs to all of these <b>[here](https://beeminder.com/brennanbrown)</b>.)*
 
-**Writing:**
+<b>Writing:</b>
 
-- **[Writing](https://beeminder.com/brennanbrown/writing)**: This keeps track of each word that I type on [Draft](https://draftin.com), which eventually will become a finished work within one of the following:
-    * **[Blog](https://beeminder.com/brennanbrown/blog)**: My current blog, connected via IFTTT on [Medium](https://medium.com/brennanbrown) for ease of automation. I'm still trying to find my voice and what I'd like to consistently write about, but I am going to be starting to post bi-weekly.
-    * **[Journalbar](https://beeminder.com/brennanbrown/journalbar)**: That's what you're reading! A side-blog where I force myself to review and reflect what I want/ought to be doing vs. what I'm actually doing. 
-    * **[Poetry](https://beeminder.com/brennanbrown/poetry)**: I'm currently writing a new poetry chapbook, and publish one new piece per week.
-- **[Twitter](https://beeminder.com/brennanbrown/twitter)**: Not exactly related to my other writing, but I've been using Twitter as a private, short journal for daily summaries and progress.
+- <b>[Writing](https://beeminder.com/brennanbrown/writing)</b>: This keeps track of each word that I type on [Draft](https://draftin.com), which eventually will become a finished work within one of the following:
+    * <b>[Blog](https://beeminder.com/brennanbrown/blog)</b>: My current blog, connected via IFTTT on [Medium](https://medium.com/brennanbrown) for ease of automation. I'm still trying to find my voice and what I'd like to consistently write about, but I am going to be starting to post bi-weekly.
+    * <b>[Journalbar](https://beeminder.com/brennanbrown/journalbar)</b>: That's what you're reading! A side-blog where I force myself to review and reflect what I want/ought to be doing vs. what I'm actually doing. 
+    * <b>[Poetry](https://beeminder.com/brennanbrown/poetry)</b>: I'm currently writing a new poetry chapbook, and publish one new piece per week.
+- <b>[Twitter](https://beeminder.com/brennanbrown/twitter)</b>: Not exactly related to my other writing, but I've been using Twitter as a private, short journal for daily summaries and progress.
 
-**Productivity:**
+<b>Productivity:</b>
 
-- **[Productive Time](https://beeminder.com/brennanbrown/productivity)**: A daily count of software and website monitoring. Recently had to increase the rate to 3 hrs/day, since I've been on the computer so much.
-    * **[GitHub](https://beeminder.com/brennanbrown/github)**: Keeping track of the commits I push to my coding repositories, also had to increase the rate since I've been programming a lot.
-    * **[Courses](https://beeminder.com/brennanbrown/courses)**: Keeping track of the courses I've been taking, currently on a good tutorial about express and node.js!
-- **[Distracting Time](https://beeminder.com/brennanbrown/distraction)**: Ideally, I want to be spending all of my recreational time on analogue, since I have to spend so much time in front of a screen for work. 
+- <b>[Productive Time](https://beeminder.com/brennanbrown/productivity)</b>: A daily count of software and website monitoring. Recently had to increase the rate to 3 hrs/day, since I've been on the computer so much.
+    * <b>[GitHub](https://beeminder.com/brennanbrown/github)</b>: Keeping track of the commits I push to my coding repositories, also had to increase the rate since I've been programming a lot.
+    * <b>[Courses](https://beeminder.com/brennanbrown/courses)</b>: Keeping track of the courses I've been taking, currently on a good tutorial about express and node.js!
+- <b>[Distracting Time](https://beeminder.com/brennanbrown/distraction)</b>: Ideally, I want to be spending all of my recreational time on analogue, since I have to spend so much time in front of a screen for work. 
 
-**Fitness:**
+<b>Fitness:</b>
 
-* **[Daily Activity](https://beeminder.com/brennanbrown/fitness)**: I'm aiming for 10k steps a day, and I usually take an hour-long walk or bike ride daily--I find it really helps with my ability to work mentally.
-* **[Sleeping](https://beeminder.com/brennanbrown/sleep)**: Sleep hygiene is a major issue for me. I need to convert this to a custom goal since I also want to cap the amount that I'm sleeping to further improve my consistency.
-* **[Weight](https://beeminder.com/brennanbrown/weight)**: Having to archive and do-over this system, since it can be automated with my FitBit now.
+* <b>[Daily Activity](https://beeminder.com/brennanbrown/fitness)</b>: I'm aiming for 10k steps a day, and I usually take an hour-long walk or bike ride daily--I find it really helps with my ability to work mentally.
+* <b>[Sleeping](https://beeminder.com/brennanbrown/sleep)</b>: Sleep hygiene is a major issue for me. I need to convert this to a custom goal since I also want to cap the amount that I'm sleeping to further improve my consistency.
+* <b>[Weight](https://beeminder.com/brennanbrown/weight)</b>: Having to archive and do-over this system, since it can be automated with my FitBit now.
 
-**Lifestyle:**
+<b>Lifestyle:</b>
 
-* **[Gratitude](https://beeminder.com/brennanbrown/gratitude)**: Writing down one thing that I'm grateful for, each day.
-* **[Duolingo](https://beeminder.com/brennanbrown/duolingo)**: Currently in the silver league! Aiming for two lessons in French per day.
-* **[Books](https://beeminder.com/brennanbrown/books)**: Currently taking out audiobooks on [Libby](https://www.overdrive.com/apps/libby/) which are not only free, but also give me only two weeks to make sure I get through the entire book.
+* <b>[Gratitude](https://beeminder.com/brennanbrown/gratitude)</b>: Writing down one thing that I'm grateful for, each day.
+* <b>[Duolingo](https://beeminder.com/brennanbrown/duolingo)</b>: Currently in the silver league! Aiming for two lessons in French per day.
+* <b>[Books](https://beeminder.com/brennanbrown/books)</b>: Currently taking out audiobooks on [Libby](https://www.overdrive.com/apps/libby/) which are not only free, but also give me only two weeks to make sure I get through the entire book.

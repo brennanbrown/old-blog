@@ -14,9 +14,10 @@ tags:
   - Rebellion
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
-<img data-width="1024" data-height="768" src="https://cdn-images-1.medium.com/max/2560/1*fkClGWc2ifosLfxVGOOYuw.jpeg" /> <figcaption class="wp-caption-text">**November Dreaming** | <a href="https://www.flickr.com/photos/mpclemens/2944479527" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1024" data-height="768" src="https://cdn-images-1.medium.com/max/2560/1*fkClGWc2ifosLfxVGOOYuw.jpeg" /> <figcaption class="wp-caption-text"><b>November Dreaming</b> | <a href="https://www.flickr.com/photos/mpclemens/2944479527" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 #### An Act of Rebellion
 
@@ -38,7 +39,7 @@ Fiction writing, though, has always been something that has eluded me. What stor
 
 Great works of <a href="http://www.canadiana.ca/" target="_blank" rel="noopener noreferrer"><em>Canadiana</em></a> have always appealed to me, but the truth is that I don’t think I have what it takes to write that. One day, though, when I actually have something to say. But for now, I’ll still to honing my abilities with the craft of the personal essay. The short and simple musings on things I think about often.
 
-* * *
+
 
 ### Rebellion
 
@@ -52,7 +53,7 @@ That’s a message that needs to be sent to everyone. So many of us are obsessed
 
 That’s why I choose to _rebel_. Starting with this post. As the <a href="http://www.wikiwrimo.org/wiki/NaNo_Rebel" target="_blank" rel="noopener noreferrer">Wiki</a> states:
 
-> A **NaNo Rebel** is a <a href="http://www.wikiwrimo.org/wiki/National_Novel_Writing_Month" title="National Novel Writing Month" target="_blank" rel="noopener noreferrer">NaNoWriMo</a> participant who chooses to write something besides a <a href="http://www.wikiwrimo.org/wiki/Novel" title="Novel" target="_blank" rel="noopener noreferrer">novel</a> of at least 50,000 words in November. Some NaNo rebels choose to revise and edit their novels, while others wander into the worlds of nonfiction, video games, scripts, and academic writing.
+> A <b>NaNo Rebel</b> is a <a href="http://www.wikiwrimo.org/wiki/National_Novel_Writing_Month" title="National Novel Writing Month" target="_blank" rel="noopener noreferrer">NaNoWriMo</a> participant who chooses to write something besides a <a href="http://www.wikiwrimo.org/wiki/Novel" title="Novel" target="_blank" rel="noopener noreferrer">novel</a> of at least 50,000 words in November. Some NaNo rebels choose to revise and edit their novels, while others wander into the worlds of nonfiction, video games, scripts, and academic writing.
 
 There’s something I find so appealing about this off-shoot version of NaNoWriMo. (It could be due to how I naturally enjoy defying authority, though).
 

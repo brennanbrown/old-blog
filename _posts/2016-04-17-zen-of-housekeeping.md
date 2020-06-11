@@ -13,13 +13,14 @@ tags:
   - Life
   - Mindfulness
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="1024" data-height="1024" src="https://cdn-images-1.medium.com/max/2560/1*rlUEM9EKTlYGMPAJCyT2FQ.jpeg" /> <figcaption class="wp-caption-text">Kitchen Sink | <a href="https://www.flickr.com/photos/matthewragan/6861394236" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 #### Life as a kitchen sink.
 
-> “Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.” — **Xinxin Ming** 
+> “Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.” — <b>Xinxin Ming</b> 
 
 <span>S</span>ince last August, I’ve worked casually as a housekeeper. I’ve been assigned to clean in a variety of environments such as hospitals, large business offices, and college campuses. Most of my friends have taken jobs in retail, and while it’s easy to joke about how I’d rather clean than deal with people, the reality is that it’s been a humbling — and sometimes daunting — experience.
 
@@ -37,7 +38,7 @@ We create order for ourselves constantly, we have plans and we organize. Or we d
 
 #### Benefits of Mindful Cleaning
 
-> _Researchers found that people who washed dishes mindfully (they focused on smelling the soap, feeling the water temperature and touching the dishes)_ **_upped their feelings of inspiration by 25%_** _and_ **_lowered their nervousness levels by 27%_**_._ 
+> _Researchers found that people who washed dishes mindfully (they focused on smelling the soap, feeling the water temperature and touching the dishes)_ <b>_upped their feelings of inspiration by 25%_** _and_ **_lowered their nervousness levels by 27%_</b>_._ 
 
 > _The group that didn’t wash the dishes mindfully did not gain any benefits from the task. “It appears that an everyday activity approached with intentionality and awareness may enhance the state of mindfulness,” the_ <a href="http://time.com/4056280/washing-dishes-stress-relief-mindfulness/" target="_blank" rel="noopener noreferrer"><em>study authors</em></a> _conclude._ 
 
@@ -49,11 +50,11 @@ The spirituality comes from you. When you pay attention to the meals you cook, t
 
 Cleaning and decluttering can — and should — be mindful practices. To practice living in the present moment. Each time you do a chore, imagine as though you’re doing this chore for the first time. Instead of looking at a sinkful of dirty dishes, look for the bubbles instead.
 
-* * *
+
 
 > “If I am incapable of washing dishes joyfully, if I want to finish them quickly so I can go and have a cup of tea, then I will be incapable of drinking the tea joyfully.” — Thich Nhat Hanh
 
-* * *
+
 
 #### Gratitude and Compassion
 

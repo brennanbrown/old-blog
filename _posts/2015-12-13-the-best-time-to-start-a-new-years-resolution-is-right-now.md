@@ -13,11 +13,12 @@ tags:
   - Inspiration
   - Productivity
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="1600" data-height="1067" src="https://cdn-images-1.medium.com/max/2560/1*3r2T5mPRtkLAUStN3se2Qw.jpeg" /> <figcaption class="wp-caption-text"><a href="https://www.pexels.com/photo/scrabble-resolutions-3297/" target="_blank" rel="noopener noreferrer">Image Credit</a></figcaption></figure> 
 
-**Today is not your enemy.** There’s no need to complicate today (as in right now) with the uncertainty of the next five years. Every day when you get out of bed in the morning, you have two options:
+<b>Today is not your enemy.</b> There’s no need to complicate today (as in right now) with the uncertainty of the next five years. Every day when you get out of bed in the morning, you have two options:
 
   1. Do what you want.
   2. Don’t do what you want.

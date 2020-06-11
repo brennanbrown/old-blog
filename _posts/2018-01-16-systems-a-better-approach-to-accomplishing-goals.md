@@ -16,15 +16,17 @@ tags:
   - Systems Thinking
   - Writing
 ---
-<figure>[<img src="https://cdn-images-1.medium.com/max/800/1*75f3FyFy5_WnAC4joYEXJQ.png" data-width="4000" data-height="250" />](https://medium.com/@brennanbrown)</figure> 
+
+<figure><img src="https://cdn-images-1.medium.com/max/800/1*75f3FyFy5_WnAC4joYEXJQ.png" data-width="4000" data-height="250"></figure> 
 
 #### There’s a superior method to ensure ambitions are fulfilled.
 
-**_Summary_**_: Change your mindset when it comes to ambitious goals — break them down into tangible and practical daily routines._
+<b>_Summary_</b>_: Change your mindset when it comes to ambitious goals — break them down into tangible and practical daily routines._
 
-**_Author’s Note:_** _This article is an expansion of two articles I wrote for Beeminder:  
-_ <a href="https://blog.beeminder.com/tao/" target="_blank" rel="noopener noreferrer"><em>The Tao of Bees</em></a>_  
-_ <a href="https://blog.beeminder.com/tao2/" target="_blank" rel="noopener noreferrer"><em>The Sting of Work</em></a><figure>
+<b>_Author’s Note:_</b> This article is an expansion of two articles I wrote for Beeminder:  
+- <a href="https://blog.beeminder.com/tao/" target="_blank" rel="noopener noreferrer"><em>The Tao of Bees</em></a>  
+- <a href="https://blog.beeminder.com/tao2/" target="_blank" rel="noopener noreferrer"><em>The Sting of Work</em></a>
+<figure>
 
 <img src="https://cdn-images-1.medium.com/max/800/1*89KCIhYz12DKDRbMNvFA2Q.png" data-width="1400" data-height="148" /> </figure> 
 
@@ -44,11 +46,12 @@ But if we don’t want to put goals on the backburner, there’s a need to integ
 
 #### Purpose Needs to Come First
 
-Don’t dive head-first into a goal without first asking yourself **why**. What are the benefits to achieving your goal? Does the outcome make all the work worth it? What do you value strongly that would give a goal meaning? Asking yourself these kinds of questions will help move you from busywork to doing things that are more important.
+Don’t dive head-first into a goal without first asking yourself <b>why</b>. What are the benefits to achieving your goal? Does the outcome make all the work worth it? What do you value strongly that would give a goal meaning? Asking yourself these kinds of questions will help move you from busywork to doing things that are more important.
 
 Commit to what excites you. It’s psychologically important to have a feeling of free will with your goals. Make a clear distinction between the work you have to do, and the work you want to do. If you don’t feel like you’re doing something for just yourself, it’ll feel like another chore. Don’t commit to anything because other people think you should. It’s only you.
 
-Having well-defined principles can give you the discipline to carry out difficult tasks, even if there’s a lack of motivation. Think deeply about what would help your community, your company, or your future self. Making your commitments serious will allow you to take them seriously.<figure>
+Having well-defined principles can give you the discipline to carry out difficult tasks, even if there’s a lack of motivation. Think deeply about what would help your community, your company, or your future self. Making your commitments serious will allow you to take them seriously.
+<figure>
 
 <img src="https://cdn-images-1.medium.com/max/600/1*4WFFKvC1DWGtHtDzM141gw.png" data-width="1400" data-height="600" /> </figure> 
 
@@ -60,13 +63,14 @@ The goals we set for ourselves aren’t accomplish-able because we don’t take 
 
 When writing out long-term goals, it’s easy to become too focused on the future and not realize that what you’re doing in the present is actually what matters. In other words, it doesn’t matter what you do in six months, it matters what you do _right now_.
 
-Ambitious goals are good to have — but they need to be broken down in order to actually be accomplished. What can you do this month, this week, or even just today? Creating smaller short-term goals is key to make far-out dreams become tangible, less scary — and most importantly, actually possible.<figure>
+Ambitious goals are good to have — but they need to be broken down in order to actually be accomplished. What can you do this month, this week, or even just today? Creating smaller short-term goals is key to make far-out dreams become tangible, less scary — and most importantly, actually possible.
+<figure>
 
 <img src="https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png" data-width="1400" data-height="62" /> </figure> 
 
 ### Systems: Taking Over Our Default Process
 
-This is where the concept of **systems** comes in. A system can be defined as a daily routine to develop a skill over time, and encourages a positive feedback loop.
+This is where the concept of <b>systems</b> comes in. A system can be defined as a daily routine to develop a skill over time, and encourages a positive feedback loop.
 
 Systems allow you to work gradually and linearly. This is in contrast to impulsively doing a bunch of work at once — to take the middle path and find balance, while also having the ability to slowly push yourself as time goes on. This allows you to create good work consistently without burning out.
 
@@ -93,13 +97,14 @@ Nothing will fall into place by itself. There are a lot of pieces to your puzzle
 
 The goal of writing 100,000 words in a year can seem daunting to a beginner, but if this goal was converted to a daily system, then only 275 words per day need to be written.
 
-This doesn’t mean you’ll have 200 pages of _good_ writing —especially if you’re just starting out. The first try always sucks**,** and mastery takes a lot of time.
+This doesn’t mean you’ll have 200 pages of _good_ writing —especially if you’re just starting out. The first try always sucks<b>,</b> and mastery takes a lot of time.
 
 The first attempt is never meant to be good, it’s meant to be an attempt. Systems are about the process, and having the patience to cultivate your skills. Grit your teeth and push through it, and accept the time it’ll take to achieve what you originally envisioned.
 
 At the same time, know what you’re capable of — the Internet does makes it easy to get lost in _other people’s_ lifestyle goals. From writing 750 words a day, or meditating for 30 minutes each morning, to only eating fresh greens (yuck!), and so on.
 
-But your mileage may vary greatly, and certain goals may or may not be realistic for you — that’s for you to discover. Be mindful of the Ancient Greek aphorism, _know thyself._ Start small and gradually ramp up, and you’ll find out exactly what works for you!<figure>
+But your mileage may vary greatly, and certain goals may or may not be realistic for you — that’s for you to discover. Be mindful of the Ancient Greek aphorism, _know thyself._ Start small and gradually ramp up, and you’ll find out exactly what works for you!
+<figure>
 
 <img src="https://cdn-images-1.medium.com/max/1200/1*-uwsLPQgzkCKZfe_EqrcvQ.png" data-width="2000" data-height="1000" /> </figure> 
 
@@ -109,16 +114,18 @@ My final tip, and biggest takeaway, is that there’s no way to avoid doing hard
 
 Spending time looking for an easy solution, or following whatever trendy advice offers shortcuts, will always be a band-aid approach. It all boils down to doing a lot of hard work, and figuring out how to be happy about doing that hard work.
 
-When it comes to the _self_, there is no finished product, just many, many revisions. So just jump into it, and learn to observe what works and what doesn’t work. Build on the good, disregard the bad, and don’t hesitate to re-calibrate when necessary.<figure>
+When it comes to the _self_, there is no finished product, just many, many revisions. So just jump into it, and learn to observe what works and what doesn’t work. Build on the good, disregard the bad, and don’t hesitate to re-calibrate when necessary.
+<figure>
 
 <img src="https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png" data-width="1400" data-height="62" /> </figure> 
 
 #### SUMMARY:
 
-  * **Goals are difficult because they require far more fundamental change and energy than most people realize.** In order to accomplish something big, you have to sacrifice a large amount of time and effort. Law of equivalent exchange, right?
-  * **There needs to be purpose before anything else.** People that have the ability to do difficult work when they don’t enjoy it have a deep-rooted and personally important reason for doing it. What do you want to truly contribute to the world — and why?
-  * **Change is hard.** We are deeply entrenched in our current behavior, and it takes constant mindfulness and intent to change our ways and not slip back into easier, less healthy habits.
-  * **Build systems out of your goals.** In order to actually have the ability to accomplish what you set out to do, you need to break down your larger goals into small and tangible weekly and daily goals. Make time each day to develop your skills and work on what’s important.
-  * **There is no magic bullet.** Don’t let yourself get fooled into thinking there’s an easier way to get from where you currently are to where you want to be. It’s a waste of time. Figure out the smartest way to work hard and ignore the snake oil salesmen.<figure class="wp-caption">
+  * <b>Goals are difficult because they require far more fundamental change and energy than most people realize.</b> In order to accomplish something big, you have to sacrifice a large amount of time and effort. Law of equivalent exchange, right?
+  * <b>There needs to be purpose before anything else.</b> People that have the ability to do difficult work when they don’t enjoy it have a deep-rooted and personally important reason for doing it. What do you want to truly contribute to the world — and why?
+  * <b>Change is hard.</b> We are deeply entrenched in our current behavior, and it takes constant mindfulness and intent to change our ways and not slip back into easier, less healthy habits.
+  * <b>Build systems out of your goals.</b> In order to actually have the ability to accomplish what you set out to do, you need to break down your larger goals into small and tangible weekly and daily goals. Make time each day to develop your skills and work on what’s important.
+  * <b>There is no magic bullet.</b> Don’t let yourself get fooled into thinking there’s an easier way to get from where you currently are to where you want to be. It’s a waste of time. Figure out the smartest way to work hard and ignore the snake oil salesmen.
+<figure class="wp-caption">
 
-[<img src="https://cdn-images-1.medium.com/max/800/1*pRon9UAtEO-JzTY-7mg1jA.png" data-width="2400" data-height="1800" />](https://medium.com/@brennanbrown)<figcaption class="wp-caption-text">**Thanks for Reading!**</figcaption></figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*pRon9UAtEO-JzTY-7mg1jA.png" data-width="2400" data-height="1800"><figcaption class="wp-caption-text"><b>Thanks for Reading!</b></figcaption></figure>

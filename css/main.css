@@ -154,6 +154,10 @@ hr {
     border-top: 1px solid #bbb;
 }
 
+figcaption {
+    text-emphasis: italic;
+    text-align: center;
+}
 
 .site-title {
     font-size: 2.5em;

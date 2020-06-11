@@ -14,6 +14,7 @@ tags:
   - Life Lessons
   - Travel
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="1024" data-height="903" src="https://cdn-images-1.medium.com/max/2560/1*RxwPBWA2ey1yQyGVCRGuRQ.jpeg" /> <figcaption class="wp-caption-text">Kids Running | <a href="https://www.flickr.com/photos/wagnertc/4812793374" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
@@ -22,7 +23,8 @@ tags:
 
 While there isn’t exactly anything right or wrong to want to do within your lifetime, there are commonalities between many of them. Some try to find a sort of quantitative measure of success, like making a certain amount of money, or maybe something more career-oriented.
 
-Those sorts of accomplishments appear vain, to me. What exactly do you do with your life after you complete them — waste away? I’m instead interested in the more lofty and adventurous ambitions that we set for ourselves. One in particular:<figure class="wp-caption"> 
+Those sorts of accomplishments appear vain, to me. What exactly do you do with your life after you complete them — waste away? I’m instead interested in the more lofty and adventurous ambitions that we set for ourselves. One in particular:
+<figure class="wp-caption"> 
 
 <img data-width="4608" data-height="2592" src="https://cdn-images-1.medium.com/max/600/1*KiLJ63JepjUhbBxsL4zBTA.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/mountains-black-and-white-snow-alps-8729/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
@@ -38,7 +40,8 @@ Our own Genesis — where we no longer have to be petrified by our oppressiv
 
 Most of us don’t even make it that far, though. Instead, we are able to find an endless supply of excuses why it’s not even possible to try to run away. Finding a false contentment in idolizing those brave enough to leave from the glare of a computer screen or phone.
 
-* * *<figure class="wp-caption"> 
+
+<figure class="wp-caption"> 
 
 <img data-width="3487" data-height="2615" src="https://cdn-images-1.medium.com/max/800/1*J7CltHdy3kmdNIhOBgtI3w.jpeg" /> <figcaption class="wp-caption-text">The Spirit of Emptiness | <a href="https://www.flickr.com/photos/thomasleuthard/6060549757" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
@@ -50,7 +53,7 @@ Because we go back to our everyday lives. The mundane and the difficult, and mos
 
 We have to be able to take time out of the mundane to step back and appreciate it. We do not need to constantly and frantically search for more when we are the few that already have so much. There’s so much beauty in the people we have to talk to every day. The nuance of life is what _makes_ it.
 
-* * *
+
 
 The fresh start is a myth, no matter where you go, you take your mind with you. That’s what is actually bothering you, as much as it seems that it’s the world around you. Our problems are _ours_, they do not stay static as we move on. You will still be the same person, with the same fears and flaws, no matter what climate you decide to quickly run off too.
 

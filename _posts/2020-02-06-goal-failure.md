@@ -28,6 +28,7 @@ This can be chalked up to a multitude of reasonings: No longer finding interest 
 After reviewing both my minor successes and major failures over an extended period of time, there are more mature conclusions on the idea of system thinking as a way of living that I can share. This is in sharp contrast to the more idealistic and frankly naïve explanations I had a few years ago.
 
 <!--more-->
+
 <figure class="wp-block-image alignwide size-large"><img src="https://miro.medium.com/max/1200/1*Oy5JgX1IsJQb5qgxSbohWw.jpeg"> <figcaption>An outdated, incorrect metaphor. | <a href="https://www.flickr.com/photos/donkeyhotey/5366524586/in/photostream/" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
 
 # The Boiling Frog Conundrum 
@@ -46,7 +47,7 @@ And when we let the first thing slip, it becomes far easier for us to tell ourse
 
 These don’t seem like big enough problems to put forth the effort to fix them right now, in the present time. They feel far more like problems that our future self will fix when they’re larger and actually need to be looked at.
 
-But of course, the longer we neglect these things, the _more_ difficult it becomes to get back into it. There is a sincere experience of **reverse-momentum**, where the barrier to keep going or start over becomes stronger with each passing day.
+But of course, the longer we neglect these things, the _more_ difficult it becomes to get back into it. There is a sincere experience of <b>reverse-momentum</b>, where the barrier to keep going or start over becomes stronger with each passing day.
 
 We let an ego of excuses develop a shield of pride from letting us become beginners again. Instead abandoning something entirely. But _not_ doing is always a bigger failing than _doing a little, badly_.
 
@@ -55,6 +56,7 @@ There is no actual solution to the boiling frog conundrum, because any method of
   * We can set a reminder on our phone to remind ourselves to be intentional and work on what we find important, but when that reminder becomes fatiguing, we’ll turn it off and resume in the safety of status quo.
   * We can find a burst of inspiration and motivation and get dozens of things done in just a few days, but when that energy or time off ends, we flatline again. The shame and pride resume.
  
+
 <figure class="wp-block-image alignwide size-large"><img src="https://miro.medium.com/max/1280/1*n1oMinf27WiqgAE43M6uEQ.jpeg"> <figcaption><a href="https://www.needpix.com/photo/download/1110693/emotions-sensation-happiness-go-to-sadness-faces-face-looks-eyes" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
 
 # The Solution-Adjacent: MVH 
@@ -79,7 +81,7 @@ If you \*do\* want to work on something, start by working on it as little as pos
 
 This might seem like a long-winded way of saying: “make your goals as small as possible”, but building this paradigm of anti-laziness first is what’s needed for a goal to actually work.
 
-<hr class="wp-block-separator" />
+
 
 # The Harmful Easy Stuff 
 
@@ -97,11 +99,12 @@ I would find myself stressed out at around 11:55pm each night, when I should hav
 
 Because I didn’t sign the <a href="https://blog.beeminder.com/legit/" target="_blank" rel="noreferrer noopener">weasel contract</a> (what real weasel would be honest enough to?), whenever I _did_ forget to update these data points and derail, I would feel a wave of shameful guilt, and e-mail a gut-wrenching note to Beeminder insisting I was sick, or my Internet was out to avoid facing the punishment. It took me a long time of continuing this behavior before I eventually archived all of my goals, with all of their inflated and fake data history months later.
 
-Of course, the simple solution here is to be honest and play fairly. This behaviour is mind-boggling counterproductive and I have no idea how or why I acted so absurdly for so long, looking back at it. You gain **nothing** if you convince yourself that completing something based on a technicality means you actually completed it.
+Of course, the simple solution here is to be honest and play fairly. This behaviour is mind-boggling counterproductive and I have no idea how or why I acted so absurdly for so long, looking back at it. You gain <b>nothing</b> if you convince yourself that completing something based on a technicality means you actually completed it.
 
 The sooner you accept the way that things really are, the easier it will be to figure out how to move on from that point. Surfing a wave of complacency will only get you so far, the ride will eventually end. Coasting on mediocrity and pretending things are fine is far worse than confronting the fact you are a loser and a failure.
 
 Don’t let yourself get lured into the harmful easy stuff because of the arising boiling frog conundrum, which makes it seem far more tempting than both admitting failure or doing the hard work you promised yourself you would.
+
 
 <figure class="wp-block-image alignwide size-large"><img src="https://miro.medium.com/max/3840/1*h1x73zFNG8ILaGWvZE-VCQ.jpeg"> <figcaption>The Never-ending Quest for Meaningfulness | <a href="https://commons.wikimedia.org/wiki/File:Meditation_(7912377858).jpg" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
 
@@ -143,7 +146,7 @@ Presumptive flatline behaviour needs to be fought by maintaining this small yet 
 
 ## Summary of Tangled Thoughts 
 
-There are a lot of different ideas that I skimmed the surface of here. But it can all be reduced to the concept of **intentionality** and trying to maintain it as much and as often as you can.
+There are a lot of different ideas that I skimmed the surface of here. But it can all be reduced to the concept of <b>intentionality</b> and trying to maintain it as much and as often as you can.
 
 The present moment is the only one we’re able to function in, and we need to take stock of what’s actually going on, and what we’re actually doing. You do not need to feel bad if you notice that you’re not on track, you don’t even need to _change_ what you’re doing, just notice it.
 

@@ -25,6 +25,7 @@ tags:
   <cite>English translation of a purported traditional Chinese curse.</cite>
 </blockquote>
 
+
 <figure class="wp-block-image alignwide size-large">
 <img src="http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w.jpeg" alt="A message is written in graffiti on the campus of the Hong Kong Polytechnic University (PolyU) in Hong Kong" class="wp-image-163" srcset="http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w.jpeg 960w, http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w-300x200.jpeg 300w, http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w-768x512.jpeg 768w, http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w-900x600.jpeg 900w" sizes="(max-width: 960px) 100vw, 960px" /> <figcaption>A message is written in graffiti on the campus of the Hong Kong Polytechnic University (PolyU) in Hong Kong, China November 21, 2019. REUTERS/Athit Perawongmetha</figcaption></figure> 
 
@@ -57,6 +58,7 @@ You agree to constant notifications that will take your attention away from othe
 You agree to having a constant stream of information appear on a dashboard or feed that you do not have any direct control over. A stream of information — specifically engineered by algorithms we no longer comprehend— designed to make you feel outraged or upset in order to keep you on the platform as long as possible as a Listener, not as a Storyteller.
 
 Perhaps it’s cynical to say, but our ability to tell our story feels more like a convenient illusion that has been specifically created in order to keep real action from taking place. Your ability to hear and witness the stories of others is outside of your control, and is carefully curated by only a handful of people.
+
 
 <figure class="wp-block-image alignwide size-large"><img src="http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-1024x1024.jpeg" alt="Art for Awkward and Lonely People" class="wp-image-165" srcset="http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-1024x1024.jpeg 1024w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-300x300.jpeg 300w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-150x150.jpeg 150w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-768x768.jpeg 768w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-88x88.jpeg 88w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-900x900.jpeg 900w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw.jpeg 1160w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption><a href="https://forthmagazine.com/visual-art/2018/03/art-for-awkward-lonely-people-an-interview-with-qianqian-ye/" target="_blank" rel="noreferrer noopener"><em>Qianqian Ye</em></a></figcaption></figure> 
 

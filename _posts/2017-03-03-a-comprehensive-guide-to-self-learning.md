@@ -15,6 +15,7 @@ tags:
   - Life Lessons
   - Self Improvement
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="1280" data-height="983" src="https://cdn-images-1.medium.com/max/2560/1*gWYKhWJzQ_lgsdWR3EV4uQ.jpeg" /> <figcaption class="wp-caption-text">Navajo Students Studying Mathematics at Day School | <a href="https://commons.wikimedia.org/wiki/File:Navajo_students_studying_mathematics_at_day_school_-_NARA_-_295155.jpg" target="_blank" rel="noopener noreferrer"><strong>Source</strong></a></figcaption></figure> 
@@ -48,11 +49,12 @@ When you have a mindset of passion — of having a reason to learn and a fut
 **Schedule  
 ** With so much choice and freedom, it can be easy to try to accomplish too many things at once, only to end up neglecting your studies altogether. This is why it’s so important to chart out a path for yourself once you figure out what you want to accomplish.
 
-Ask yourself how much time you’re able to sacrifice and how much effort you’ll sincerely put into this. Once you have those answers, you’ll be able to plan your own curriculum of sorts.<figure class="wp-caption"> 
+Ask yourself how much time you’re able to sacrifice and how much effort you’ll sincerely put into this. Once you have those answers, you’ll be able to plan your own curriculum of sorts.
+<figure class="wp-caption"> 
 
 <img data-width="1070" data-height="570" src="https://cdn-images-1.medium.com/max/800/1*KfQQYIJcIxgSJp8XuL2xPA.png" /> <figcaption class="wp-caption-text">An Old Prototype of My Schedule</figcaption></figure> 
 
-* * *
+
 
 ### The Elements of a Successful Course
 
@@ -102,4 +104,3 @@ See Also: <a href="http://austinkleon.com/show-your-work/" target="_blank" rel="
   * Figure out a system and stick to it. Once you have a schedule made, find a way to link it to your created materials, as well as any other important information. (My personal recommendations would be <a href="https://www.onenote.com/" target="_blank" rel="noopener noreferrer">OneNote</a> for Windows, or using Sublime Text w/ Markdown for Linux.)
   * When you’re writing about what you’ve learned, don’t be afraid to add your own personal story or information — conglomerate multiple sources of learning for a more thorough discourse.
 
-* * *

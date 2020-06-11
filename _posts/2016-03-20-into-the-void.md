@@ -13,6 +13,7 @@ tags:
   - Philosophy
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="3552" data-height="2000" src="https://cdn-images-1.medium.com/max/2560/1*aZtNRCMPmdjg8U_gTx9eew.jpeg" /> <figcaption class="wp-caption-text">Darkness // <a href="https://commons.wikimedia.org/wiki/File:Darkness_%286962063643%29.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
@@ -21,7 +22,8 @@ tags:
 
 When we have to ask ourselves why we still haven’t put anything out there yet, we say it’s because it’s not good enough. We pander — hesitating to tell our beloved others about what we’re up too. When we keep all of our messy drafts to ourselves. I’m starting to believe, though, that this is a gentle lie. The honest reason we stop ourselves from putting what we create out there is fear. A gnawing fear that what we do simply won’t matter.
 
-And it’s difficult to let go of that feeling without also letting go of your integrity. How can you both care deeply about your work and not care at all about its consequences? It’s paradoxical by nature.<figure class="wp-caption"> 
+And it’s difficult to let go of that feeling without also letting go of your integrity. How can you both care deeply about your work and not care at all about its consequences? It’s paradoxical by nature.
+<figure class="wp-caption"> 
 
 <img data-width="1291" data-height="1600" src="https://cdn-images-1.medium.com/max/600/1*JrrEv9EzE-tg0sNvgApNzg.jpeg" /> <figcaption class="wp-caption-text">Democritus by Hendrick ter Brugghen, 1628</figcaption></figure> 
 

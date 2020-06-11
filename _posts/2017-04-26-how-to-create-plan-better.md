@@ -12,9 +12,10 @@ tags:
   - Productivity
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
-<img data-width="2048" data-height="1536" src="https://cdn-images-1.medium.com/max/2560/1*NT3wGmhtWsqh_uQjtKkTPw.png" /> <figcaption class="wp-caption-text">**Compass Align** | <a href="https://commons.wikimedia.org/wiki/File:Compass_align.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="2048" data-height="1536" src="https://cdn-images-1.medium.com/max/2560/1*NT3wGmhtWsqh_uQjtKkTPw.png" /> <figcaption class="wp-caption-text"><b>Compass Align</b> | <a href="https://commons.wikimedia.org/wiki/File:Compass_align.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 #### Using the Internet and Bees
 
@@ -22,7 +23,7 @@ tags:
 
 But then nothing happens. I don’t end up posting anything. I grow older and eventually whither away, the end. _But why?_
 
-I’m not sure how familiar this will sound to you, but I’ve come to realize that I generally have **two modes** of operation. I’m either in the process of _creating_ things or _planning to_ create things.
+I’m not sure how familiar this will sound to you, but I’ve come to realize that I generally have <b>two modes</b> of operation. I’m either in the process of _creating_ things or _planning to_ create things.
 
 #### 1. Creating
 
@@ -50,9 +51,9 @@ That’s always been my problem: balance. Even when you’ve become competent wi
 
 Which leads to the two questions I want answered:   
  1) **How can good work be created consistently without burnout?  
- **2) **How can balance be found between creating and planning?**
+ <b>2) **How can balance be found between creating and planning?</b>
 
-* * *
+
 
 ### Reminders, Automation, and Graphs
 
@@ -75,20 +76,23 @@ Never in my life did I think I’d be advocating for a specific productivity too
 
 While I do still think that way, I also think Beeminder helps in a unique and powerful way. What makes it different?
 
-1) Keeping track of **systems** as opposed to **goals  
+1) Keeping track of <b>systems** as opposed to </b>goals  
  **2) Using integrations to enter updates automatically  
  3) Visually attractive and auto-generating graphs   
  4) Constant, yet helpful, reminders
 
-Here are a few of my personal examples of things I’m tracking:<figure> 
+Here are a few of my personal examples of things I’m tracking:
+<figure> 
 
 <img data-width="1005" data-height="545" src="https://cdn-images-1.medium.com/max/400/1*V1tvUNBUoI94dcaZpX51Ag.png" />  
-</figure> <figure> 
+</figure> 
+<figure> 
 
 <img data-width="1005" data-height="545" src="https://cdn-images-1.medium.com/max/400/1*Q9bSdpzLXYUludEF0nUsOw.png" />  
-</figure> <figure class="wp-caption"> 
+</figure> 
+<figure class="wp-caption"> 
 
-<img data-width="1005" data-height="545" src="https://cdn-images-1.medium.com/max/400/1*85cm2PJfkojmVQw0WYALzA.png" /> <figcaption class="wp-caption-text">**From Left-to-Right:** Tracking my French with Duolingo, my fitness with Runkeeper, and my productivity with RescueTime.</figcaption></figure> 
+<img data-width="1005" data-height="545" src="https://cdn-images-1.medium.com/max/400/1*85cm2PJfkojmVQw0WYALzA.png" /> <figcaption class="wp-caption-text"><b>From Left-to-Right:</b> Tracking my French with Duolingo, my fitness with Runkeeper, and my productivity with RescueTime.</figcaption></figure> 
 
 There’s something about looking at this kind of progress that’s so much more motivating than a series of crossed-out and completed tasks. With Beeminder, each success is added on top of the previous. You can see the accumulation of your progress, you can stockpile your victories. These graphs include helpful scientific data as well, such as variance between data points, delta values, and the Akrasia horizon.
 
@@ -96,7 +100,8 @@ It also bombardes you with reminders via email, sms and even Slack when you’re
 
 The most important part, though, is that Beeminder forces you to work gradually — linearly — as opposed to impulsively doing a bunch of work at once. You take the middle path and find balance, while also having the ability to slowly push yourself as time goes on.
 
-For more on Beeminder, visit their <a href="http://beeminder.com/" target="_blank" rel="noopener noreferrer"><em>website</em></a>.<figure> 
+For more on Beeminder, visit their <a href="http://beeminder.com/" target="_blank" rel="noopener noreferrer"><em>website</em></a>.
+<figure> 
 
 <img data-width="331" data-height="693" src="https://cdn-images-1.medium.com/max/600/1*8qAMU_21NfP7ER1REynnRA.png" />  
 </figure> 

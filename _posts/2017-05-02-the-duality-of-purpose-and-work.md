@@ -13,9 +13,10 @@ tags:
   - Self Improvement
   - Work
 ---
+
 <figure class="wp-caption"> 
 
-<img data-width="5532" data-height="3688" src="https://cdn-images-1.medium.com/max/2560/1*RijfP3sZSfQXb8V_43OzUA.jpeg" /> <figcaption class="wp-caption-text">**Person Making Clay Pot** | <a href="https://www.pexels.com/photo/ceramic-artisan-clay-mud-110144/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="5532" data-height="3688" src="https://cdn-images-1.medium.com/max/2560/1*RijfP3sZSfQXb8V_43OzUA.jpeg" /> <figcaption class="wp-caption-text"><b>Person Making Clay Pot</b> | <a href="https://www.pexels.com/photo/ceramic-artisan-clay-mud-110144/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 #### How to effectively go about doing what’s truly important.
 
@@ -34,7 +35,7 @@ It is important to understand the context of where you currently stand in histor
 
 At the same time, you must not be rigid with your objectives, either. Do not let pride get in your way — redirect your efforts if you need too. Being agile is far more intelligent than abandoning your efforts altogether and starting from square one.
 
-* * *
+
 
 **PART TWO: ELIMINATING EVERYTHING NON-ESSENTIAL  
 ** Simply understanding what you want to accomplish will not allow you to actually get it done. The _what_ of work is doing the technical and nitty-gritty, which is the contrary of the initial motivating and lofty goals.
@@ -51,7 +52,7 @@ Similarly, push yourself to sticking to one tab or application open at a time. S
 
 A lot of people say they simply don’t have the time in their schedules to devote themselves so deeply to something. But the truth of the matter is that even if you have other responsibilities, you can fit this work into your calendar by understanding and eliminating the time you’re currently wasting — because we all waste time.
 
-**CONCLUSION:**  
+<b>CONCLUSION:</b>  
 I believe we’re all given the opportunity to achieve goodness in the world that’s beyond ourselves — whether it’s in small ways or big ways. We’re all born being good at something — technical or creative — and with an intense curiosity of the world we live in.
 
 It is far too easy to veer off the path of pioneering, to instead be comfortable with letting life pass us by. I believe that we can make the conscious decision to change that — at any point in our lives — and instead <a href="https://medium.com/@brennanbrown/our-finite-everything-8ed4d9d70a2f" target="_blank" rel="noopener noreferrer">aspire to greatness</a>. All it takes is a little courage, and a lot of reckless abandon.

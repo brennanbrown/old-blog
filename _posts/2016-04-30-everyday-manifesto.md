@@ -13,13 +13,14 @@ tags:
   - Life Lessons
   - Manifesto
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="2810" data-height="1689" src="https://cdn-images-1.medium.com/max/2560/1*qj4-mO3Y1D5pWQJ0VDlWXQ.jpeg" /> <figcaption class="wp-caption-text">Books to be returned… | <a href="https://www.flickr.com/photos/hashir/936394705" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 #### An open-source guide on how I try to live my life.
 
-* * *
+
 
 ### Preface
 
@@ -39,7 +40,7 @@ I suppose, what I’m getting at, is that there’s no reason for you to read th
 
 This isn’t an article on lifehacking or productivity, as much as it might appear that way.
 
-* * *
+
 
 ### Premise
 
@@ -63,44 +64,44 @@ Similar to the idea of a <a href="http://wayoftheduck.com/codex-vitae" target="_
 
 #### Today is the first day of the rest of your life. Remember that.
 
-**I. Focus**
+<b>I. Focus</b>
 
-  * **Read this outloud**, before you do anything else today.
-  * **Meditate**, if only for a few moments, on what is important.
-  * **Practice mindfulness**, don’t allow yourself to slip up ‘just because’.
-  * **Be grateful** for all that you have in life.
-  * **Take baby steps**, you don’t have to do everything today, just some good.
-  * **Believe in yourself**, it’s the most powerful thing you can do.
+  * <b>Read this outloud</b>, before you do anything else today.
+  * <b>Meditate</b>, if only for a few moments, on what is important.
+  * <b>Practice mindfulness</b>, don’t allow yourself to slip up ‘just because’.
+  * <b>Be grateful</b> for all that you have in life.
+  * <b>Take baby steps</b>, you don’t have to do everything today, just some good.
+  * <b>Believe in yourself</b>, it’s the most powerful thing you can do.
 
-**II. Take Care of Yourself**
+<b>II. Take Care of Yourself</b>
 
-  * **Drink water** and coffee only. No soda or juice.
-  * **Eat healthy**, including vegetables, legumes, whole-wheat.
-  * **Don’t eat unhealthy**, including processed foods and glucose-fructose.
-  * **Stretch**, if only for a few moments, don’t make a big deal out of it.
-  * **Floss** when you brush your teeth, twice a day.
-  * **Seek inspiration**, if you’re feeling down.
-  * **Take a walk outside**, if only for a few moments, get your blood pumping.
-  * **Forgive yourself**, remember you’re loved, it’s not the end of the world.
+  * <b>Drink water</b> and coffee only. No soda or juice.
+  * <b>Eat healthy</b>, including vegetables, legumes, whole-wheat.
+  * <b>Don’t eat unhealthy</b>, including processed foods and glucose-fructose.
+  * <b>Stretch</b>, if only for a few moments, don’t make a big deal out of it.
+  * <b>Floss</b> when you brush your teeth, twice a day.
+  * <b>Seek inspiration</b>, if you’re feeling down.
+  * <b>Take a walk outside</b>, if only for a few moments, get your blood pumping.
+  * <b>Forgive yourself</b>, remember you’re loved, it’s not the end of the world.
 
-**III. Organize and Create**
+<b>III. Organize and Create</b>
 
-  * **Start a Pomodoro Timer**, see how many you can accomplish today.
-  * **Review your to-do list** from last night, or make one as soon as you get up.
-  * **Review your** <a href="https://medium.com/everyday-essays/16-rules-of-journaling-i-ve-learned-after-5-years-2b70dbac4328#.lkv8j6npl" target="_blank" rel="noopener noreferrer"><strong>journal template</strong></a>, complete each section.
-  * **Work on something important**, be it a project, a relationship or yourself.
-  * **Learn something new**, continue an online course or read a book.
+  * <b>Start a Pomodoro Timer</b>, see how many you can accomplish today.
+  * <b>Review your to-do list</b> from last night, or make one as soon as you get up.
+  * <b>Review your</b> <a href="https://medium.com/everyday-essays/16-rules-of-journaling-i-ve-learned-after-5-years-2b70dbac4328#.lkv8j6npl" target="_blank" rel="noopener noreferrer"><strong>journal template</strong></a>, complete each section.
+  * <b>Work on something important</b>, be it a project, a relationship or yourself.
+  * <b>Learn something new</b>, continue an online course or read a book.
 
-**IV. Take Care of Your Surroundings**
+<b>IV. Take Care of Your Surroundings</b>
 
   * <a href="https://medium.com/everyday-essays/zen-of-housekeeping-cfd37efb744d#.8ro0dboxf" target="_blank" rel="noopener noreferrer"><strong>Clean and tidy up</strong></a>, make sure you check every room.
-  * **Block distractions**, put your phone on airplane mode.
+  * <b>Block distractions</b>, put your phone on airplane mode.
 
-**V. Go to Bed**
+<b>V. Go to Bed</b>
 
-  * **Darken your surroundings**, turn off all screens an hour before going to sleep.
-  * **Review the day**, celebrate what good you did and contemplate where you can improve. Write down anything interesting. Meditate on what you want to do tomorrow.
+  * <b>Darken your surroundings</b>, turn off all screens an hour before going to sleep.
+  * <b>Review the day</b>, celebrate what good you did and contemplate where you can improve. Write down anything interesting. Meditate on what you want to do tomorrow.
 
-* * *
+
 
 <https://powered.by.rabbut.com/da4f511c-b320-4ca0-afd0-d5329614ca1b?c=8>

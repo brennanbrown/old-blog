@@ -13,11 +13,13 @@ tags:
   - Life
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="1600" data-height="1245" src="https://cdn-images-1.medium.com/max/2560/1*nuBzm4epWYIbgNFs2DwHjg.jpeg" /> <figcaption class="wp-caption-text">Impression, Sunrise | <a href="https://en.wikipedia.org/wiki/Impression,_Sunrise#/media/File:Claude_Monet,_Impression,_soleil_levant.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
-#### Finding the Middle Way and unlearning anxiety.<figure class="wp-caption"> 
+#### Finding the Middle Way and unlearning anxiety.
+<figure class="wp-caption"> 
 
 <img data-width="1443" data-height="1039" src="https://cdn-images-1.medium.com/max/600/1*6qt6Gxnss1KtzPeeZGEE1A.jpeg" /> <figcaption class="wp-caption-text">Soria Moria | <a href="https://en.wikipedia.org/wiki/Quest#/media/File:Theodor_Kittelsen,_Soria_Moria.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
@@ -27,7 +29,7 @@ My 20th birthday is only eleven days away. I don’t know if this is a milestone
 
 Hopefully, I’m pushing myself the right direction.
 
-* * *
+
 
 <span>L</span>ooking back at what I’ve written so far on Medium, I honestly can’t say I like much of it. I’ve been writing like crazy — over a complete article per day — for around two weeks now.
 
@@ -48,7 +50,8 @@ But even then I look at what I have with discontent. Too much navel-gazing and n
 
 To add, in the future, I might write up a formal code of conduct for the publication in general. But for now, being actively mindful of these things is good enough.
 
-* * *<figure class="wp-caption"> 
+
+<figure class="wp-caption"> 
 
 <img data-width="3872" data-height="2592" src="https://cdn-images-1.medium.com/max/800/1*iFy1zAfyOOM4KOUDVqusuw.jpeg" /> <figcaption class="wp-caption-text">Untiled | <a href="https://www.pexels.com/photo/painting-black-paint-roller-8614/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
@@ -61,7 +64,7 @@ When I find myself in a creative — or rather, manic — state, I usual
 
 I want to stop needlessly forcing myself into these two extremes — an important concept in Guatama Buddhism is the <a href="https://en.wikipedia.org/wiki/Middle_Way" target="_blank" rel="noopener noreferrer">Middle Way</a> — and I also want to stop myself from seizing up with fear of failure (or success?) and finish projects I start.
 
-* * *
+
 
 #### Rainy Night Inspiration
 
@@ -79,7 +82,7 @@ At the same time, I recognize that I’m not really an adult, yet. And that I’
 
 Not all of us have the ability to do what we actually want — which is exactly why it’s so infuriating to see those who _do_ have the ability flounder and ignore it.
 
-* * *
+
 
 I can try my best to create preventive measures and actively attempt to keep myself on track — I can announce that I’ll be working more on the projects I’ve abandoned , or new ones — but none of that matters. Silently doing hard work does.
 

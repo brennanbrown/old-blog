@@ -12,6 +12,7 @@ tags:
   - Life Lessons
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="1428" data-height="1098" src="https://cdn-images-1.medium.com/max/2560/1*GY915AdPnbSpPbeb93Y-SQ.jpeg" /> <figcaption class="wp-caption-text">HES on an IBM 2250 Mod 4 | <a href="https://en.wikipedia.org/wiki/Light_pen#/media/File:HypertextEditingSystemConsoleBrownUniv1969.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
@@ -36,7 +37,7 @@ While this personally disappointed me initially, I do not think it’s a bad thi
 
 But this isn’t what blogging should be. Idealistically — and perhaps personally — I believe that writing things you’re passionate about is all that matters at the end of the day. That is the definition of successful blogging.
 
-* * *
+
 
 #### Helpful Tips
 

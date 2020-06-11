@@ -46,7 +46,9 @@ If you would like to contribute, I'd guide you to the [Contribution Page](https:
 I'm a strong advocate for open-source, including realms beyond software. Because of this, all of my writing on this blog is under Creative Commons. 
 
 Specifically, this means that you may use or reuse anything I create (including for commercial reasons), under the conditions that you attribute me and use the same license!
-    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
 <span>Notebook de Casa</span> by <a href="https://notebook.casa" rel="cc:attributionURL">Brennan K. Brown</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
 
 The web design and code for this repository are written under the GNU General Public License v3

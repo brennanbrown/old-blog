@@ -12,11 +12,12 @@ tags:
   - Journaling
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="4272" data-height="2848" src="https://cdn-images-1.medium.com/max/2560/1*eAXPyxpGwlXIqYyJvTEt3w.jpeg" /> <figcaption class="wp-caption-text">Writer Friend Caught in Action | <a href="https://www.flickr.com/photos/iamroco/6880096005" target="_blank" rel="noopener noreferrer">Credit</a></figcaption></figure> 
 
-* * *
+
 
 #### A Case Study
 
@@ -24,7 +25,8 @@ tags:
 
 But my own writing is so chicken-scratch that I never found physically keeping a diary as viable. As an alternative, I’ve tried a variety of different apps instead. These include <a href="https://penzu.com" target="_blank" rel="noopener noreferrer">Penzu</a>, <a href="http://dayoneapp.com/" target="_blank" rel="noopener noreferrer">Day One</a> and <a href="http://2appstudio.com/journey/web/" target="_blank" rel="noopener noreferrer">Journey</a>.
 
-While I enjoy their design and functionality, what I’ve always come back to for the past five years is <a href="http://750words.com/" target="_blank" rel="noopener noreferrer">750words</a>. What differentiates it is how it’s modeled around the <a href="https://badgeville.com/wiki/Gamification" target="_blank" rel="noopener noreferrer">gamification </a>of the writing process. It keeps a stark and obvious track of your progress and emphasizes the importance of writing _every day_. In addition to this, I can’t help but use it for the fact that the majority of my entries are exclusively on it, and it has a fairly decent search and export system.<figure class="wp-caption"> 
+While I enjoy their design and functionality, what I’ve always come back to for the past five years is <a href="http://750words.com/" target="_blank" rel="noopener noreferrer">750words</a>. What differentiates it is how it’s modeled around the <a href="https://badgeville.com/wiki/Gamification" target="_blank" rel="noopener noreferrer">gamification </a>of the writing process. It keeps a stark and obvious track of your progress and emphasizes the importance of writing _every day_. In addition to this, I can’t help but use it for the fact that the majority of my entries are exclusively on it, and it has a fairly decent search and export system.
+<figure class="wp-caption"> 
 
 <img data-width="736" data-height="784" src="https://cdn-images-1.medium.com/max/800/1*S44lZ3M5rINNKoTQ6Roj8Q.png" /> <figcaption class="wp-caption-text">There’s a surprising feeling of gratification when viewing your stats.</figcaption></figure> 
 
@@ -42,7 +44,7 @@ And I wanted to share them with you.
 
 But before I get into that, I want to argue the importance of having a journal — and writing in it daily — in the first place.
 
-* * *
+
 
 #### Why Journal Anyways?
 
@@ -56,7 +58,7 @@ The point is that it’s all in hindsight, that you need to go somewhere in orde
 
 By writing every day — even about the ‘boring stuff’—you’ll eventually come across an epiphany you wouldn’t have had otherwise. Imagine each individual entry as a seed; many might not fully bloom, or even germinate, but you’ll still have a far bigger forest rather than if you just went straight for the jugular. You reap what you sow, after all.
 
-* * *
+
 
 ### The Rules
 
@@ -64,31 +66,31 @@ By writing every day — even about the ‘boring stuff’—you’ll eventu
 
 Although at first it may seem trivial to care so much about organizing what you write, but as time goes on you’ll eventually have a large bulk of information. I can’t even recollect how much of my own writing I’ve lost from switching to a new computer or cloud service.
 
-  1. **Simplify with modules.** Set up sections of journaling that are important, useful and specific. Some of the most popular ones are a gratitude journal or idea journal.
-  2. **Track thyself with meaning.** Figure out what’s important to quantify, and quantify it often. Add a separate module for logs, like your fitness or emotional levels.
-  3. **Be consistent.** Use the same file and folder system universally. Use the same modules and syntax universally.
-  4. **Redundantly backup everything.** Print your entries, have a local USB drive of everything, a cloud backup and an online published website of your entries. There’s no such thing as too many backups.
-  5. **Keep a template.** In order to kickstart your journal and properly utilize modules. Mine is constantly changing, but you can view it (and copy it) <a href="https://gist.github.com/brennanbrown/d35c80a84f35d5fa9fa6" target="_blank" rel="noopener noreferrer">here</a>.
-  6. **Learn and use** <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank" rel="noopener noreferrer"><strong>Markdown</strong></a>**.** It might be tempting to use a _.doc_ or a_ .odt_ when saving your work, but learning a simple markup language and saving your entries in plain text will save you a lot of space, compatibility and avoided corrupted files in the future.
+  1. <b>Simplify with modules.</b> Set up sections of journaling that are important, useful and specific. Some of the most popular ones are a gratitude journal or idea journal.
+  2. <b>Track thyself with meaning.</b> Figure out what’s important to quantify, and quantify it often. Add a separate module for logs, like your fitness or emotional levels.
+  3. <b>Be consistent.</b> Use the same file and folder system universally. Use the same modules and syntax universally.
+  4. <b>Redundantly backup everything.</b> Print your entries, have a local USB drive of everything, a cloud backup and an online published website of your entries. There’s no such thing as too many backups.
+  5. <b>Keep a template.</b> In order to kickstart your journal and properly utilize modules. Mine is constantly changing, but you can view it (and copy it) <a href="https://gist.github.com/brennanbrown/d35c80a84f35d5fa9fa6" target="_blank" rel="noopener noreferrer">here</a>.
+  6. <b>Learn and use** <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank" rel="noopener noreferrer"><strong>Markdown</strong></a>**.</b> It might be tempting to use a _.doc_ or a_ .odt_ when saving your work, but learning a simple markup language and saving your entries in plain text will save you a lot of space, compatibility and avoided corrupted files in the future.
 
 #### Writing
 
-  1. **Write with meaning.** Be mindful about what content you’re journaling about, don’t get caught up in meaningless minutia. Ask yourself _“what will be important to look back on?”_.
-  2. **Don’t ever self-censor.** There’s no point of writing in a private journal if you’re not going to express your true feelings, your true self.
-  3. **Value positivity over negativity.** That said, don’t let your emotions get the better of you. Don’t speak ill about people — especially those that care about you — unless you intend on burning it right after.
-  4. **Never be afraid of being honest.** Understand that anybody could eventually read what you write.
-  5. **Always have your ego checked.** Understand that nobody could read what you write. Don’t fabricate your grandiosity, be humble and kind.
-  6. **Follow the Zen.** I was pretty surprised to discover how much of <a href="https://www.python.org/dev/peps/pep-0020/" target="_blank" rel="noopener noreferrer">PEP 20</a> can be applied to writing, and I often keep it in mind.
-  7. **Open-source yourself.** To continue to take influence from programming, be open to the idea of allowing your writing to the <a href="https://creativecommons.org/" target="_blank" rel="noopener noreferrer">creative commons</a>, so that future generations may be able to build on your ideas.
-  8. **Be wary of burnout.** I confess that I won’t write 750 words a day, I found that attempting too was one of the main causes of me skipping so many days. They say that you should practice in small doses rather than large, sporadic bursts. I think the same can be said about writing.
-  9. **Love your past self.** It’s safe to say that there’s a universal feeling of cringing when you read your past work. How naïve you were, how silly you thought your opinions were. But it’s essential to get past this and treat yourself with empathy.
- 10. **Accumulate and review.** Once you’re able to look at your previous entries without burning them, it’s a good idea to look at them on a weekly or monthly basis. Take the highlights from them and maybe start a review to see how far along you’re coming
+  1. <b>Write with meaning.</b> Be mindful about what content you’re journaling about, don’t get caught up in meaningless minutia. Ask yourself _“what will be important to look back on?”_.
+  2. <b>Don’t ever self-censor.</b> There’s no point of writing in a private journal if you’re not going to express your true feelings, your true self.
+  3. <b>Value positivity over negativity.</b> That said, don’t let your emotions get the better of you. Don’t speak ill about people — especially those that care about you — unless you intend on burning it right after.
+  4. <b>Never be afraid of being honest.</b> Understand that anybody could eventually read what you write.
+  5. <b>Always have your ego checked.</b> Understand that nobody could read what you write. Don’t fabricate your grandiosity, be humble and kind.
+  6. <b>Follow the Zen.</b> I was pretty surprised to discover how much of <a href="https://www.python.org/dev/peps/pep-0020/" target="_blank" rel="noopener noreferrer">PEP 20</a> can be applied to writing, and I often keep it in mind.
+  7. <b>Open-source yourself.</b> To continue to take influence from programming, be open to the idea of allowing your writing to the <a href="https://creativecommons.org/" target="_blank" rel="noopener noreferrer">creative commons</a>, so that future generations may be able to build on your ideas.
+  8. <b>Be wary of burnout.</b> I confess that I won’t write 750 words a day, I found that attempting too was one of the main causes of me skipping so many days. They say that you should practice in small doses rather than large, sporadic bursts. I think the same can be said about writing.
+  9. <b>Love your past self.</b> It’s safe to say that there’s a universal feeling of cringing when you read your past work. How naïve you were, how silly you thought your opinions were. But it’s essential to get past this and treat yourself with empathy.
+ 10. <b>Accumulate and review.</b> Once you’re able to look at your previous entries without burning them, it’s a good idea to look at them on a weekly or monthly basis. Take the highlights from them and maybe start a review to see how far along you’re coming
 
 #### An Enticing Disclaimer
 
 These are just my own personal beliefs. I think it’s important for me to say you shouldn’t take them or anyone else as dogma. Feel free to pick and choose what you think would work for you. Even add your own and make your own article based off of this one, it’s no skin off of my teeth.
 
-* * *
+
 
 #### Further Readings
 

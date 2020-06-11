@@ -11,6 +11,7 @@ categories:
 tags:
   - Social Media
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="724" data-height="593" src="http://lastremark.files.wordpress.com/2016/03/b27dd-1xywi_zji8usbrfpjjjpifq.jpeg" /> <figcaption class="wp-caption-text"><a href="http://www.itsnicethat.com/news/medium-launch-new-identity" target="_blank" rel="noopener noreferrer">Medium new logo development sketches.</a></figcaption></figure> 
@@ -25,9 +26,10 @@ Perhaps I just have a biased scope, but I find new social media companies have a
 
 This — by itself—isn’t worth much note. There will always be critics. What’s noteworthy is when it gets weird — when this group actually becomes popular on the platform. Causing a weird sort of meta-dialogue.
 
-* * *
 
-### Case Study: YouTube<figure> 
+
+### Case Study: YouTube
+<figure> 
 
 <img data-width="592" data-height="362" src="http://lastremark.files.wordpress.com/2016/03/01e1d-1sfmhnll87y2l1cf2msbqsa.png" />  
 </figure> 
@@ -44,7 +46,7 @@ What _is_ worth noting is how these issues have caused a rise in channels that a
 
 Of course, there’s not a lot _I_ can do. I’m just another voice in the wind that won’t get heard. And once you realize you can be OK with that, you are not just liberated, but <a href="https://medium.com/@brennanbrown/into-the-void-dd7b8df175e6#.e0z3mtdk0" target="_blank" rel="noopener noreferrer">enlightened</a>.
 
-* * *
+
 
 ### Endgame?
 

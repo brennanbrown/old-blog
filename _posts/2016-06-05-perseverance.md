@@ -13,6 +13,7 @@ tags:
   - Motivation
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="1024" data-height="1024" src="https://cdn-images-1.medium.com/max/2560/1*gOPHnDuL6V-szlp_ytcYdA.jpeg" /> <figcaption class="wp-caption-text">Boy Running | <a href="https://www.flickr.com/photos/streetmatt/18852890883" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
@@ -59,7 +60,7 @@ The world doesn’t care if we choose to have a positive outlook or a negative o
 
 And this optimism cannot come from a safe and comfortable position, either. True optimism can only exist against hardships and improbabilities. You might have others around you that don’t believe in you — or even worse, try to shut you down — but only from their doubt can hope arise.
 
-* * *
+
 
 #### Writing
 

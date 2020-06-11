@@ -13,6 +13,7 @@ tags:
   - Productivity
   - Time Management
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="1024" data-height="768" src="https://cdn-images-1.medium.com/max/2560/1*2dK5YU30aMy_vydYBeF3NQ.jpeg" /> <figcaption class="wp-caption-text">Time is Running Out | <a href="https://www.flickr.com/photos/romainguy/8219397252" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
@@ -28,7 +29,7 @@ The four D’s of effectiveness:
   * _Determination _— Have the grit needed to not give up.
   * _Discipline _— Cultivate yourself in the long-term.
 
-* * *
+
 
   * Do what you can, with what you have, where you are.
   * _Law of Control_ states that the amount of self-worth is determined by how in control we feel we are of our lives.
@@ -75,7 +76,7 @@ Planning for goal achievement. Clarity is the next more important aspect of plan
   * What additional skills, knowledge or information is needed to achieve my goal?
   * What help do I need from others to achieve my goal? Of all the help I could ask for, what would be the most effective?
 
-* * *
+
 
   * Create a visual (a PERT chart) landscape to see what goals you need to accomplish in order to reach newer ones. Chart things out and set clear goals for everyone.
 
@@ -91,7 +92,7 @@ Once you have written out what you want to accomplish it, assign it a label from
   * D is for things that can be _delegated_ to somebody else.
   * E is for things that can be _eliminated_, or your ‘not to-do’ list.
 
-* * *
+
 
   * Set clear priorities, use the law of three.
   * Stay on track. Ask yourself what the most valuable way to spend your time is right at the moment.

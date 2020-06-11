@@ -13,6 +13,7 @@ tags:
   - Meditation
   - Mindfulness
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="4272" data-height="2848" src="https://cdn-images-1.medium.com/max/2560/1*SiMWB0AtPxhVNjzB4UBVmA.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/time-train-station-clock-deadline-4090/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
@@ -21,7 +22,7 @@ tags:
 
 <https://medium.com/p/2546b44b9804>
 
-* * *
+
 
 <span>S</span>tudies show that <a href="http://time.com/9912/10-things-your-commute-does-to-your-body/" target="_blank" rel="noopener noreferrer">longer commute times</a> cause a number of negative physical and mental effects in some people. This makes sense — what feeling is worse than the excruciating wait of early morning traffic?
 
@@ -29,7 +30,7 @@ While some of us simply have no control over the amount of time, we do have cont
 
 This time is also only a small fraction where we feel as though we’re _waiting for something_. Whether it’s waiting in line, or doing household chores, or on a boring lunch break — we have the urge of waiting for this time to be over. To be able to get to a more interesting part of the day.
 
-I think this is an absolute, terrible **mistake**. If you add all of these moments throughout a lifetime you end up with hours of unused life.
+I think this is an absolute, terrible <b>mistake</b>. If you add all of these moments throughout a lifetime you end up with hours of unused life.
 
 Our most-used remedy for this is the attention equivalent of fast food — mindlessly and endlessly scrolling through social media or checking superficial e-mails.
 
@@ -49,7 +50,7 @@ For most people, our best ideas come when we’re unable to distract ourselves w
 
 This is due to what’s generally held as the <a href="https://staciechoice1010.wordpress.com/2014/08/08/focused-vs-diffused-mode/" target="_blank" rel="noopener noreferrer">focused versus diffused</a> mindset. Our mind is only able to truly synthesize ideas when we’re not actively doing a task at hand. However, for most people currently, that’s only when sleeping. And even then, people are depriving themselves of that <a href="http://www.cdc.gov/features/dssleep/" target="_blank" rel="noopener noreferrer">basic need</a>.
 
-* * *
+
 
 A lot of people prioritize spending quality time with either the people they love or doing something they’re passionate about, but I don’t think enough people realize it’s just as important to strive for quality time with _themselves_.
 

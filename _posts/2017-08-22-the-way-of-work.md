@@ -13,6 +13,7 @@ tags:
   - Motivation
   - Work
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="4739" data-height="3158" src="https://cdn-images-1.medium.com/max/2560/1*lWBvcW92AIgHjktntIyRNg.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://pixnio.com/miscellaneous/architect-work-desk-drawings-blueprint" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 

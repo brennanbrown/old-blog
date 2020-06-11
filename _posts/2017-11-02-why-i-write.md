@@ -15,9 +15,10 @@ tags:
   - Ideas
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
-<img data-width="5248" data-height="3749" src="https://cdn-images-1.medium.com/max/2560/1*zSFvmSSEmtm9KVl6lo7RRQ.jpeg" /> <figcaption class="wp-caption-text">**Writing Hand, Black & White** | <a href="https://pxhere.com/en/photo/109282" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="5248" data-height="3749" src="https://cdn-images-1.medium.com/max/2560/1*zSFvmSSEmtm9KVl6lo7RRQ.jpeg" /> <figcaption class="wp-caption-text"><b>Writing Hand, Black & White</b> | <a href="https://pxhere.com/en/photo/109282" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 #### Death, Meaningless Ideas, Timeless Work, and Paper
 
@@ -35,7 +36,7 @@ Contrary to what you might think, those questions are irrelevant. Trying to setu
 
 Instead, there’s only right now.
 
-> “Your **future** is created by what **you do today**, **not tomorrow**.” — Robert Kiyosaki.
+> “Your <b>future** is created by what **you do today**, **not tomorrow</b>.” — Robert Kiyosaki.
 
 Sometimes I find myself worrying what’s ultimately become meaningless in a few months or less. When I do, I try to take a step back and look at the larger picture. That’s where meditation on death is both important and helpful.
 
@@ -70,7 +71,7 @@ This is important to note, because so much work is created that only makes sense
 
 As we see an evolution in differently growing media, a new era of democratic art, we still look back at the good work that was created centuries and millennium ago. Understand the difference between writing a shallow piece that tackles onto something popular, versus engaging it. Make great satire, critically analyze, share emotion. The important thing to remember, though, is a sense of universality. The commonality between all of humanity is the secret — and clearly simple — ingredient.
 
-* * *
+
 
 #### Why? Paper.
 

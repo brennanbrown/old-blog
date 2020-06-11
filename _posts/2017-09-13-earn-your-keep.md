@@ -11,13 +11,14 @@ categories:
 tags:
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
-<img data-width="1920" data-height="1440" src="https://cdn-images-1.medium.com/max/2560/1*YdpsLvQDB4I90ygLeDZ_Jg.jpeg" /> <figcaption class="wp-caption-text">**Type Typewriter** | <a href="https://pixabay.com/en/type-typewriter-font-writing-1161952/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1920" data-height="1440" src="https://cdn-images-1.medium.com/max/2560/1*YdpsLvQDB4I90ygLeDZ_Jg.jpeg" /> <figcaption class="wp-caption-text"><b>Type Typewriter</b> | <a href="https://pixabay.com/en/type-typewriter-font-writing-1161952/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 #### Past and Future Writing
 
-<span>W</span>**HETHER WE WANT TO OR NOT**, we leave our <a href="https://medium.com/@brennanbrown/why-write-500f8ab18f6a" target="_blank" rel="noopener noreferrer">footprint</a> on the world — particularly a digital one. We leave a <a href="https://medium.com/@brennanbrown/afterwards-24b7e2285f54" target="_blank" rel="noopener noreferrer">legacy scattered</a> across the Internet. And I believe this is a truly marvellous thing. As I’ve written in the past, I believe the Internet is still an exciting <a href="https://medium.com/@brennanbrown/on-second-thought-c915319d8516" target="_blank" rel="noopener noreferrer">new frontier</a> for anybody to find their voice. A place where anybody can stop being a consumer and start being a creator. But what exactly are you going to create? That’s the question I’ve been struggling with since I began blogging.
+<span>W</span><b>HETHER WE WANT TO OR NOT</b>, we leave our <a href="https://medium.com/@brennanbrown/why-write-500f8ab18f6a" target="_blank" rel="noopener noreferrer">footprint</a> on the world — particularly a digital one. We leave a <a href="https://medium.com/@brennanbrown/afterwards-24b7e2285f54" target="_blank" rel="noopener noreferrer">legacy scattered</a> across the Internet. And I believe this is a truly marvellous thing. As I’ve written in the past, I believe the Internet is still an exciting <a href="https://medium.com/@brennanbrown/on-second-thought-c915319d8516" target="_blank" rel="noopener noreferrer">new frontier</a> for anybody to find their voice. A place where anybody can stop being a consumer and start being a creator. But what exactly are you going to create? That’s the question I’ve been struggling with since I began blogging.
 
 I think this is a problem common to a lot of people that want to begin, they don’t know _where_ to start. We all want our work to be creative and interesting — to be read by people all over the world. It can be a struggle to find what exactly makes us unique — we’re all just a drop in an ocean.  
 More than that, though, it can be an even harder struggle to find a topic we have enough authority to talk about. Everybody suffers from <a href="https://en.wikipedia.org/wiki/Impostor_syndrome" target="_blank" rel="noopener noreferrer">impostor syndrome</a>. That’s not even mentioning that it should be enjoyable, right? You want to be passionately working without it feeling like work.
@@ -38,9 +39,10 @@ And I believe there’s a common string between everything I’ve written so far
 
 Soon, I’ll be migrating to a new location. Despite it’s many changes over the years, I still enjoy Medium, and I’ll be cross-posting to it after I migrate. But I think having a piece of personally owned real-estate on the internet is important. Particularly as a web developer — and having the ability to create something of my own.
 
-* * *<figure class="wp-caption"> 
 
-<img data-width="3200" data-height="1800" src="https://cdn-images-1.medium.com/max/2560/1*gGpYbkly-KMqLAkcUKBKqA.jpeg" /> <figcaption class="wp-caption-text">**Brown Dwarf Backyardigans** | <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17259" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<figure class="wp-caption"> 
+
+<img data-width="3200" data-height="1800" src="https://cdn-images-1.medium.com/max/2560/1*gGpYbkly-KMqLAkcUKBKqA.jpeg" /> <figcaption class="wp-caption-text"><b>Brown Dwarf Backyardigans</b> | <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17259" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 ### Addendum: The Future
 

@@ -13,9 +13,10 @@ tags:
   - Memories
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
-<img data-width="2272" data-height="1704" src="https://cdn-images-1.medium.com/max/2560/1*fK7wCMIJlHQPIWlzQPP7iQ.jpeg" /> <figcaption class="wp-caption-text">**Desk Auditorium** | <a href="https://pxhere.com/en/photo/1009335" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="2272" data-height="1704" src="https://cdn-images-1.medium.com/max/2560/1*fK7wCMIJlHQPIWlzQPP7iQ.jpeg" /> <figcaption class="wp-caption-text"><b>Desk Auditorium</b> | <a href="https://pxhere.com/en/photo/1009335" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 #### Trying to Understand the Democracy of the Internet
 
@@ -92,6 +93,6 @@ It’s impossible to actually know if anything you create will be utilized the w
 
 Anyways, I’m going to bed. So I think I’ll end it there. Stay tuned for more questionable writing tomorrow.
 
-* * *
+
 
 > Current Word Count: 6,575

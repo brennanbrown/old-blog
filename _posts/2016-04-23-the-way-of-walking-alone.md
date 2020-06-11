@@ -13,6 +13,7 @@ tags:
   - Japanese Culture
   - Lifestyle
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="1500" data-height="1065" src="https://cdn-images-1.medium.com/max/2560/1*pl9fTlfxyBUAVYmHj_lkkg.jpeg" /> <figcaption class="wp-caption-text">_Kaijo no Fuji | _<a href="https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa#/media/File:Hokusai_100_Ansichten_Kaij%C3%B4_no_Fuji.jpg" target="_blank" rel="noopener noreferrer"><em>Source</em></a></figcaption></figure> 
@@ -31,14 +32,14 @@ One work that particularly caught my attention was a list of precepts entitled t
   2. You are a tiny speck in an infinite universe.
   3. You have a plethora of options in front of you today.
 
-* * *
+
 
   1. Start living. Beginning this very moment.
   2. Cultivate a burning ambition for success.
   3. Sacrifice what it takes to achieve results.
   4. Apply overwhelming force.
 
-* * *
+
 
   1. Be content with losing everything except your principles.
   2. Constantly pursue knowledge.
@@ -52,7 +53,7 @@ One work that particularly caught my attention was a list of precepts entitled t
  10. Always respect, but do not hold expectations.
  11. Nothing is ‘risk-free’.
 
-* * *
+
 
   1. Do not think the world cares if you are tired.
   2. Do not take anything for granted.
@@ -70,7 +71,7 @@ One work that particularly caught my attention was a list of precepts entitled t
  14. Do not allow yourself to become comfortable.
  15. Do not assume your actions will have beneficial outcomes.
 
-* * *
+
 
   1. Be detached from desire your whole long life.
   2. Resentment and complaint are not appropriate from oneself nor others.
@@ -82,7 +83,7 @@ One work that particularly caught my attention was a list of precepts entitled t
   8. Always be thankful; Communicate it.
   9. Always be complimentary; Communicate it.
 
-* * *
+
 
   1. Measure the consequences.
   2. Never stray away from The Way.

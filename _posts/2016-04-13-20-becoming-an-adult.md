@@ -13,6 +13,7 @@ tags:
   - Life
   - Writing
 ---
+
 <figure class="wp-caption"> 
 
 <img data-width="4979" data-height="3780" src="https://cdn-images-1.medium.com/max/2560/1*eDI4DFA4_VGRjo47nVx5rA.jpeg" /> <figcaption class="wp-caption-text">The Birthday Cake | <a href="https://commons.wikimedia.org/wiki/File:The_birthday_cake.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
@@ -25,7 +26,8 @@ Of course, trying to view such a tradition from such an abstract mindset is real
 
 But no amount of logically arguing the physical _realness_ of birthdays — with myself — can change the fact that they exist. And instead, my time is better off being used thinking about life so far.
 
-* * *<figure class="wp-caption"> 
+
+<figure class="wp-caption"> 
 
 <img data-width="1920" data-height="1272" src="https://cdn-images-1.medium.com/max/600/1*2ph-KhlCsBuPZsz8pK4l9A.jpeg" /> <figcaption class="wp-caption-text">Birthday Candles | <a href="http://www.publicdomainpictures.net/view-image.php?image=22538" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
@@ -45,7 +47,8 @@ All that being said, I don’t regret procrastinating homework or moving school-
 
 The earlier you can realize that your career, your material possessions, your clout or anything else are completely dwarfed by the importance of quality time with others, the better.
 
-* * *<figure class="wp-caption"> 
+
+<figure class="wp-caption"> 
 
 <img data-width="1200" data-height="899" src="https://cdn-images-1.medium.com/max/800/1*XnoPFhKjNyb2RDkX7mRdfw.jpeg" /> <figcaption class="wp-caption-text">Colored Balloons | <a href="http://torange.biz/42286.html" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
@@ -68,7 +71,7 @@ As a lyric from a _The Mountain Goats_ song goes:
 > Making contact gets harder as the silence grows longer,  
 > And isn’t it only me.
 
-* * *
+
 
 I’ve also been a fan of writing for quite a while. I’ve hoarded dozens of poetry books over the course of my life, particularly enjoying 20th-century American transcendentalism of Whitman and Dickinson. The post-modern and prophetic worlds that T.S. Eliot created inspired me so much, that I took on the moniker Hyacinth Boy as an allusion from _The Wasteland._ (This wasn’t as nerdy in my head, I swear.)
 
@@ -76,7 +79,8 @@ I manically wrote three to four hundred poems over the course of my high school 
 
 But as I’ve written <a href="https://medium.com/everyday-essays/essay-in-the-woods-69bca5340314#.do4z729r9" target="_blank" rel="noopener noreferrer">before</a>, I’ve taken more of an interest in non-fiction and essay writing. As much as I enjoy writing poetry, I can’t really take it seriously, but maybe that’s just a lack of confidence.
 
-* * *<figure class="wp-caption"> 
+
+<figure class="wp-caption"> 
 
 <img data-width="1280" data-height="853" src="https://cdn-images-1.medium.com/max/2560/1*EcZgehlEb_wOUTKAZ2700Q.jpeg" /> <figcaption class="wp-caption-text">West Virgina, Forest Wander | <a href="https://commons.wikimedia.org/wiki/File:Forest-night-sky-spruce-trees-stars_-_West_Virginia_-_ForestWander.jpg" target="_blank" rel="noopener noreferrer"><em>Sou</em>r<em>ce</em></a></figcaption></figure> 
 
@@ -96,6 +100,6 @@ My biggest dream — not an uncommon one — would be to work for NASA o
 
 For now, I’m content with just working hard at a constant rate. I think the most important realization I’ve had is that _life is work_. It’s just a matter of finding work you can enjoy.
 
-* * *
+
 
 That’s all, I guess. Happy Birthday to me (it’s still weird).

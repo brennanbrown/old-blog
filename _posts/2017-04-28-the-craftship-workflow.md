@@ -13,9 +13,10 @@ tags:
   - Ideas
   - Workflow
 ---
+
 <figure class="wp-caption"> 
 
-<img data-width="3200" data-height="2400" src="https://cdn-images-1.medium.com/max/2560/1*xmM5VQEklmaUSYNizPsNJw.jpeg" /> <figcaption class="wp-caption-text">**Arrow Inside Black Case** | <a href="https://www.pexels.com/photo/black-and-white-blue-arrow-sport-103891/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3200" data-height="2400" src="https://cdn-images-1.medium.com/max/2560/1*xmM5VQEklmaUSYNizPsNJw.jpeg" /> <figcaption class="wp-caption-text"><b>Arrow Inside Black Case</b> | <a href="https://www.pexels.com/photo/black-and-white-blue-arrow-sport-103891/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 #### Idea → Prototype → Product
 
@@ -25,13 +26,14 @@ In my <a href="https://medium.com/@brennanbrown/planning-better-e0d60edbe271" ta
 
 _Craftship_ is a termed for the creative work done by someone who practices a trade or handicraft — it is the act of doing. This is exactly what this workflow is about: taking action instead of contemplating taking action.
 
-This workflow is heavily inspired by the UX design lifestyle, as well as agile management, but has been adapted for personal use and general creativity.<figure class="wp-caption"> 
+This workflow is heavily inspired by the UX design lifestyle, as well as agile management, but has been adapted for personal use and general creativity.
+<figure class="wp-caption"> 
 
-<img data-width="1500" data-height="1500" src="https://cdn-images-1.medium.com/max/600/1*leZO43YHkn0Az6niHcQ3pg.jpeg" /> <figcaption class="wp-caption-text">**Setting Ideas Free** | <a href="https://www.flickr.com/photos/hikingartist/26190501564" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1500" data-height="1500" src="https://cdn-images-1.medium.com/max/600/1*leZO43YHkn0Az6niHcQ3pg.jpeg" /> <figcaption class="wp-caption-text"><b>Setting Ideas Free</b> | <a href="https://www.flickr.com/photos/hikingartist/26190501564" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 ### Craftship Overview
 
-#### **1. Brainstorming**
+#### <b>1. Brainstorming</b>
 
 Before anything, figure out a problem that needs to be solved, or a question that needs to be answered. This doesn’t need to be groundbreaking — it can already have a solution or an answer, instead, try to focus on alternative ideas. Create a hypothesis to solve it and start brainstorming.
 
@@ -41,7 +43,7 @@ Start jotting down ideas, try to connect similar ones together. Digital platform
 
 Don’t go overboard with this, stick to one objective or concept. Trying to execute too many ideas at once will cause you to ultimately not fulfill any properly at all. When you come across a new and exciting train of thought, separate it into it’s own entity. Don’t wait until what you have developed is perfect in any form, settle for good enough and move on to creating.
 
-#### **2. Creating**
+#### <b>2. Creating</b>
 
 Once you begin your first draft, the most important thing is to simply do it. Write out the long, technical details from the short, conceptual ideas. Create an outline and fill it in. Don’t allow yourself to become distracted, don’t try to edit the minor details while you’re initially hammering things out. Just do it.
 
@@ -49,7 +51,7 @@ When the first draft is finished, open yourself up to allowing others to help co
 
 There are often times when, sometime during the process, you’ll realize that what you’ve created essentially falls flat. Just as it’s important to open up with creating ideas, you also have to open up to discarding things when they don’t work. See if you can pivot what you’ve created into a new direction, explore new ideas that can be worked into it.
 
-#### **3. Review**
+#### <b>3. Review</b>
 
 One of my favorite quotes is by Paul Valéry, which is that _a poem is never finished, only abandoned._ It’s easy to feel that after the hard work of a few drafts, that you have a completed work. The reality is, though, that everything you make can always be improved upon in some way.
 
@@ -59,10 +61,10 @@ Would you be able to better explain your blog post as a chapter in a book? Would
 
 Using metrics is also helpful, figure out what work people respond to and what they ignore — what separates them? When you figure out what works, double down on it. Invest on effective measures and discard what doesn’t work.
 
-* * *
 
-#### **Summary**
 
-  * **Take action with your ideas**, don’t wait until they’re perfect to start.
-  * **Iterate on those ideas**, make incremental changes in a positive direction.
-  * **Adapt what is useful**, disregard what’s ineffective.
+#### <b>Summary</b>
+
+  * <b>Take action with your ideas</b>, don’t wait until they’re perfect to start.
+  * <b>Iterate on those ideas</b>, make incremental changes in a positive direction.
+  * <b>Adapt what is useful</b>, disregard what’s ineffective.
