@@ -17,7 +17,7 @@ tags:
 ---
 ## _A post-capitalist critique on boiling frogs, minimum-happiness, harmful-easy things, and lists._
 
-### Beeminder 2.0 {#c20a}
+### Beeminder 2.0 
 
 Over two years ago, I wrote <a href="https://blog.beeminder.com/tao/" target="_blank" rel="noreferrer noopener">The Tao of Bees</a>, where I dutifully explained the differences between commonly-used to-do lists and the more long-term, uncommonly-used _system thinking_ as a method to maintain and accomplish your goals. In my second article, <a href="https://blog.beeminder.com/tao2/" target="_blank" rel="noreferrer noopener">The Sting of Work</a>, I delved deeper into the ideas behind setting better goals and maintaining them.
 
@@ -27,11 +27,10 @@ This can be chalked up to a multitude of reasonings: No longer finding interest 
 
 After reviewing both my minor successes and major failures over an extended period of time, there are more mature conclusions on the idea of system thinking as a way of living that I can share. This is in sharp contrast to the more idealistic and frankly naïve explanations I had a few years ago.
 
-<!--more--><figure class="wp-block-image alignwide size-large">
+<!--more-->
+<figure class="wp-block-image alignwide size-large"><img src="https://miro.medium.com/max/1200/1*Oy5JgX1IsJQb5qgxSbohWw.jpeg"> <figcaption>An outdated, incorrect metaphor. | <a href="https://www.flickr.com/photos/donkeyhotey/5366524586/in/photostream/" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
 
-![](https://miro.medium.com/max/1200/1*Oy5JgX1IsJQb5qgxSbohWw.jpeg) <figcaption>An outdated, incorrect metaphor. | <a href="https://www.flickr.com/photos/donkeyhotey/5366524586/in/photostream/" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
-
-# The Boiling Frog Conundrum {#c888}
+# The Boiling Frog Conundrum 
 
 The first idea I’d like to share is the _boiling frog conundrum_, which is an outdated and incorrect metaphor, but so widely understood that I’m using it anyways.
 
@@ -54,11 +53,11 @@ We let an ego of excuses develop a shield of pride from letting us become beginn
 There is no actual solution to the boiling frog conundrum, because any method of trying to fight it off can also be stopped:
 
   * We can set a reminder on our phone to remind ourselves to be intentional and work on what we find important, but when that reminder becomes fatiguing, we’ll turn it off and resume in the safety of status quo.
-  * We can find a burst of inspiration and motivation and get dozens of things done in just a few days, but when that energy or time off ends, we flatline again. The shame and pride resume.<figure class="wp-block-image alignwide size-large">
+  * We can find a burst of inspiration and motivation and get dozens of things done in just a few days, but when that energy or time off ends, we flatline again. The shame and pride resume.
+ 
+<figure class="wp-block-image alignwide size-large"><img src="https://miro.medium.com/max/1280/1*n1oMinf27WiqgAE43M6uEQ.jpeg"> <figcaption><a href="https://www.needpix.com/photo/download/1110693/emotions-sensation-happiness-go-to-sadness-faces-face-looks-eyes" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
 
-![](https://miro.medium.com/max/1280/1*n1oMinf27WiqgAE43M6uEQ.jpeg) <figcaption><a href="https://www.needpix.com/photo/download/1110693/emotions-sensation-happiness-go-to-sadness-faces-face-looks-eyes" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
-
-# The Solution-Adjacent: MVH {#22c7}
+# The Solution-Adjacent: MVH 
 
 Let me begin by saying something controversial. The truth of the matter is that laziness, as traditionally defined, doesn’t _really_ exist. Rather, it’s a harmful propagation of the idea that we need to be productive for the sake of contributing to society as our exclusive mode of self-worth.
 
@@ -82,7 +81,7 @@ This might seem like a long-winded way of saying: “make your goals as small as
 
 <hr class="wp-block-separator" />
 
-# The Harmful Easy Stuff {#e671}
+# The Harmful Easy Stuff 
 
 One problem that arises when dealing with being in the boiling frog conundrum is easing into the harmful easy stuff. Or rather, figuring out the smallest amount of effort needed in order to maintain a system on Beeminder, which usually has nothing to do with the system itself.
 
@@ -102,11 +101,11 @@ Of course, the simple solution here is to be honest and play fairly. This behavi
 
 The sooner you accept the way that things really are, the easier it will be to figure out how to move on from that point. Surfing a wave of complacency will only get you so far, the ride will eventually end. Coasting on mediocrity and pretending things are fine is far worse than confronting the fact you are a loser and a failure.
 
-Don’t let yourself get lured into the harmful easy stuff because of the arising boiling frog conundrum, which makes it seem far more tempting than both admitting failure or doing the hard work you promised yourself you would.<figure class="wp-block-image alignwide size-large">
+Don’t let yourself get lured into the harmful easy stuff because of the arising boiling frog conundrum, which makes it seem far more tempting than both admitting failure or doing the hard work you promised yourself you would.
 
-![](https://miro.medium.com/max/3840/1*h1x73zFNG8ILaGWvZE-VCQ.jpeg) <figcaption>The Never-ending Quest for Meaningfulness | <a href="https://commons.wikimedia.org/wiki/File:Meditation_(7912377858).jpg" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
+<figure class="wp-block-image alignwide size-large"><img src="https://miro.medium.com/max/3840/1*h1x73zFNG8ILaGWvZE-VCQ.jpeg"> <figcaption>The Never-ending Quest for Meaningfulness | <a href="https://commons.wikimedia.org/wiki/File:Meditation_(7912377858).jpg" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
 
-# Presumptive Assumptions / Answers? {#b559}
+# Presumptive Assumptions / Answers? 
 
 With these first few most serious problems out of the way, the next step is to look at what presumptive assumptions are being made when you define your goal, the system to achieve that goal, and the tasks within that system.
 
@@ -118,7 +117,7 @@ An easy example of this would be trying to be more productive by tracking your d
 
 As you can see, we have to take into account the many small details that can end up being blind spots, and result in us failing to achieve our goals. We have to deeply investigate and interrogate the systems we create, and be mindful of these shortcomings.
 
-## The List is Your Friend {#762b}
+## The List is Your Friend 
 
 Another deep irony is that the solution I have found to actually achieving goals with systems is the one thing I had initially criticize and was looking for an alternative to: to-do lists.
 
@@ -130,7 +129,7 @@ The daily anti-assumption checklist is one to list all of the blindspots or obst
 
 The weekly task-only checklist is one to list all of the tasks needed to be completed throughout the week — rather than exhaustively trying to pinpoint what’s needed done each day. I believe that revolving your systems around the week rather than the day gives you enough flexibility to accomplish things in your <a target="_blank" rel="noreferrer noopener" href="https://medium.com/@buster/39-make-wiggle-room-2546b44b9804">Wiggle Room</a>. At the same time, having something like an entire month to accomplish things is too nebulous and gives too much room for potential flatline behaviour.
 
-## The Never-ending Quest for Meaningfulness {#184c}
+## The Never-ending Quest for Meaningfulness 
 
 As I stated earlier, the only thing that makes goals work is to have an unavoidable, burning passion to accomplish them from within yourself. There needs to be a deeper purpose and meaning — one that you do not question the validity of, because you must believe your purpose is intrinsically valid.
 
@@ -142,7 +141,7 @@ Ensure that what creates these datapoints is, at the same time, small and manage
 
 Presumptive flatline behaviour needs to be fought by maintaining this small yet consistent work. Do not be tempted to try to do as much as you can in a single day, it’s only human nature for some to work in sprints and quickly burnout. Retrorachet a.k.a. reduce the saftey buffer back down to one week if you manage to do it anyways.
 
-## Summary of Tangled Thoughts {#0da5}
+## Summary of Tangled Thoughts 
 
 There are a lot of different ideas that I skimmed the surface of here. But it can all be reduced to the concept of **intentionality** and trying to maintain it as much and as often as you can.
 

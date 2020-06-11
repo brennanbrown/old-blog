@@ -110,7 +110,7 @@ This has nothing to do with workarounds, and more to do with becoming much more 
 For more information, visit their <a href="https://docs.emmet.io/" target="_blank" rel="noopener noreferrer">documentation</a> and <a href="https://docs.emmet.io/cheat-sheet/" target="_blank" rel="noopener noreferrer">cheat sheet</a>.
 
 A quick example: In my second tip when I was creating the sidebar example on Codepen, I wrote out the following:   
-`doc>header>h1{Website Title}+nav>a{Link$}*3^^hr+aside#sidebar>h2{Sidebar Title}+p>Lorem^^main#blog>article.post(h1{Post Title $}+div.post-body(p*2>Lorem))*3`
+`doc>header>h1{Website Title}+nav>a*3^^hr+aside#sidebar>h2{Sidebar Title}+p>Lorem^^main#blog>article.post(h1{Post Title $}+div.post-body(p*2>Lorem))*3`
 
 Emmet takes that shorthand, and converts it into the following:
 

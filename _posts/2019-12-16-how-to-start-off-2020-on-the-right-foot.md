@@ -26,7 +26,7 @@ tags:
   <cite>Chinese Proverb</cite>
 </blockquote>
 
-### SUMMARY: {#24cc}
+### SUMMARY: 
 
   1. _Take Stock of What You Have — Be Grateful & Grow_
   2. _Start From Zero — Radically Eliminate the Non-Essential, Shake the Dust_
@@ -37,7 +37,7 @@ tags:
 
 <!--more-->
 
-## 1. Take stock of what you already have — be grateful that you’re still here and still breathing. {#f391}
+## 1. Take stock of what you already have — be grateful that you’re still here and still breathing. 
 
 <p class="has-drop-cap">
   One day, I was sitting outside a coffee shop and I noticed a row of shrubs planted by the curb. They were uniform and lined up neat — all except for one. It’s kind of scrawny looking, a little patchy and misshapen. Ugly.
@@ -57,7 +57,7 @@ The alternative, of succumbing to the all-too-human pressures of unnaturally giv
 
 <hr class="wp-block-separator" />
 
-## 2. Start with only a clean slate — shake the dust off and be radical in eliminating everything that isn’t essential. {#6545}
+## 2. Start with only a clean slate — shake the dust off and be radical in eliminating everything that isn’t essential. 
 
 <blockquote class="wp-block-quote is-style-large">
   <p>
@@ -83,11 +83,12 @@ Eliminate anything non-essential. There is an illusion that life is now fast pac
 
 If you could only do 3 things a day, what would they be? You have to be curt and harsh in your choices here. Set limits & boundaries. Push yourself to work in a fixed amount of time because of _parkinson’s law_, “work expands so as to fill the time available for its completion”.
 
-Stop giving up <a target="_blank" rel="noreferrer noopener" href="https://medium.com/@brennanbrown/our-finite-everything-8ed4d9d70a2f">your finite time</a> on things that you don’t actually care about, radically eliminate them out of your life. Cut your losses and don’t fall for the <a href="https://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/" target="_blank" rel="noreferrer noopener">sunken-cost fallacy</a>. The more intentional you are, and the less that you do, the better you’ll become at the things you _do decide_ to do.<figure class="wp-block-image size-large">
+Stop giving up <a target="_blank" rel="noreferrer noopener" href="https://medium.com/@brennanbrown/our-finite-everything-8ed4d9d70a2f">your finite time</a> on things that you don’t actually care about, radically eliminate them out of your life. Cut your losses and don’t fall for the <a href="https://youarenotsosmart.com/2011/03/25/the-sunk-cost-fallacy/" target="_blank" rel="noreferrer noopener">sunken-cost fallacy</a>. The more intentional you are, and the less that you do, the better you’ll become at the things you _do decide_ to do.
 
-![](https://miro.medium.com/max/2816/1*S5EvJ3zKuI_L4fh3IbF_QQ.jpeg) <figcaption>**Celebration** | <a href="https://www.flickr.com/photos/ficken/1813744832" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
+<figure class="wp-block-image size-large">
+<img src="https://miro.medium.com/max/2816/1*S5EvJ3zKuI_L4fh3IbF_QQ.jpeg"> <figcaption>**Celebration** | <a href="https://www.flickr.com/photos/ficken/1813744832" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
 
-## 3. Seek the beauty of consistency — stick with things you’d rather quit and stop restarting all of the time. {#e93b}
+## 3. Seek the beauty of consistency — stick with things you’d rather quit and stop restarting all of the time. 
 
 Again, this seems counter-intuitive given the _second_ point. How are you supposed to value being consistent in what you do if you’re trying to start over? I believe that it’s easy to fall into a rhythm that’s harmful if you aren’t being diligent. Nothing fruitful comes from having consistency in something that is easy or safe.
 
@@ -103,7 +104,7 @@ In order to keep going each & everyday, you need the most basic, underlying foun
 
 <hr class="wp-block-separator" />
 
-## 4. Don’t be fooled by your own subconscious willpower — you’re actually smarter than that. {#ca0f}
+## 4. Don’t be fooled by your own subconscious willpower — you’re actually smarter than that. 
 
 Understand the rarely discussed psychological phenomenon of <a href="https://en.wikipedia.org/wiki/Reactance_(psychology)" target="_blank" rel="noreferrer noopener"><strong>reactance</strong></a>**.** To put it simply, it’s when you want to do a task — until somebody specifically asks you to do it. This changes it from a willing affair into a disciplined and labored chore, yet nothing has actually changed.
 
@@ -111,11 +112,12 @@ According to the theory of ego depletion, we only have a finite amount of energy
 
 Our frame of mind is the largest variable when it comes to how much work something is. There’s a parable about 3 bricklayers. The first just thinks he is laying bricks. The second thinks he’s building a wall. And the third thinks he’s building a cathedral.
 
-All three of these men were performing the exact same task, but the first saw it as a job, the second saw it as a career, and the third saw it as a calling. Are you writing a post, running a blog, or <a target="_blank" rel="noreferrer noopener" href="https://medium.com/@brennanbrown/why-write-500f8ab18f6a">creating a legacy</a>?<figure class="wp-block-image size-large">
+All three of these men were performing the exact same task, but the first saw it as a job, the second saw it as a career, and the third saw it as a calling. Are you writing a post, running a blog, or <a target="_blank" rel="noreferrer noopener" href="https://medium.com/@brennanbrown/why-write-500f8ab18f6a">creating a legacy</a>?
 
-![](https://miro.medium.com/max/3375/1*HSfgYS1_iKup4ISr338z_A.jpeg) <figcaption>**Sparklers** | <a href="https://www.pexels.com/photo/person-holding-sparklers-1642295/" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
+<figure class="wp-block-image size-large">
+<img src="https://miro.medium.com/max/3375/1*HSfgYS1_iKup4ISr338z_A.jpeg"> <figcaption>**Sparklers** | <a href="https://www.pexels.com/photo/person-holding-sparklers-1642295/" target="_blank" rel="noreferrer noopener">Source</a></figcaption></figure> 
 
-## 5. Our connections with others is the most important thing we have — spend time and energy cultivating that seriously. {#d0ab}
+## 5. Our connections with others is the most important thing we have — spend time and energy cultivating that seriously. 
 
 Something I’ve been figuring out recently is that community is the most important thing we have. We are social creatures and flourish when we can find meaningful connections with others on a personal level.
 
@@ -129,7 +131,7 @@ At the end of the day, <a target="_blank" rel="noreferrer noopener" href="https:
 
 <hr class="wp-block-separator" />
 
-## 6. Build who you are on all of the above. {#0468}
+## 6. Build who you are on all of the above. 
 
 Three years ago, I wrote <a target="_blank" rel="noreferrer noopener" href="https://medium.com/@brennanbrown/resolutions-for-2017-a2c5cef0c981">a simple list of new year’s resolutions</a> that I wanted to commit to. This year, I’ve attempted to instead synthesize difficult ideas that I felt were most important to me into a single place.
 

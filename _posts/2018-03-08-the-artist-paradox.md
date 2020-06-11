@@ -16,7 +16,7 @@ tags:
   - Storytelling
   - Writing
 ---
-### Why you should create — even though there’s already far too much in the world already. {.wp-caption}
+### Why you should create — even though there’s already far too much in the world already. 
 
 Six years ago, when Medium was first starting out, it was invite-only and was created by one of the founder’s of Twitter to simply publish thoughts longer than the then-limit of 140 characters. Oh, how so much has changed — and so quickly.
 

@@ -16,15 +16,11 @@ tags:
   - Responsibility
   - Work
 ---
-### Happiness isn’t the Meaning of Life {.wp-caption}
+### Happiness isn’t the Meaning of Life 
 
 It is time for me to grow another year older, and since I wrote last year’s birthday thesis late, I decided to write this one early. Sometimes you have thoughts going through your mind so strongly, you have no choice but to write them down at that very moment.
 
 What is a birthday thesis? I figure I should explain, as this is my third one. I originally took the idea from <a href="https://medium.com/u/5142451174a3" target="_blank" rel="noopener noreferrer">Buster Benson</a> — where he would write a yearly report with a central concept. I really enjoy the idea, but haven’t done it very well so far. I have a rather good central idea this time around, although it is candid and dark, but I believe there is no other option _but_ to write it.<!--more-->
-
-<https://medium.com/@brennanbrown/becoming-an-adult-10fd7135ce3c>
-
-<https://medium.com/@brennanbrown/becoming-an-adult-10fd7135ce3c>
 
 * * *
 

@@ -31,7 +31,7 @@ Going through the whole Beeminder process again opened my eyes to a few things t
 
 <!--more-->
 
-## **1. Be Anti-Circle** {#1d21}
+## **1. Be Anti-Circle** 
 
 It’s said that the definition of insanity is doing the same thing over and over again, but expecting different results. I was sifting through old text files on Dropbox, some all the way back from 2015 when I was back in high school, and I embarrassingly realized that there were certain goals there that I _still_ had been writing down for 2020.  
   
@@ -39,7 +39,7 @@ There are times where you need be ruthless and cut-throat with your dreams. Ther
 
 Instead, look at what you _are_ capable of, right now, with the abilities you have. Keep going with it, build upon what works. Make sure your to-do list isn’t the same thing everyday, make sure your New Year’s resolutions aren’t the same every year. If it’s not working, do something different, don’t run around in circles.
 
-## 2. Eliminate Redundancy {#5c95}
+## 2. Eliminate Redundancy 
 
 The paradox of choice that we have regarding how exactly we keep track of ourselves and our goals can be crippling. There are certain notes I have on Dropbox, or on Google Drive, or just on my iPhone, or locally on my laptop.
 
@@ -49,7 +49,7 @@ It’s easy to get caught up in using different software (particularly if it’s
 
 Again, be ruthless and cut-throat, eliminate apps and notebooks that you don’t _really_ need to be using. Boil everything down to the bare essential, just one place that might not be perfect, but at least contains everything so you aren’t repeating yourself or losing track.
 
-## 3. Maintain Product Agnosticism {#a61b}
+## 3. Maintain Product Agnosticism 
 
 It’s easy to argue that one particular brand or program is superior in some fashion, but in the lightspeed world of venture capitalism, these companies and start-ups can <a href="https://ourincrediblejourney.tumblr.com/" target="_blank" rel="noreferrer noopener">disappear in an instance</a>.
 
@@ -57,19 +57,19 @@ Don’t allow yourself to get too comfortable using one particular thing. In fac
 
 At the very least, have a simple, fail-safe system that you _archive everything_ on. Whether it be a VCS repository, a USB drive, or a secondary laptop with a text editor.
 
-## **4. Stack the Goodness** {#b514}
+## **4. Stack the Goodness** 
 
 A simple solution to adding multiple new habits or daily tasks into your life is to build them upon things you already are doing very well and effortlessly. Such as taking the time you brush your teeth at night to think of everything you’re grateful for that’s happened during the day.
 
 A particularly good example with the current automated systems I have going is this: I track online courses I take (1) and upload the notes I write to a GitHub repository where I track my commits (2), and all of this is tracked as productive time on RescueTime (3). In a way, I’m keeping up three different good habits with a single action — self-directed learning.
 
-## 5. Prioritize Passion over Tradition {#bf2b}
+## 5. Prioritize Passion over Tradition 
 
 One bad habit I realize I have is that, whenever I feel motivated to try to start working towards a positive progress again, I often do a Google search for “good goals to keep” or “good habits to have”, and I’ve started to realize this does more harm than good.
 
 You shouldn’t try to accomplish something simply because it’s well-known to be a good thing to accomplish — like running a marathon. It will fail due to the lack of motivation behind it. It’s always far better to have a weird, unconventional goal that you find a genuine passion for deep down within. It doesn’t matter what other people think about this, it never has.
 
-## 6. Microreminders for Microgoals {#5aa0}
+## 6. Microreminders for Microgoals 
 
 My last suggestion is that the less time and energy something takes to do, then the less time and energy it should take for you to maintain it. It takes a lot of willpower and preparation to start something serious, like exercising three days a week — where you might need to have a community of support and journal weekly to remind yourself why it’s important to keep up.
 

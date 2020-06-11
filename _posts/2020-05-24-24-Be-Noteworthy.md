@@ -16,7 +16,7 @@ tags:
   - Systems Thinking
 ---
 
-## An attempt to find peace with who I am.
+## _An attempt to find peace with who I am._
 
 > “These actions are not essentially difficult; it is we ourselves that are soft and flabby.” --Seneca
 
