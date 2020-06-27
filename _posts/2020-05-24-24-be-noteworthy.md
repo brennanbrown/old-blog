@@ -5,7 +5,7 @@ date: 2020-05-24
 author: Brennan K. Brown
 layout: post
 guid: http://wandernotebook.com/?p=221
-permalink: /24-Be-Noteworthy
+permalink: /24-be-noteworthy
 categories:
   - Blogging
 tags:

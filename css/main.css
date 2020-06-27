@@ -13,7 +13,7 @@
         color: #fff;
         padding-bottom: 10px;
     }
-    
+
 
     .main {
         width: 69%;
@@ -24,7 +24,12 @@
         width: 25%;
         float: left;
     }
-    
+
+    .post {
+        margin: 0 auto;
+        width: 60%;
+    }
+
     .page-content {
         width: 100%;
         float: left;
@@ -75,7 +80,7 @@
     }
 
     .tags-expo select, .tags-expo button {
-        width: 80%;
+        width: 97%;
         padding: 5px;
         margin: 5px;
     }
@@ -91,6 +96,11 @@
     .full-width {
         color: #000;
         padding-bottom: 10px;
+    }
+
+    .post {
+        margin: 0 auto;
+        width: 90%;
     }
 
     a {
@@ -186,12 +196,7 @@ figcaption {
 }
 
 .newsletter {
-    width: 100%;
-}
-
-.post {
-    margin: 0 auto;
-    width: 80%;
+    width: 100%; 
 }
 
 .post-summary hr{
@@ -218,7 +223,7 @@ figcaption {
     font-weight: bold;
     font-size: 150%;
 }
-  
+
 .pagination a:hover:not(.active) {background-color: #444;}
 
 .page_number {
