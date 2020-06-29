@@ -34,6 +34,8 @@ When you wake up in the morning and get out of bed — or even before you ge
 
 We live in an <a href="https://techcrunch.com/2017/07/30/the-attention-economy-created-by-silicon-valley-is-bankrupting-us/" target="_blank" rel="noopener noreferrer"><strong>attention-based economy</strong></a>. Companies and people can only sell you products and services if they first have your attention, after all. This is nothing new, but with the rise of clever marketing statics (ex. Data-collection, branded content, personalized advertisements, etc.) most people are often being sold things without even realizing it.
 
+<!--more-->
+
 By way of technology, there have been <a href="https://www.privacytools.io/" target="_blank" rel="noopener noreferrer">privacy tools and blockers</a> created as a way to negate these tactics. However, this is a band-aid solution to a deeper, fundamental problem of society.
 
 This goes beyond the exploits of current revenue models. People easily get caught up paying attention to things that just drain them of their energy. Time and energy wasted on toxicity — reaction instead of action. It is easy to blame advancements in technology and platforms for this, but the uncomfortable truth is that it is a human problem.

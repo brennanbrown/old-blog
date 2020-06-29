@@ -22,6 +22,8 @@ tags:
 
 <span>A</span>while has past since my last post on Medium, I’ve been contemplating what I think is important, and what’s important to write about. This post is more of a reminder to myself — a reminder of _why_ I do what I do, especially when I don’t feel up to it.
 
+<!--more-->
+
 #### 1. Hard Work
 
 First, how do you make hard work starting _working_? How can essential tasks transition from unlikeable to exciting? Personally, the answer to this question came from the revelation that _life is work._ There is no way around this. Trying to put things off, in reality, only adds to the amount of work that will need to be done in the future.

@@ -27,6 +27,8 @@ tags:
 
 Biologically speaking, human beings <a href="http://time.com/4027942/lazy-walking-exercise/" target="_blank" rel="noopener noreferrer">have evolved</a> to favor ease over difficulty. Though, our prefrontal cortex — the most complex and cognitive part of our brain — has the ability to want more than just what’s easiest, and tries to combat our more primal and sluggish behavior.
 
+<!--more-->
+
 Often times, this is a battle we lose, and a vicious circle is created. When there’s a feeling of guilt after wasting the day away, which only demoralizes and causes further laziness.
 
 In my opinion, the most effective way to defeat laziness within one’s self is by utilizing two different tools: momentum and mindfulness.

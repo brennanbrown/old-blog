@@ -24,7 +24,7 @@ tags:
 
 Yesterday, I didn’t post anything. I didn’t write anything, either. Technically, by my own rules, I have lost my November rebel challenge. I’m certainly not going to achieve the 50,000 word-count. But that’s okay, I’ll keep going. That’s the important part. A bit of interesting news — I joined Medium’s Partnership Program! I have only a few articles that I changed to Members-only (<a href="https://medium.com/@brennanbrown/css-hacks-creating-blogs-ce56bc7259a3" target="_blank" rel="noopener noreferrer">1</a>, <a href="https://medium.com/@brennanbrown/css-hacks-creating-blogs-ce56bc7259a3" target="_blank" rel="noopener noreferrer">2</a>, <a href="https://medium.com/@brennanbrown/css-hacks-creating-blogs-ce56bc7259a3" target="_blank" rel="noopener noreferrer">3</a>, <a href="https://medium.com/@brennanbrown/how-to-blog-379fb5eee26f" target="_blank" rel="noopener noreferrer">4</a>). This article is going to be one of them, too.
 
-
+<!--more-->
 
 ### Paying for Words
 

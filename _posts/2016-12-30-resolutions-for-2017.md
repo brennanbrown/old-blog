@@ -33,6 +33,8 @@ Something I have learned the hard way, after trying time and time again, is that
 
 When I read a lot of self-help articles and books, I often find the author telling the reader the many things that _they_ need to start doing differently. My skepticism makes me often wonder if the author themselves practice what they preach.
 
+<!--more-->
+
 So I am plainly going to write out what I plan on trying to accomplish. None of it is rather grand — baby steps. Feel free to copy any of it.
 
 These aren’t goals, either, rather they are plans for a <a href="https://medium.com/personal-growth/forget-about-setting-goals-focus-on-this-instead-718e3e99deaf#.umwdardc0" target="_blank" rel="noopener noreferrer">better system</a>. Things I can work on every day, and not stop when I reach a specific milestone.

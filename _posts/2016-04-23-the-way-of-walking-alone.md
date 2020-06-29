@@ -24,6 +24,8 @@ When I was younger, I had a developed a keen interest in the feudal time period 
 
 I was interested in _Bushido_, the ethics and honor code of the soldiers — how selfless and admirable their behavior was. This also lead to an interest in the philosophical school of stoicism and the lifestyle of asceticism. I bought a beautifully illustrated version of the <a href="http://www.amazon.com/The-Art-Samurai-Yamamoto-Tsunetomos/dp/1844837203" target="_blank" rel="noopener noreferrer"><em>Hagakure</em></a> __which included first-hand stories and precepts.
 
+<!--more-->
+
 One work that particularly caught my attention was a list of precepts entitled the Dokkōdō by Miyamoto Musashi. It was <a href="http://www.musashi-miyamoto.com/dokkodo.html" target="_blank" rel="noopener noreferrer">twenty-one simple rules</a> that are admittedly difficult to follow. Over the past few years I’ve tried to follow them, modifying and adding to them, in a way that I felt would allow me to improve who I am as much as possible. I’ve broken it up into separate parts for easier understanding and organization.
 
 #### A Modified Dokkōdō

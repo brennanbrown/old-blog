@@ -28,6 +28,8 @@ tags:
 
 While some of us simply have no control over the amount of time, we do have control over how exactly we use it.
 
+<!--more-->
+
 This time is also only a small fraction where we feel as though we’re _waiting for something_. Whether it’s waiting in line, or doing household chores, or on a boring lunch break — we have the urge of waiting for this time to be over. To be able to get to a more interesting part of the day.
 
 I think this is an absolute, terrible <b>mistake</b>. If you add all of these moments throughout a lifetime you end up with hours of unused life.

@@ -29,11 +29,13 @@ The four D’s of effectiveness:
   * _Determination _— Have the grit needed to not give up.
   * _Discipline _— Cultivate yourself in the long-term.
 
-
+And:
 
   * Do what you can, with what you have, where you are.
   * _Law of Control_ states that the amount of self-worth is determined by how in control we feel we are of our lives.
   * Positively visualize yourself as a good time manager, reaffirm this by telling others the same thing. Reprogram your brain. Fake it until you make it.
+
+<!--more-->
 
 #### Determine your Values
 

@@ -23,6 +23,8 @@ tags:
 
 While there isn’t exactly anything right or wrong to want to do within your lifetime, there are commonalities between many of them. Some try to find a sort of quantitative measure of success, like making a certain amount of money, or maybe something more career-oriented.
 
+<!--more-->
+
 Those sorts of accomplishments appear vain, to me. What exactly do you do with your life after you complete them — waste away? I’m instead interested in the more lofty and adventurous ambitions that we set for ourselves. One in particular:
 <figure class="wp-caption"> 
 

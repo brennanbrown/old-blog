@@ -24,6 +24,8 @@ tags:
 
 There’s also the occasional pang of regret, which seems more eye-rolling and silly than a contradiction, at my age — of course we do stupid things in our youth, that’s what our youth is for. There are often times where I’ll search up terms like “Things I wish I could have said to my 20-year-old” which are usually written by someone a decade or two older.
 
+<!--more-->
+
 While I definitely believe there is wisdom in listening to the advice of those older than you, most of these articles are — sadly — just variously repeated cheesy lines and clichéd advice. _Spend less time on Facebook, travel around the world._ Okay, cool. How does that make me a better person, though?
 <figure class="wp-caption"> 
 

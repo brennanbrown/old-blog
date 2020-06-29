@@ -20,9 +20,9 @@ tags:
 
 It is time for me to grow another year older, and since I wrote last year’s birthday thesis late, I decided to write this one early. Sometimes you have thoughts going through your mind so strongly, you have no choice but to write them down at that very moment.
 
-What is a birthday thesis? I figure I should explain, as this is my third one. I originally took the idea from <a href="https://medium.com/u/5142451174a3" target="_blank" rel="noopener noreferrer">Buster Benson</a> — where he would write a yearly report with a central concept. I really enjoy the idea, but haven’t done it very well so far. I have a rather good central idea this time around, although it is candid and dark, but I believe there is no other option _but_ to write it.<!--more-->
+What is a birthday thesis? I figure I should explain, as this is my third one. I originally took the idea from <a href="https://medium.com/u/5142451174a3" target="_blank" rel="noopener noreferrer">Buster Benson</a> — where he would write a yearly report with a central concept. I really enjoy the idea, but haven’t done it very well so far. I have a rather good central idea this time around, although it is candid and dark, but I believe there is no other option _but_ to write it.
 
-
+<!--more-->
 
 Perhaps similar to most, I was a terrible person as a teenager. Often times, I would bend the truth and find a way to paint myself as a victim — cold and distant towards the few friends I had, often anxious and riddled with neuroticism over melodrama. Brain chemistry during adolescence is a curious thing.
 

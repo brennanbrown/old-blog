@@ -234,3 +234,8 @@ figcaption {
     width: 65%;
     margin: 0 auto;
 }
+
+.readmore {
+    text-align: right;
+    font-size: 18px;
+}

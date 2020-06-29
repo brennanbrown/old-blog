@@ -29,7 +29,7 @@ My 20th birthday is only eleven days away. I don’t know if this is a milestone
 
 Hopefully, I’m pushing myself the right direction.
 
-
+<!--more-->
 
 <span>L</span>ooking back at what I’ve written so far on Medium, I honestly can’t say I like much of it. I’ve been writing like crazy — over a complete article per day — for around two weeks now.
 

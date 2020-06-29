@@ -22,6 +22,8 @@ tags:
 
 This past summer had brought an excess of forest fires that not only slaughtered the trees, prey as well. It left many animals desperate in search of nutrition.
 
+<!--more-->
+
 A family of black bears was nestled behind a group of still-standing trees in a cave surrounded by an ocean of large boulders. They were neatly hidden, protected, and warm, far from any humans that may come, seeking game. The cave dripped with frost and debris, but leaves and moss covered the ground bringing much-needed warmth and comfort. This family of black bears consisting of a mother and father bear, and two female cubs; grumbled quietly amongst themselves.
 
 “Papa, I’m so hungry, could we please venture a little farther? Even a little, and be extra careful? Food is so scarce now since the Sun took everything away…”

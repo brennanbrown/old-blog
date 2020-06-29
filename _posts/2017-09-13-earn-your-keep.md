@@ -23,6 +23,8 @@ tags:
 I think this is a problem common to a lot of people that want to begin, they don’t know _where_ to start. We all want our work to be creative and interesting — to be read by people all over the world. It can be a struggle to find what exactly makes us unique — we’re all just a drop in an ocean.  
 More than that, though, it can be an even harder struggle to find a topic we have enough authority to talk about. Everybody suffers from <a href="https://en.wikipedia.org/wiki/Impostor_syndrome" target="_blank" rel="noopener noreferrer">impostor syndrome</a>. That’s not even mentioning that it should be enjoyable, right? You want to be passionately working without it feeling like work.
 
+<!--more-->
+
 These are just a few of the many obstacles that still hold a lot of people back. That makes them end up choosing to still be a consumer over a creator.
 
 But what does any of that have to do with me? Well, this is mostly just an update post.I’ve been thinking particularly about what I’ve written in the past. What exactly has been it’s purpose? I’ve said before that there _isn’t_ an inherent purpose. It was just <a href="https://medium.com/@brennanbrown/why-write-500f8ab18f6a" target="_blank" rel="noopener noreferrer">writing for the sake of writing</a>.

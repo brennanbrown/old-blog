@@ -28,6 +28,8 @@ I enjoy the metaphysical _writing about writing_, as though if I meditate on the
 
 Yet, despite the fruitlessness of particular topics — such as this one — writing does help me in a multitude of ways.
 
+<!--more-->
+
 ### Death Writing
 
 <span>As</span> <a href="https://medium.com/@brennanbrown/paper-13cbed7f1dab" target="_blank" rel="noopener noreferrer">I’ve written in the past</a>, I often think about the legacy that I’ll be leaving behind. What sort of impact am I having on the world, if any? And if I am making a dent in the universe, is it for the better?

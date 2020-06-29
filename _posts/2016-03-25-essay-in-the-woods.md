@@ -23,6 +23,8 @@ tags:
 
 I could assume that most people who aren’t in some sort of harrowing conflict — yet had the burning affection of writing— would turn to fiction. This seems like the smart thing to do, to expand imagination and create entirely new worlds!
 
+<!--more-->
+
 But, I’m a bit odd. That doesn’t really seem enjoyable to me. Which isn’t to belittle the craft at all — one of the best ways to convey a message is through complex and well-articulated fictional stories.
 
 #### Archives of Meaning

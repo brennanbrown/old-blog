@@ -24,6 +24,8 @@ tags:
 
 I’m starting to wonder what I’m doing on Medium, with my writing. I enjoy writing because it’s _creating something_. This has been at the heart of my identity — of who I think I am — for as long as I can remember. I want to discover or contribute something important to the world — that’s what I’ve set as my purpose in life.
 
+<!--more-->
+
 And I’ve tried my best to find the most efficient way of creating good. Voltaire popularized the aphorism that perfect is the enemy is good. Confucius, similarly, is attributed to having said that a diamond with a flaw is better than a pebble without.
 
 What I’ve realized, is that it’s far easier to find a diamond in the rough when you have more rough to work with. To reserve less judgement on myself and what I create and post more freely. I can’t wait for perfect — or try to reinvent the wheel — I need to publish what I have, I need to work harder.

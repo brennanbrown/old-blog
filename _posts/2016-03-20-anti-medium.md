@@ -20,6 +20,8 @@ tags:
 
 But then, where do we draw the line between a good headline and one that’s just clickbait? What even _is_ clickbait?
 
+<!--more-->
+
 <https://medium.com/p/eed4975f4bee>
 
 Perhaps I just have a biased scope, but I find new social media companies have a distinct niche of people who use their platform explicitly for the purpose of criticizing the platform itself.

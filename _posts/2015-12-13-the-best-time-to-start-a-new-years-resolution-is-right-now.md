@@ -27,6 +27,8 @@ That’s all there is to it. You’re tricking yourself if you think that there�
 
 But I won’t be dishonest in saying it’s very easy to get caught up in thinking that there’s some sort of _oasis of productivity_ that’s just a few more miles away, all the time. That we’re just one epiphany away from no longer struggling, a few more articles away from the missing link.
 
+<!--more-->
+
 And before we know it, another year has passed. Or maybe it was another important—albeit sentimental — day. Perhaps this birthday marked the last year of your life where you muddled around. You’re getting older, we’re all getting older.
 
 But we cannot forget that these are arbitrary dates on an arbitrary calendar. Instead, start now.

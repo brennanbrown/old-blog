@@ -25,6 +25,8 @@ tags:
 
 But my own writing is so chicken-scratch that I never found physically keeping a diary as viable. As an alternative, I’ve tried a variety of different apps instead. These include <a href="https://penzu.com" target="_blank" rel="noopener noreferrer">Penzu</a>, <a href="http://dayoneapp.com/" target="_blank" rel="noopener noreferrer">Day One</a> and <a href="http://2appstudio.com/journey/web/" target="_blank" rel="noopener noreferrer">Journey</a>.
 
+<!--more-->
+
 While I enjoy their design and functionality, what I’ve always come back to for the past five years is <a href="http://750words.com/" target="_blank" rel="noopener noreferrer">750words</a>. What differentiates it is how it’s modeled around the <a href="https://badgeville.com/wiki/Gamification" target="_blank" rel="noopener noreferrer">gamification </a>of the writing process. It keeps a stark and obvious track of your progress and emphasizes the importance of writing _every day_. In addition to this, I can’t help but use it for the fact that the majority of my entries are exclusively on it, and it has a fairly decent search and export system.
 <figure class="wp-caption"> 
 

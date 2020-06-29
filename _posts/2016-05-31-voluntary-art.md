@@ -26,6 +26,8 @@ tags:
 
 These are professionals that I’m talking about. People who make their livelihoods with their work. But there are many who multi-task — who have a ‘normal job’ while moonlighting as an artist. The advice most often given to these kind of people is that they should monetize their work, too.
 
+<!--more-->
+
 But what that’s the wrong answer? What if we instead viewed our work in an entirely different light?
 
 

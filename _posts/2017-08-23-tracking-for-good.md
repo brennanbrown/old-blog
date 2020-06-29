@@ -28,6 +28,8 @@ _This is an update to my previous article:_
 
 <https://medium.com/@brennanbrown/planning-better-e0d60edbe271>
 
+<!--more-->
+
 #### I. Initial Problems of Self-Tracking
 
 While I have been a fan of self-quantification for several years, I haven’t ever taken a deep plunge into it. There are a few reasons for this:

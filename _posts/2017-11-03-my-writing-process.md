@@ -30,6 +30,8 @@ Today, I thought I might as well keep on the same topic and talk about the _how_
 
 There are many steps to this process — from brainstorms to an outline, from drafting to revisions, until you have something publishable.
 
+<!--more-->
+
 #### An Aside: GOOD WRITING?
 
 > “All good writing is swimming under water and holding your breath.”   

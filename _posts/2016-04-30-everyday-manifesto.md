@@ -28,6 +28,8 @@ tags:
 
 <span>I’</span>ve been trying to improve myself for awhile, now. I remember when I was 13 years old and I would read Tony Robbins or Stephen Covey —my Mom’s basement is filled with hand-written schedules I wrote, where I would dedicate hours to specific tasks that self-help authors deemed to be productive.
 
+<!--more-->
+
 Of course, I would then go on to disregard all of that and sink the entirety of my day into something that I didn’t think was productive at all — like video games or endlessly browse internet. I’d then feel guilty about it and it would damage my self-image. I’d try again with even larger, ambitious goals that inevitability never turned out, either.
 
 Over the years, I’ve realized the true complexity of behavioral psychology, how there’s never actually anything ‘out there’ that can really change who we are. We can try as hard as we want, read as many books or watch as many lectures out there, but there’s no escape.

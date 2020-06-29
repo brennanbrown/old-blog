@@ -28,6 +28,8 @@ Whether it’s by mistake, or even just bad luck, there is heartbreak when that 
 
 And it can seem impossible or hopeless, when it first happens. The door closes, and you’re locked out. Now what? A change of perspective. In reality, you are surrounded by a neighborhood of doors. This might sound inauthentic or tacky, but it’s true. We have no fixed fate.
 
+<!--more-->
+
 There is nothing stopping you walking away and never looking back. Have the courage to start all over again. Shake the dust.
 
 > The art of losing isn’t hard to master;  

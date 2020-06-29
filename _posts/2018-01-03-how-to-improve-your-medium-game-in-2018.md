@@ -35,6 +35,8 @@ tags:
 
 Despite Medium’s minimalist design, it can still be a bit overwhelming to dive right in. If anything, the fact that there’s only a blank page in front of you just makes things even more daunting!
 
+<!--more-->
+
 There are a number of factors that you have to consider when you go from a blank sheet of paper to a finished product that deserves to be published. I’ve already detailed my <a href="https://writingcooperative.com/my-writing-process-4868f986f97f" target="_blank" rel="noopener noreferrer">personal writing process</a>, so in this article I’ll be focusing more on the specifics of writing and publishing on Medium.
 
 I’ve found that there are <b>universal rules for good online writing</b>, and they can be summarized as such: Starting out with a clear purpose and idea, followed by executing that idea well and making the work visually appealing, and finally, taking the time to reach out to the community at large. I’ll be going through each of these separately, as well as giving examples of using them within the article itself! (A little meta, right?)

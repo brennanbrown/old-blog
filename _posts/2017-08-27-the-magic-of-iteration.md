@@ -25,6 +25,8 @@ tags:
 There’s a fine balance in how often you publish what you write — it’s a double-edged sword. Nothing good comes from proudly displaying the first bad thing you come up with. Impulsively posting every thought you have to Twitter only can lead to a lot of white noise. Even worse than that, though, is thinking that nothing is ever good enough to show off at all. A lack of posting eventually leads to a lack of creating, even privately.
 <figure class="wp-caption">
 
+<!--more-->
+
 <img data-width="1600" data-height="1038" src="https://cdn-images-1.medium.com/max/600/1*hzoumyaG5FF9IeZT9IWPxQ.jpeg" /> <figcaption class="wp-caption-text"><b>The Feedback Loop</b> |&nbsp;<a href="https://www.dreamerux.com/articles/3t4adnn7887k2dz4j583e6bcdxyc8b" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
 
 This is where the magic of iteration comes in. There’s a concept in business called <b>minimum viable product</b> (MVP), which is the rough draft of a product with just enough features to satisfy early customers, and to provide feedback for future development.

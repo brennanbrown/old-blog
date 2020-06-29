@@ -26,6 +26,8 @@ tags:
 
 What isn’t so transfixed is our _perception_ of time. A day that is spent doing something that is completely novel and laborious feels exponentially longer than a day spent doing something that is routine and pleasurable. Our mind has the ability to stretch or shorten our sensation of time, depending on our activities and mood.
 
+<!--more-->
+
 But the easiest way to embellish our time is to simply cherish it — to be proactively mindful and conscious of what we’re doing at any moment. This is one of the keys to meditation, and in reality, it can be done anytime.
 
 Imagine each day you’ve lived that you can’t even remember because you allowed yourself to mindlessly follow the same routine. Monotony is what accelerates our awareness of time. Uniformity is the enemy of our longevity.

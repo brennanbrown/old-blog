@@ -25,6 +25,8 @@ The current world we live has been designed and marketed for this kind of dichot
 
 ‘There’s too much responsibility’ or ‘there’s not enough time’, are two of many excuses. Or that the aspiring traveller doesn’t have the budget to wander across the world. The truth is, though, that the entire world is filled with undiscovered fascination, including where you are right now — even if you’ve lived there your entire life.
 
+<!--more-->
+
 Our surroundings can seem pointless and boring if we’re around them too often, but how many things go unnoticed — what would you be able to see if you looked at your environment with new eyes?
 
 When’s the last time you wandered about your city or hamlet you live in — or even better — its outskirts? There are an abundance of unwalked roads and obscure trails that become neglected from a jaded perspective.

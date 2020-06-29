@@ -25,6 +25,8 @@ tags:
 
 This purpose comes from a place of realistic optimism and idealism. It’s a messy and bold goal. A tangible, yet implausible objective without conventional measure or perspective. There’s a lot wrong with the world — and a lot of people that will complain about it — but how can you improve it? What troubles are you willing to tackle head-on for the good of humanity?
 
+<!--more-->
+
 It’s a lot to ask, to a point where most people don’t even push themselves to even attempt it. And those that _d_o __attempt to achieve something grand usually stop after failing only once or twice.
 
 The reason so few people succeed in capturing the essence of a heartfelt purpose is a lack of faith. Having the faith in yourself that you’re truly capable of accomplishing that goal, no matter the obstacles, or opinions, or failures that you will inevitably face. It takes a fair amount of foolishness to ever succeed in accomplishing audacious.

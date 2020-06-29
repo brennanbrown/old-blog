@@ -26,6 +26,8 @@ Of course, trying to view such a tradition from such an abstract mindset is real
 
 But no amount of logically arguing the physical _realness_ of birthdays — with myself — can change the fact that they exist. And instead, my time is better off being used thinking about life so far.
 
+<!--more-->
+
 
 <figure class="wp-caption"> 
 

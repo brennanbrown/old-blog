@@ -26,6 +26,8 @@ For the past few years, the world of <a href="https://www.mooc-list.com/" target
 
 <https://medium.freecodecamp.com/the-best-free-online-university-courses-for-learning-a-new-world-language-ccf42ad1b5d5>
 
+<!--more-->
+
 <span>T</span>his, however, is not one of those lists. With this new paradigm of learning, there comes the need to figuring out new methods of understanding and synthesising what is being learned. There is no curriculum, no consequences, no deadlines. This requires an exercise in self-reliance to institute. The student, in a way, must also learn how to become the teacher.
 
 Creating lesson plan — let alone a learning path for yourself — is no simple task. And following through with it is another thing entirely. I am no expert myself, so take this rhetoric with a grain of salt. The examples I am going to be showing are only my own, as I’m using myself as a case study.

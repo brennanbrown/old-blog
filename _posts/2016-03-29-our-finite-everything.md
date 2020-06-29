@@ -20,6 +20,8 @@ tags:
 
 <span>T</span>here are a lot of online writers I’ve seen that post about the fact we can only make so many choices throughout the day before becoming fatigued. <a href="https://medium.com/life-learning/how-to-make-better-decisions-why-zuckerberg-and-obama-wear-the-same-outfit-daily-1b08366b76cd#.i4inqd54a" target="_blank" rel="noopener noreferrer">One recently</a> reached the top stories of Medium.
 
+<!--more-->
+
 As much as I sincerely appreciate the sentiment behind the message, and true as the science behind this might be, it drives me crazy to see it all over the place. The reason this irks me is because there’s a far larger and more obvious limitation we face:
 
 <a href="https://en.wikipedia.org/wiki/Ego_depletion" target="_blank" rel="noopener noreferrer">Ego depletion</a>. We have a finite amount of energy every day. Period. It’s our fundamental physiological nature. You can only expend so many calories and thoughts before your entire body and mind become depleted.

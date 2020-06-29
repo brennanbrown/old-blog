@@ -32,6 +32,8 @@ Anyways, what I do know is that, in spite of having only ninety minutes to write
 
 Sure, these posts might seem negligible. But in my mind, there’s a bigger picture to all of these little articles. Dots that can be connected later to something larger and more meaningful. It’s far easier to just write these little posts rather than plunge into the ice-cold waters of a \*big\* project. It’s also far better to write these than to write nothing at all. The middle ground between the two, if you will.
 
+<!--more-->
+
 #### An Aside: Summary
 
 November Writing, so far:

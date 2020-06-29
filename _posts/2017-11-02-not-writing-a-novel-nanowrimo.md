@@ -25,6 +25,8 @@ tags:
 
 And here I am on Medium, writing this blog post instead of a story. People love writing more about the _process_ of novel-writing than actually writing novels. I’m no exception here.
 
+<!--more-->
+
 ### Elusive Stories: An Introspective
 
 <span>T</span>he _idea_ of writing a novel is what most of us navel-gazers do. The _act_ of writing a novel is both selfish and good. It is a journey of self-discipline and self-discovery.

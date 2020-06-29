@@ -24,6 +24,8 @@ tags:
 
 I often find myself unable to write because of this, beyond that, I find that the amount of information and choices we’re presented with each day hinders our ability to do what we actually want.
 
+<!--more-->
+
 This is why I’m embarking on a search for frugality. Now, that may sound a bit odd at first, but I’m not talking about deprivation from fiscal assets, as the word is usually defined as. Instead, it’s about self-reliance — a value which I think is underappreciated. Essentially, making a game out of boosting the quality of your life with as little as possible.
 
 Capitalism and politics as a whole are a difficult subject to get into without subjective arguing and semantics, but I think it’s fair to say that Western society operates with consumers in mind. I don’t think we should be content with that — or that this is an adequate response to life. Rather, we need a purpose larger than consumption.

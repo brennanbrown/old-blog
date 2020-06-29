@@ -18,8 +18,10 @@ layout: default
         {{ post.excerpt }}
       </div>
     {% endif %}
+    <br/>
     <p class="author">
       <span class="date">Posted On: {{ post.date | date: "%A, %B %d, %Y"}}</span> 
+      <p class="readmore"><a href="{{ post.url }}">Read More ⮕</a></p><br/>
     </p>
   </div>  
   <hr>

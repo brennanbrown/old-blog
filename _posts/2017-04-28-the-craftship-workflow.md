@@ -26,6 +26,8 @@ In my <a href="https://medium.com/@brennanbrown/planning-better-e0d60edbe271" ta
 
 _Craftship_ is a termed for the creative work done by someone who practices a trade or handicraft — it is the act of doing. This is exactly what this workflow is about: taking action instead of contemplating taking action.
 
+<!--more-->
+
 This workflow is heavily inspired by the UX design lifestyle, as well as agile management, but has been adapted for personal use and general creativity.
 <figure class="wp-caption"> 
 

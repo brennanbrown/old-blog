@@ -24,6 +24,8 @@ tags:
 
 There’s no tragic backstory that would provide justification for that kind of behavior. Being self-destructive is one thing — if you want to loft around in empty fields for a lifetime, go for it. The real damage happens when you allow yourself to hurt others in the process.
 
+<!--more-->
+
 It’s hard to write this — not because of shame or ego — but because of how much time has passed. There’s nothing to salvage, here. And it embarrassingly took me years to figure that out. Which is why I’m writing this publicly, instead of attempting to rectify things personally.
 
 You can get to the point where there’s only a bittersweet feeling of two parts rumination and one part nostalgia. Wounds heal — and sometimes they scar. Leaving in their place fragmented memories. But there’s nothing wrong with that.

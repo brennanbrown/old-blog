@@ -23,6 +23,8 @@ One of my favorite — and most popular — vloggers is <a href="https:/
 
 There are quite a lot of people who are inspired by such a work ethic — but is it really something that one should aim for?
 
+<!--more-->
+
 #### Writing and Posting
 
 <span>It</span> would be a mistake to confuse ‘writing every day’ with ‘posting every day’. I think one of the most important things a writer can do for herself is <a href="https://medium.com/everyday-essays/16-rules-of-journaling-i-ve-learned-after-5-years-2b70dbac4328#.mau6vlhq5" target="_blank" rel="noopener noreferrer">write daily</a>. But this is something entirely different, it’s public writing versus private writing.

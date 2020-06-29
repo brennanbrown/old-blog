@@ -26,6 +26,8 @@ Of course, I’ll try my best regardless! It’s far better to get _something_ d
 
 The difficulty comes from the difference between marathoning fiction writing and nonfiction writing, and the access to ideas. Theoretically, you could have new ideas for fiction writing each day, and subsequently keep going indefinitely.
 
+<!--more-->
+
 However, good nonfiction writing needs something external. Research, analysis, and experimentation. There are topics that I’m passionate about, such as user-interface design, but I’m nowhere near knowledgeable to actually write an entire post about the matter. I barely managed to write out <a href="https://medium.com/@brennanbrown/css-hacks-creating-blogs-ce56bc7259a3" target="_blank" rel="noopener noreferrer">an article on CSS</a>.
 
 My <a href="https://medium.com/@brennanbrown/not-writing-a-novel-nanowrimo-3c1dba08f103" target="_blank" rel="noopener noreferrer">rebel-version of NaNoWriMo</a> means that each day, I need to create a self-contained and standalone. In reality, this means that each day needs its own entire process behind it. Whereas a novel is, by definition, a series that happens to the characters within it. This isn’t to say that fiction writing is easier — on the contrary. Good fiction needs to draw from real life and other previous works in a similar manner, but the author is still more the central creator.

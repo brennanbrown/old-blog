@@ -22,6 +22,8 @@ tags:
 
 When we have to ask ourselves why we still haven’t put anything out there yet, we say it’s because it’s not good enough. We pander — hesitating to tell our beloved others about what we’re up too. When we keep all of our messy drafts to ourselves. I’m starting to believe, though, that this is a gentle lie. The honest reason we stop ourselves from putting what we create out there is fear. A gnawing fear that what we do simply won’t matter.
 
+<!--more-->
+
 And it’s difficult to let go of that feeling without also letting go of your integrity. How can you both care deeply about your work and not care at all about its consequences? It’s paradoxical by nature.
 <figure class="wp-caption"> 
 

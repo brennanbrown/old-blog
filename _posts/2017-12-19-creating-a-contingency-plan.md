@@ -39,6 +39,9 @@ Before I get into that, though, let’s take a look at the bright side of the si
 The only reason those posts got written was because, for the first time, I had to churn things out. Challenging myself to write each day for a month made me think long-term and plan out a schedule. It made me think of different topics to explore and ideas to experiment with. In the past, I’ve truthfully just written when inspiration struck.
 
 Not only that, but I joined the <a href="https://medium.com/creators" target="_blank" rel="noopener noreferrer">Medium Partner Program</a> last month as well, which means that I got paid for these stories. It’s the first time I’ve ever been paid for my writing. And seeing that was a wake-up call for me. I was shown that if I put effort into my work and plan things out, then I could make serious side-hustle out of Medium.
+
+<!--more-->
+
 <figure> 
 
 <img data-width="1291" data-height="479" src="https://cdn-images-1.medium.com/max/800/1*MU3-ZkfLrUMy6BoG7vhnZA.png" />  

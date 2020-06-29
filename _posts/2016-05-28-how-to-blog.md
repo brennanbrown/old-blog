@@ -25,6 +25,8 @@ Depending on what statistics you look at, there are an estimated 150–200 milli
 
 — What is the reason for this?
 
+<!--more-->
+
 The answer most often is due to feeling demotivated. It takes work to create original content, more than people can think initially. In addition to this, people can feel further deterred that their work receives little-to-no attention. After this, people consciously or unconsciously move on, neglecting or procrastinating to write anything more.
 
 I think that there’s a perception that creating a blog is not only easy, but a lofty source of secondary, passive income. This is not the case in reality.

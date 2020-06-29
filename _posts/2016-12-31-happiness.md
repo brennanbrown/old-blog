@@ -24,6 +24,8 @@ tags:
 
 I also think questioning the inverse is just as important: _Why are so many people unhappy?_ There is an abundance of resources in civilization right now that has never been seen before in human history — and yet even with that, pessimism seems easier than optimism.
 
+<!--more-->
+
 It’s too easy to get wound up in _what-ifs_, the mind wandering to scenarios where one could _possibly_ be happier. As though there is an emptiness in the heart or mind that — if filled — could become elated with joy. Material possessions, job promotions, the approval of others, ad nauseum. These things can be chased, and then obtained, but what then?
 
 When happiness is seen as something external — something outside of ourselves that we need to obtain by some sort of means — it remains temporary. The environment you’re surrounded in suddenly becomes the decider of your emotions. It can take great strength — particularly in the most difficult and terrible of situation — to no longer allow what occurs around you to dictate your feelings, but it is not an impossible task.

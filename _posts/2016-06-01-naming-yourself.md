@@ -20,6 +20,8 @@ tags:
 
 <span>On</span> Medium, and other social networks, I go by <a href="https://medium.com/u/b1a325aa0b31" target="_blank" rel="noopener noreferrer">Brennan K. Brown</a> because when I first joined Facebook years ago, I’d get messages from total strangers thinking that I was <a href="https://en.wikipedia.org/wiki/Brennan_Brown" target="_blank" rel="noopener noreferrer">Brennan Brown</a>, the American actor. This never really bothered me, but it has made me more aware of my identity as a whole.
 
+<!--more-->
+
 Through-out my teenage years I used to try to come up with a better nickname or pseudonym, something that was unique to me and only me. But none never were good enough to stick, and more often than not I just embarrassed myself.
 
 There were also many attempts at naming side projects. I started solo bands called _Sunset Under Betrayal_, as well as _First Angel East._ The only one that really stuck was _Brennen S. Augustin_, which I then later shortened to <a href="https://augustin.bandcamp.com/" target="_blank" rel="noopener noreferrer">Augustin</a>.

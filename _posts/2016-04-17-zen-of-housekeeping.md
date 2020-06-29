@@ -26,6 +26,8 @@ tags:
 
 It’s not something I aimed for, it just sort of ended up happening — as life often does. However, being a teenaged boy meant that I didn’t really have any experience in this field, so a lot of my initial training was haphazardly on-site. There are times when I’ve found myself without knowing where supplies are and only having an hour to do three hours worth of work.
 
+<!--more-->
+
 It can sometimes feel like a hopeless task, in the beginning, but the feeling of satisfaction when you’re finally finished makes it worth it, without fail. After half a year of I feel as though I’ve maybe learned something— and I’d like to share that.
 
 #### Paradox of Work

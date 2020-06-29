@@ -26,6 +26,8 @@ The myth that the differences of our baselines — where we start out —�
 
 We all start from different places, but we can all end up in the same place — at the finish line. And for some of us, that may take more work than others, and that _is_ unfair, but it’s still possible. Anybody can become good at anything.
 
+<!--more-->
+
 And as we progress, the universal standards of acceptance increase. Take this quote from author Anders Ericcson:
 
 > If you compare the kind of music pieces that Mozart can play at various ages to today’s Suzuki-trained children, he is not exceptional. If anything, he’s relatively average.

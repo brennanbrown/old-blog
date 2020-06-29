@@ -25,6 +25,8 @@ But then nothing happens. I don’t end up posting anything. I grow older and ev
 
 I’m not sure how familiar this will sound to you, but I’ve come to realize that I generally have <b>two modes</b> of operation. I’m either in the process of _creating_ things or _planning to_ create things.
 
+<!--more-->
+
 #### 1. Creating
 
 This post is a good example of when I’m making something — and subsequently publishing it. There’s no forethought, it’s entirely spontaneous. It’s a single, first draft. Everything is done by the seat of my pants.

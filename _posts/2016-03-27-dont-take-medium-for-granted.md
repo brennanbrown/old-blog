@@ -22,7 +22,7 @@ Writing has been a gratifying experience — there’s an amount of catharsi
 
 As it stands right now, I get a view hundred views per day, and that’s exciting! This is mainly from comment responses as opposed to my original work, though — and that’s okay.
 
-
+<!--more-->
 
 I can’t say my timing was the best, though. It’s probably just the newsfeed I’ve accidentally prescribed myself— the <a href="http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en" target="_blank" rel="noopener noreferrer">filter bubble</a> we all unknowingly have — but a few people seem to be uncertain about Medium and it’s future.
 

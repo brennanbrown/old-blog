@@ -24,6 +24,8 @@ tags:
 
 However, this article tells that the amount of criticism of the genre of lifehacking — or self-improvement, or however else you’d like to label it — has reached over a tipping point.
 
+<!--more-->
+
 Instead of nitpicking the current most popular writers on Medium, I thought it would be a better idea to share my ideas on what I think can improve.
 
 I’d like to note that I’m a beginner myself and that I definitely don’t think I’m a better writer than most people in this community. I might even be hypocritical in some parts of this post. This is honestly just my attempt to contribute positively to an ongoing discussion.

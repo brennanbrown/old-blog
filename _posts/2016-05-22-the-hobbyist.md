@@ -26,6 +26,8 @@ When somebody has an avocation that they pursue for its own sake — when th
 
 And I feel so lucky to stumble upon this kind of person because they seem like a rarity. I think I can understand why, though. There are a number of reasons, both societal and personal, that make the hobbyist surprisingly elusive.
 
+<!--more-->
+
 #### Passion
 
 <span><span>“</span>F</span>_ollow Your Passion”_ is a mantra that’s too-often spoken and seldom acted upon. It’s a bad idea — if not a dangerous one — to be chanting this to both ourselves and our youth. It’s far too easy to become anxious over the pressure of trying to not only _find_ what exactly your ‘passion’ is, but then to somehow jump through the hoops to make it your career.

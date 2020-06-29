@@ -25,6 +25,8 @@ tags:
 
 <span>As</span> it stands, the large majority of the internet — and services that operated based on it — run under some contradictory principles. On one hand, everything you use is rather fragile —domains expire all the time, and we live in a world full of budding start-ups that could be bought or <a href="https://www.cbinsights.com/blog/startup-failure-post-mortem/" target="_blank" rel="noopener noreferrer">fail at any time</a>. On the other, these companies operate as though they — and their users — are immortal.
 
+<!--more-->
+
 This is pretty understandable. The largest demographic of the internet are <a href="http://www.statista.com/statistics/272365/age-distribution-of-internet-users-worldwide/" target="_blank" rel="noopener noreferrer">younger people (ages 15–34)</a>, and these businesses have to clearly rely on their users being alive to gain activity and make money.
 
 But as we enter the fourth decade of the internet’s lifespan, we have to seriously start looking into the long-term sustainability of our content and how others will be able to access it — if at all.

@@ -30,6 +30,8 @@ The truth is that it’s more nostalgia than anything. I first got on the websit
 
 <img data-width="1257" data-height="724" src="https://cdn-images-1.medium.com/max/1200/1*jYYH65tL1BuxwPRSDkTX_w.png" /> <figcaption class="wp-caption-text">All of your code in a single document on the left, with a semi-live preview on the right.</figcaption></figure> 
 
+<!--more-->
+
 #### Initial Limits
 
 There are always advantages and limitations that come with using a third-party platform or content-management system. Tumblr provides you a single `index.html` document for your blog. This means that any sort of preprocessing, automation, or unit testing would have to be done externally. While this does limit workflow, it also forces a bit of creativity through simplicity.
