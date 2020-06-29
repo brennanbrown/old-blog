@@ -53,7 +53,6 @@ Mundane, thoughtless actions performed sequentially from morning until night. Re
 Sure, I can artificially add memorability with photos on Instagram, or words on Twitter, but when do I actually review and sift through these, beyond sentimentality?
 
 It is extremely difficult to have such a meaningful, memorable day. Most are caused by things that are completely outside my control. But the ones that I do cause, is when I take true, terrifying action. When there’s real risk, real sacrifice, and real pain.
-Clock at 8:00 by Eunice Lui
 
 It is relatively easy to do whatever pressing work is right in front of you, particularly when demanded by others. And it’s easy to have lofty, someday-I’ll-try dreams and aspirations. The act of combining these both is near-impossible, and feels as though it requires transmutational alchemy.
 

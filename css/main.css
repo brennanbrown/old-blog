@@ -145,7 +145,7 @@ p, ul, ol, li{
 }
 
 h1, h2, h3, h4, .site-nav {
-    font-family: 'Merriweather', serif;
+    font-family: 'PT Serif', serif;
 }
 
 img {
@@ -160,6 +160,12 @@ a {
     text-decoration: none;
 }
 
+blockquote {
+    font-family: 'PT Serif', serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
 hr {
     border-top: 1px solid #bbb;
 }
@@ -170,11 +176,16 @@ figcaption {
 }
 
 .site-title {
-    font-size: 2.5em;
+    font-size: 3em;
 }
 
 .site-nav {
-    font-size: 1.5em;
+    font-size: 1.7em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.site-nav a {
+    text-decoration: underline;
 }
 
 .tags-expo {
@@ -191,12 +202,31 @@ figcaption {
     text-align: center;
 }
 
+.copyright {
+    font-size: 130%;
+}
+
+.menu {
+    font-size: larger;
+}
+
 .menu h2 {
     text-align: center;
 }
 
 .newsletter {
     width: 100%; 
+    margin-bottom: -30px;
+}
+
+.post p {
+    font-size: 17px;
+    font-family: 'PT Serif', serif;
+}
+
+.post-summary p {
+    font-size: 19px;
+    font-family: 'PT Serif', serif;
 }
 
 .post-summary hr{
@@ -221,16 +251,19 @@ figcaption {
 
 .pagination {
     font-weight: bold;
-    font-size: 150%;
+    font-size: 170%;
 }
 
-.pagination a:hover:not(.active) {background-color: #444;}
+.pagination a:hover:not(.active) {
+    background-color: #444;
+}
 
 .page_number {
     margin-top: 10%;
 }
 
 .quote {
+    padding: 5px;
     width: 65%;
     margin: 0 auto;
 }
@@ -238,4 +271,8 @@ figcaption {
 .readmore {
     text-align: right;
     font-size: 18px;
+}
+
+.readmore a {
+    font-family: 'Open Sans', sans-serif;
 }
