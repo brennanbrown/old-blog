@@ -13,9 +13,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1428" data-height="1098" src="https://cdn-images-1.medium.com/max/2560/1*GY915AdPnbSpPbeb93Y-SQ.jpeg" /> <figcaption class="wp-caption-text">HES on an IBM 2250 Mod 4 | <a href="https://en.wikipedia.org/wiki/Light_pen#/media/File:HypertextEditingSystemConsoleBrownUniv1969.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1428" data-height="1098" src="https://cdn-images-1.medium.com/max/2560/1*GY915AdPnbSpPbeb93Y-SQ.jpeg" /> <figcaption class="wp-caption-text">HES on an IBM 2250 Mod 4 | <a href="https://en.wikipedia.org/wiki/Light_pen#/media/File:HypertextEditingSystemConsoleBrownUniv1969.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Attempts at Online Writing.
 
@@ -39,12 +39,10 @@ While this personally disappointed me initially, I do not think it’s a bad thi
 
 But this isn’t what blogging should be. Idealistically — and perhaps personally — I believe that writing things you’re passionate about is all that matters at the end of the day. That is the definition of successful blogging.
 
-
-
 #### Helpful Tips
 
-  * When embarking on trying to create a new blog, searching how to write non-fiction instead of how to blog. Learn to write well, not how to blog well.
-  * Research a specific topic that you sincerely enjoy. You don’t need to be an expert to start writing about it, document your growth from the beginning.
-  * Don’t worry about stats in the beginning. As I’ve said before, the law of serendipity states that those who attempt something longer are more likely to find desired results.
-  * Reach out to those who write about similar things, but do it for the sake of conversation, not favors.
-  * Keep at it. Regardless of metrics, you’ll have produced something meaningful and that will last a long time.
+- When embarking on trying to create a new blog, searching how to write non-fiction instead of how to blog. Learn to write well, not how to blog well.
+- Research a specific topic that you sincerely enjoy. You don’t need to be an expert to start writing about it, document your growth from the beginning.
+- Don’t worry about stats in the beginning. As I’ve said before, the law of serendipity states that those who attempt something longer are more likely to find desired results.
+- Reach out to those who write about similar things, but do it for the sake of conversation, not favors.
+- Keep at it. Regardless of metrics, you’ll have produced something meaningful and that will last a long time.

@@ -14,9 +14,9 @@ tags:
   - UX
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1456" data-height="1024" src="https://cdn-images-1.medium.com/max/2560/1*ovS5DaMRUWt1-4Aj7xX_OQ.jpeg" /> <figcaption class="wp-caption-text">Wall of Skulls | <a href="https://www.flickr.com/photos/waltstoneburner/5070491576/in/gallery-oboudi2001-72157626173750863/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1456" data-height="1024" src="https://cdn-images-1.medium.com/max/2560/1*ovS5DaMRUWt1-4Aj7xX_OQ.jpeg" /> <figcaption class="wp-caption-text">Wall of Skulls | <a href="https://www.flickr.com/photos/waltstoneburner/5070491576/in/gallery-oboudi2001-72157626173750863/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Death from a UX Standpoint
 
@@ -30,9 +30,10 @@ tags:
 This is pretty understandable. The largest demographic of the internet are <a href="http://www.statista.com/statistics/272365/age-distribution-of-internet-users-worldwide/" target="_blank" rel="noopener noreferrer">younger people (ages 15–34)</a>, and these businesses have to clearly rely on their users being alive to gain activity and make money.
 
 But as we enter the fourth decade of the internet’s lifespan, we have to seriously start looking into the long-term sustainability of our content and how others will be able to access it — if at all.
-<figure class="wp-caption"> 
 
-<img data-width="1280" data-height="720" src="https://cdn-images-1.medium.com/max/600/1*EE-NzT5kY91QVr6_vHNT3g.jpeg" /> <figcaption class="wp-caption-text">Démo Satosphère | <a href="https://vimeo.com/88389992" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<figure class="wp-caption">
+
+<img data-width="1280" data-height="720" src="https://cdn-images-1.medium.com/max/600/1*EE-NzT5kY91QVr6_vHNT3g.jpeg" /> <figcaption class="wp-caption-text">Démo Satosphère | <a href="https://vimeo.com/88389992" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 It’s almost impossible for us to actually know what will happen to our data a decade from now — much less a century or a millennium. No matter how many redundant back-ups we might have, our hard drives will inevitably fail or will become incompatible and obsolete. (Although there is speculation of a <a href="http://www.popularmechanics.com/technology/a19459/is-a-quartz-hard-drive-the-first-immortal-storage-medium/" target="_blank" rel="noopener noreferrer">vast improvement</a>.)
 

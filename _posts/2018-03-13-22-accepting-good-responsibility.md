@@ -1,6 +1,6 @@
 ---
 id: 91
-title: '22: Accepting Good Responsibility'
+title: "22: Accepting Good Responsibility"
 date: 2018-03-13T03:56:58+00:00
 author: Brennan K. Brown
 layout: post
@@ -16,7 +16,8 @@ tags:
   - Responsibility
   - Work
 ---
-### Happiness isn’t the Meaning of Life 
+
+### Happiness isn’t the Meaning of Life
 
 It is time for me to grow another year older, and since I wrote last year’s birthday thesis late, I decided to write this one early. Sometimes you have thoughts going through your mind so strongly, you have no choice but to write them down at that very moment.
 
@@ -56,10 +57,10 @@ But this does not answer the question of how, exactly, to do real good for other
 
 #### How I’m Accepting Good Responsibility:
 
-  * <b>Go Vegan</b>. One of the easiest ways to minimize my suffering onto others, particularly animals, is to stop eating them. Almost as important is the fact that livestock production has <a href="http://science.time.com/2013/12/16/the-triple-whopper-environmental-impact-of-global-meat-production/" target="_blank" rel="noopener noreferrer">the largest impact on the environment</a>, more so than any nonrenewable energy.
-  * <b>Consume as little as possible</b>. I have been <a href="https://medium.com/@brennanbrown/actually-matters-7561d31c18d" target="_blank" rel="noopener noreferrer">anti-consumerist</a> for quite awhile, as one of the most ignored problems in our society is the extremely low-quality of life of workers that provide us with such a high-quality of life and ease. Use what you have. Borrow. Swap. Thrift. Make and Grow.
-  * <b>Research effective methods of activism</b>. I would just say ‘become an activist’, but there are so many ineffective ways people try to change the world that I need a better understanding of what works, first.
-  * <b>Only tell the truth.</b> I do not mean I am a compulsive liar, however the many white lies, or lies by omission, that I tell —along with most people — are unnecessary and can have dangerous consequences. There is simply no need for more dishonesty in the world.
-  * <b>Invest more time and effort into philanthropy</b>. I am already active on <a href="https://www.kiva.org/lender/brennanbrown" target="_blank" rel="noopener noreferrer">Kiva</a>, (which is a wonderful website that you should join) however similar to activism, I don’t yet know more effective ways to use my time and money to help others that need it.
-  * <b>Foster a sense of local community.</b> This is more important to me than anything else, and something I constantly think about. The combination of urban development and social media has caused a substantial lack of local, physical community and support for people. Naively put, I want to figure out a way to connect neighbors to have meaningful dialogue and interaction with one another.
-  * <b>Work Hard</b>. Finally, I need to work hard — beyond words. I need to push myself outside of my comfort zone, and confront feelings of difficult effort head-on. The world is in need of those willing to act courageously and selflessly, I know I am not the best candidate, but I will try my best from now on. Happy Birthday.
+- <b>Go Vegan</b>. One of the easiest ways to minimize my suffering onto others, particularly animals, is to stop eating them. Almost as important is the fact that livestock production has <a href="http://science.time.com/2013/12/16/the-triple-whopper-environmental-impact-of-global-meat-production/" target="_blank" rel="noopener noreferrer">the largest impact on the environment</a>, more so than any nonrenewable energy.
+- <b>Consume as little as possible</b>. I have been <a href="https://medium.com/@brennanbrown/actually-matters-7561d31c18d" target="_blank" rel="noopener noreferrer">anti-consumerist</a> for quite awhile, as one of the most ignored problems in our society is the extremely low-quality of life of workers that provide us with such a high-quality of life and ease. Use what you have. Borrow. Swap. Thrift. Make and Grow.
+- <b>Research effective methods of activism</b>. I would just say ‘become an activist’, but there are so many ineffective ways people try to change the world that I need a better understanding of what works, first.
+- <b>Only tell the truth.</b> I do not mean I am a compulsive liar, however the many white lies, or lies by omission, that I tell —along with most people — are unnecessary and can have dangerous consequences. There is simply no need for more dishonesty in the world.
+- <b>Invest more time and effort into philanthropy</b>. I am already active on <a href="https://www.kiva.org/lender/brennanbrown" target="_blank" rel="noopener noreferrer">Kiva</a>, (which is a wonderful website that you should join) however similar to activism, I don’t yet know more effective ways to use my time and money to help others that need it.
+- <b>Foster a sense of local community.</b> This is more important to me than anything else, and something I constantly think about. The combination of urban development and social media has caused a substantial lack of local, physical community and support for people. Naively put, I want to figure out a way to connect neighbors to have meaningful dialogue and interaction with one another.
+- <b>Work Hard</b>. Finally, I need to work hard — beyond words. I need to push myself outside of my comfort zone, and confront feelings of difficult effort head-on. The world is in need of those willing to act courageously and selflessly, I know I am not the best candidate, but I will try my best from now on. Happy Birthday.

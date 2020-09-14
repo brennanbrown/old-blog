@@ -14,16 +14,16 @@ tags:
   - Work
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="3071" data-height="2323" src="https://cdn-images-1.medium.com/max/1200/1*qh4WvKp3HLo5Naw7gZ93aw.jpeg" /> <figcaption class="wp-caption-text"><b>The Ascent of Mont Blanc</b> | <a href="https://en.wikipedia.org/wiki/John_Auldjo#/media/File:The_ascent_of_Mont_Blanc_by_John_Auldjo%27s_party_in_1827;_mou_Wellcome_V0025171.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3071" data-height="2323" src="https://cdn-images-1.medium.com/max/1200/1*qh4WvKp3HLo5Naw7gZ93aw.jpeg" /> <figcaption class="wp-caption-text"><b>The Ascent of Mont Blanc</b> | <a href="https://en.wikipedia.org/wiki/John_Auldjo#/media/File:The_ascent_of_Mont_Blanc_by_John_Auldjo%27s_party_in_1827;_mou_Wellcome_V0025171.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Using Momentum & Mindfulness to Work Harder
 
 <span>T</span><b>HERE’S A BATTLE</b> within all of us. I try to detach for a moment, and recognize the duality — the two distinctive _wants_ that battle for majority attention:
 
-  1. The want of difficulty, and of seeking betterment for ourselves. Doing the right thing for the long-term, no matter how much hard work is needed.
-  2. The want of ease, and taking the path of least resistance. Doing the easiest thing no matter how detrimental it might be long-term.
+1. The want of difficulty, and of seeking betterment for ourselves. Doing the right thing for the long-term, no matter how much hard work is needed.
+2. The want of ease, and taking the path of least resistance. Doing the easiest thing no matter how detrimental it might be long-term.
 
 Biologically speaking, human beings <a href="http://time.com/4027942/lazy-walking-exercise/" target="_blank" rel="noopener noreferrer">have evolved</a> to favor ease over difficulty. Though, our prefrontal cortex — the most complex and cognitive part of our brain — has the ability to want more than just what’s easiest, and tries to combat our more primal and sluggish behavior.
 
@@ -52,7 +52,5 @@ The best way to move on from this and redeem yourself is to realize that you’r
 Do not try to hold onto your shortcomings and regrets, take the lessons you learn from these things then dismiss the rest of the negativity. It helps nobody, particuarly yourself.
 
 It can be rather difficult to understand — let alone control — your emotions if you’ve let them run astray for too long. The <a href="https://dailystoic.com/what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started/" target="_blank" rel="noopener noreferrer">stoic act</a> of distancing yourself from the emotional, impulsive part of your mind is one that needs to be practiced.
-
-
 
 <span>C</span><b>ONCLUSION:</b> If you want to use your time more effectively, and <a href="https://medium.com/@brennanbrown/our-finite-everything-8ed4d9d70a2f" target="_blank" rel="noopener noreferrer">not waste it</a>, work with improving what you’re already doing right, while also working on not being too hard on yourself. Hold onto the good, and let go of the bad.

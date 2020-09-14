@@ -15,9 +15,9 @@ tags:
   - Travel
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1024" data-height="903" src="https://cdn-images-1.medium.com/max/2560/1*RxwPBWA2ey1yQyGVCRGuRQ.jpeg" /> <figcaption class="wp-caption-text">Kids Running | <a href="https://www.flickr.com/photos/wagnertc/4812793374" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1024" data-height="903" src="https://cdn-images-1.medium.com/max/2560/1*RxwPBWA2ey1yQyGVCRGuRQ.jpeg" /> <figcaption class="wp-caption-text">Kids Running | <a href="https://www.flickr.com/photos/wagnertc/4812793374" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 <span>My</span> peers — and a multitude of others — attempt to create an incredible life, from a list of incredible things. _The Bucket List_, as it’s usually called, is well-established as various fantastical objectives that you’d want to accomplish before you die. It’s an understandable and fun idea, upon its premise, but there’s something fundamentally wrong with the idea.
 
@@ -26,9 +26,10 @@ While there isn’t exactly anything right or wrong to want to do within your li
 <!--more-->
 
 Those sorts of accomplishments appear vain, to me. What exactly do you do with your life after you complete them — waste away? I’m instead interested in the more lofty and adventurous ambitions that we set for ourselves. One in particular:
-<figure class="wp-caption"> 
 
-<img data-width="4608" data-height="2592" src="https://cdn-images-1.medium.com/max/600/1*KiLJ63JepjUhbBxsL4zBTA.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/mountains-black-and-white-snow-alps-8729/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<figure class="wp-caption">
+
+<img data-width="4608" data-height="2592" src="https://cdn-images-1.medium.com/max/600/1*KiLJ63JepjUhbBxsL4zBTA.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/mountains-black-and-white-snow-alps-8729/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Wanderlust
 
@@ -42,10 +43,9 @@ Our own Genesis — where we no longer have to be petrified by our oppressiv
 
 Most of us don’t even make it that far, though. Instead, we are able to find an endless supply of excuses why it’s not even possible to try to run away. Finding a false contentment in idolizing those brave enough to leave from the glare of a computer screen or phone.
 
+<figure class="wp-caption">
 
-<figure class="wp-caption"> 
-
-<img data-width="3487" data-height="2615" src="https://cdn-images-1.medium.com/max/800/1*J7CltHdy3kmdNIhOBgtI3w.jpeg" /> <figcaption class="wp-caption-text">The Spirit of Emptiness | <a href="https://www.flickr.com/photos/thomasleuthard/6060549757" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3487" data-height="2615" src="https://cdn-images-1.medium.com/max/800/1*J7CltHdy3kmdNIhOBgtI3w.jpeg" /> <figcaption class="wp-caption-text">The Spirit of Emptiness | <a href="https://www.flickr.com/photos/thomasleuthard/6060549757" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 <span>T</span>here is, though, a tragedy in wanderlust. In the same sense, the entire idea of a bucket list is flawed. In that, it can make us think that the world — our oyster — can be simplified into a handful of extraordinary events. It simply doesn’t work that way.
 
@@ -54,8 +54,6 @@ The romanticized points of world travel, among other aspirations, take up a tiny
 Because we go back to our everyday lives. The mundane and the difficult, and most importantly, the largely forgettable and forgotten. It is not practical to live like this indefinitely, nor should anybody attempt to.
 
 We have to be able to take time out of the mundane to step back and appreciate it. We do not need to constantly and frantically search for more when we are the few that already have so much. There’s so much beauty in the people we have to talk to every day. The nuance of life is what _makes_ it.
-
-
 
 The fresh start is a myth, no matter where you go, you take your mind with you. That’s what is actually bothering you, as much as it seems that it’s the world around you. Our problems are _ours_, they do not stay static as we move on. You will still be the same person, with the same fears and flaws, no matter what climate you decide to quickly run off too.
 

@@ -1,6 +1,6 @@
 ---
 id: 134
-title: 'Not Writing a Novel: NaNoWriMo'
+title: "Not Writing a Novel: NaNoWriMo"
 date: 2017-11-02T00:27:14+00:00
 author: Brennan K. Brown
 layout: post
@@ -15,9 +15,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1024" data-height="768" src="https://cdn-images-1.medium.com/max/2560/1*fkClGWc2ifosLfxVGOOYuw.jpeg" /> <figcaption class="wp-caption-text"><b>November Dreaming</b> | <a href="https://www.flickr.com/photos/mpclemens/2944479527" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1024" data-height="768" src="https://cdn-images-1.medium.com/max/2560/1*fkClGWc2ifosLfxVGOOYuw.jpeg" /> <figcaption class="wp-caption-text"><b>November Dreaming</b> | <a href="https://www.flickr.com/photos/mpclemens/2944479527" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### An Act of Rebellion
 
@@ -40,8 +40,6 @@ Fiction writing, though, has always been something that has eluded me. What stor
 > _It’s so easy to get lost and tangled up into complicated, emotionally-driven plotlines. They’re in your head while you’re in the shower, or while you’re taking transit. But it’ll all fizzle out when you try to articulate it. As though our brains communicate with us in a foreign language._
 
 Great works of <a href="http://www.canadiana.ca/" target="_blank" rel="noopener noreferrer"><em>Canadiana</em></a> have always appealed to me, but the truth is that I don’t think I have what it takes to write that. One day, though, when I actually have something to say. But for now, I’ll still to honing my abilities with the craft of the personal essay. The short and simple musings on things I think about often.
-
-
 
 ### Rebellion
 

@@ -14,6 +14,7 @@ geo_public:
 categories:
   - Blogging
 ---
+
 > &#8220;Apparently I am pushing a jinx about the streets. I am certain that I can do better with some other wagon. A new cart, a new start.&#8221;  
 > &#8211;John Kennedy Toole, Author
 

@@ -16,19 +16,21 @@ tags:
   - Technology
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1024" data-height="768" src="https://cdn-images-1.medium.com/max/2560/1*wm509xrohy46UG3caEwsWQ.png" /> <figcaption class="wp-caption-text"><b>New Office</b> | <a href="https://www.flickr.com/photos/philliecasablanca/3344142642" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
-<figure> 
+<img data-width="1024" data-height="768" src="https://cdn-images-1.medium.com/max/2560/1*wm509xrohy46UG3caEwsWQ.png" /> <figcaption class="wp-caption-text"><b>New Office</b> | <a href="https://www.flickr.com/photos/philliecasablanca/3344142642" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
+
+<figure>
 
 <img data-width="4000" data-height="250" src="https://cdn-images-1.medium.com/max/800/1*75f3FyFy5_WnAC4joYEXJQ.png" />  
-</figure> 
+</figure>
 
 #### Stop being easily swayed by anything that’s in front of you. Start living a value-based lifestyle.
-<figure> 
+
+<figure>
 
 <img data-width="1400" data-height="62" src="https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png" />  
-</figure> 
+</figure>
 
 When you wake up in the morning and get out of bed — or even before you get out of bed — what’s the first thing that grabs your attention? Whatever it is, it’s going to be responsible for your first thoughts of the day. Throughout the rest of your day, you’ll be faced with a bombardment of distractions that will grab your awareness away from what you’re doing.
 
@@ -51,10 +53,11 @@ What does this mean, exactly? Start with the fundamentals — what do you va
 Contrary to what you might think, things become far simpler when you truly know what you want out of life and yourself. When you raise your expectations and cut out everything that isn’t actually necessary for you to be happy.
 
 Forge an identity for yourself out of your passion and who you want to become. Use your attention for good — learn new things, create something, help your community, spend time relaxing by doing things you truly love to do instead of mindlessly scrolling through the Internet for a lukewarm buzz.
-<figure> 
+
+<figure>
 
 <img data-width="1200" data-height="600" src="https://cdn-images-1.medium.com/max/1200/1*0rrraKR-9n9PmtrtsDemYg.png" />  
-</figure> 
+</figure>
 
 There is beauty in getting used to the uncomfortable. People <a href="https://www.theguardian.com/media/2017/feb/02/amusing-ourselves-to-death-neil-postman-trump-orwell-huxley" target="_blank" rel="noopener noreferrer">constantly search out entertainment</a> simply because we’ve become so unused to <a href="https://www.npr.org/sections/alltechconsidered/2015/01/12/376717870/bored-and-brilliant-a-challenge-to-disconnect-from-your-phone" target="_blank" rel="noopener noreferrer">boredom and being bored</a>. The modern mind is restless and uneasy — always looking for a distraction — and this is explicitly why the attention-based economy has been able to do so well.
 
@@ -62,6 +65,6 @@ In all honesty, this approach to life is far more difficult. The human brain is 
 
 With the sheer pace of advancement in technology and the changing tides of the world at large, nothing comes close to being predictable anymore. It’s honestly a scary thought to think of the path we’re headed down if people continue to allow themselves to be easily swayed and dependent on entertainment. A serious and long pause needs to be taken. By everybody.
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
 <img data-width="2400" data-height="1800" src="https://cdn-images-1.medium.com/max/800/1*pRon9UAtEO-JzTY-7mg1jA.png" /><figcaption class="wp-caption-text"><b>Thanks for Reading!</b></figcaption></figure>

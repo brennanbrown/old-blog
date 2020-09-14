@@ -14,9 +14,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="3000" data-height="2250" src="https://cdn-images-1.medium.com/max/2560/1*xdeHxfY_NPhNrbAi6OunKw.jpeg" /> <figcaption class="wp-caption-text"><b>Antique Blank</b> | <a href="https://www.pexels.com/photo/antique-blank-camera-classic-269810/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3000" data-height="2250" src="https://cdn-images-1.medium.com/max/2560/1*xdeHxfY_NPhNrbAi6OunKw.jpeg" /> <figcaption class="wp-caption-text"><b>Antique Blank</b> | <a href="https://www.pexels.com/photo/antique-blank-camera-classic-269810/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Five Steps to Go From Brainstorming to Completed Work
 
@@ -56,8 +56,6 @@ The idea — the actual content — needs to be exciting and novel. But 
 
 <b>Unplug and disconnect.</b> The research phase of writing is the only time you should be using the Internet. Use an offline word processor, or write by hand. Keep things more traditional — for linguistics, have a dictionary and thesaurus on hand.
 
-
-
 ### 2. BRAINSTORM: Bad Ideas > No Ideas.
 
 > “The way to get good ideas is to get lots of ideas and throw the bad ones away.”  
@@ -69,8 +67,6 @@ The idea — the actual content — needs to be exciting and novel. But 
 
 <b>Seek inspiration elsewhere.</b> Look at what other people are blogging about. Don’t be afraid to use their work as inspiration — they’ll take it as a compliment. I came up with the idea of one of my <a href="https://medium.com/@brennanbrown/zen-of-housekeeping-cfd37efb744d" target="_blank" rel="noopener noreferrer">favorite articles</a> from reading someone else’s. Use <a href="https://www.thesitsgirls.com/writing-prompts/" target="_blank" rel="noopener noreferrer">prompts and 30-day challenges</a>. The main point is to just get the ball rolling — a good idea is far more likely to appear if the <a href="https://medium.com/@brennanbrown/the-best-time-to-start-a-new-year-s-resolution-is-right-now-ffdd389fbf01" target="_blank" rel="noopener noreferrer">canvas isn’t blank</a>.
 
-
-
 ### 3. OUTLINE: Craft a Thesis
 
 > “Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”   
@@ -81,8 +77,6 @@ The idea — the actual content — needs to be exciting and novel. But 
 <b>Craft the main thesis.</b> Make it abundantly clear to the readers what that thesis is. Then, start carving out different sections, which can then be broken down further into paragraphs. Determine your supporting content — what will help you get your main point across.
 
 <b>Set goals.</b> Take a moment to decide who your ideal audience is. What are they gaining by your writing? The key to goal-setting in writing is relevancy — how will what you create be relevant to others? Take note of what feelings you think your work should invoke.
-
-
 
 ### 4. DRAFTING & EDITING
 
@@ -107,8 +101,6 @@ The idea — the actual content — needs to be exciting and novel. But 
 
 <b>Review a few more times</b>, just in case. Asking peers for their feedback is always a great idea as well. Then, utilize grammar tools. I personally enjoy using the <a href="http://www.hemingwayapp.com/" target="_blank" rel="noopener noreferrer">Hemingway</a> application, but take its suggestions with a grain of salt. Applications and spell-checkers never catch 100% of errors made, anyways.
 
-
-
 ### 5. CHOPPING: Be Ruthless
 
 > “Less is more.”   
@@ -127,7 +119,5 @@ The idea — the actual content — needs to be exciting and novel. But 
 <b>Be clear and concise.</b> Functional and pragmatic. Distill your message into the smallest amount of words possible. Short is memorable. If it’s easy to digest, it’s easy to share.
 
 <b>Be ruthless.</b> After your first draft is complete, take a pause. Then, return and cut the word count in half.
-
-
 
 > Current Word Count: 5,165

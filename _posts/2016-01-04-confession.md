@@ -9,6 +9,7 @@ permalink: /confession/
 categories:
   - Blogging
 ---
+
 What&#8217;s the purpose of the blog?
 
 Ultimately, this is an experiment. A sandbox for me to write—hopefully even edit—thoughts about subjects that I&#8217;m passionate about.
@@ -25,10 +26,10 @@ Initially, I had the vision of starting off with four or five blogs, each spanni
 
 Here were a few of my undeveloped ideas:
 
-  * Alternative programming, focusing on the quirky side of computer science
-  * Mathematics, and how it affects us in our real, everyday lives
-  * Modern art critique and discussion, even though I don&#8217;t know how to draw myself
-  * Simple living, even though I&#8217;m pretty sure that&#8217;s a myth
+- Alternative programming, focusing on the quirky side of computer science
+- Mathematics, and how it affects us in our real, everyday lives
+- Modern art critique and discussion, even though I don&#8217;t know how to draw myself
+- Simple living, even though I&#8217;m pretty sure that&#8217;s a myth
 
 It was a few years ago that I initially started trying to make this happen. I was going to start my own blogging network. Go by-the-book on marketing, and do it all myself, spamming as much social media as possible without spending a penny.
 
@@ -39,8 +40,6 @@ I researched heavily in different ways of generating income, both passive and ac
 ## What Happened?
 
 &nbsp;
-
-
 
 Luckily for me, I have a passion for long-form writing and memoir-based prose. So you could say that&#8217;s what this blog is centred around. It might be naive to say, but I believe that&#8217;s what blogging should be about.
 
@@ -76,24 +75,24 @@ These rules were actually written a while ago on a [previous journal project I h
 
 ## Daily
 
-  * First and foremost, writing to every day.
-  * Write at least 750 words per entry.
-  * If I fail at either of the above two, I will not detract my future writing by apologizing for it.
-  * Figure out useful tagging and categorization (still something I need to do)
-  * Save a .doc on _LibreOffice_ every day for local storage.
-  * Sync to Evernote on a daily basis, making sure to tag what I already have.
-  * Sync to Dropbox and Drive on a weekly basis. (More about weeks below.)
-  * Write things  that I can &#8216;extract&#8217; and make more meaningful articles about.
-  * Add this list to the Manifesto (More about Manifesto later.) As well as somewhere on this site.
-  * Try to do this first thing in the morning.
-  * Try to write 750 words in under 20 minutes, adding a timer for when I start.
+- First and foremost, writing to every day.
+- Write at least 750 words per entry.
+- If I fail at either of the above two, I will not detract my future writing by apologizing for it.
+- Figure out useful tagging and categorization (still something I need to do)
+- Save a .doc on _LibreOffice_ every day for local storage.
+- Sync to Evernote on a daily basis, making sure to tag what I already have.
+- Sync to Dropbox and Drive on a weekly basis. (More about weeks below.)
+- Write things  that I can &#8216;extract&#8217; and make more meaningful articles about.
+- Add this list to the Manifesto (More about Manifesto later.) As well as somewhere on this site.
+- Try to do this first thing in the morning.
+- Try to write 750 words in under 20 minutes, adding a timer for when I start.
 
 ## Weekly
 
-  * Maintain a &#8216;weekly’ post on main blog to keep promises, habits, and commitments, as well as what I’ve done in that week.
-  * Maintain a spreadsheet recording important factors on a daily basis (hours slept, productivity etc.) and have each week be a separate spreadsheet.
-  * Sync to Dropbox and Drive on a weekly basis.
-  * Complete weekly goals in Manifesto (ie music, coding, social media, fitness)
+- Maintain a &#8216;weekly’ post on main blog to keep promises, habits, and commitments, as well as what I’ve done in that week.
+- Maintain a spreadsheet recording important factors on a daily basis (hours slept, productivity etc.) and have each week be a separate spreadsheet.
+- Sync to Dropbox and Drive on a weekly basis.
+- Complete weekly goals in Manifesto (ie music, coding, social media, fitness)
 
 # Upcoming Posts
 

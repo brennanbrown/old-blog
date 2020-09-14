@@ -14,9 +14,9 @@ tags:
   - Relationships
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1024" data-height="823" src="https://cdn-images-1.medium.com/max/1200/1*EM1vz8fjM0MdVA80wqMMHA.jpeg" /> <figcaption class="wp-caption-text">Solidarity // <a href="https://www.flickr.com/photos/bennyseidelman/24804902164" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1024" data-height="823" src="https://cdn-images-1.medium.com/max/1200/1*EM1vz8fjM0MdVA80wqMMHA.jpeg" /> <figcaption class="wp-caption-text">Solidarity // <a href="https://www.flickr.com/photos/bennyseidelman/24804902164" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### An Open Letter to People I’ve Wronged
 
@@ -30,10 +30,9 @@ It’s hard to write this — not because of shame or ego — but becaus
 
 You can get to the point where there’s only a bittersweet feeling of two parts rumination and one part nostalgia. Wounds heal — and sometimes they scar. Leaving in their place fragmented memories. But there’s nothing wrong with that.
 
+<figure class="wp-caption">
 
-<figure class="wp-caption"> 
-
-<img data-width="833" data-height="1024" src="https://cdn-images-1.medium.com/max/600/1*cOXBVMmQ6ZgDAIc4SuhwFg.jpeg" /> <figcaption class="wp-caption-text">Friends (in Brazil) // <a href="https://www.flickr.com/photos/dfuster74/21961953278" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="833" data-height="1024" src="https://cdn-images-1.medium.com/max/600/1*cOXBVMmQ6ZgDAIc4SuhwFg.jpeg" /> <figcaption class="wp-caption-text">Friends (in Brazil) // <a href="https://www.flickr.com/photos/dfuster74/21961953278" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 The truth of the matter is that apologies are pretty meaningless to anybody but ourselves. The blunt truth is you tell somebody you’re sorry fifteen times in a row to make yourself feel better, not them.
 
@@ -45,12 +44,8 @@ I once tried my absolute hardest to fix my relationship with somebody I really h
 
 It taught me that if you truly love someone, you have to set them free.
 
-
-
 <span>T</span>his isn’t to say that you should guard yourself away others. But you can’t take care of others unless you take care of yourself, first. Similarly, you must be honest with yourself before other people can put their trust in you. Be mindful of your actions, measure their consequences.
 
 You need to allow yourself to be vulnerable, open up to people about what’s truly going on in you. Take the risk of actually talking about the things you enjoy, even to total strangers. Toxicity in relationships rises from trying to hide things.
-
-
 
 I’m sorry.

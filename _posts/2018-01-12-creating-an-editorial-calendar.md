@@ -16,14 +16,15 @@ tags:
   - Writing
 ---
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*75f3FyFy5_WnAC4joYEXJQ.png" data-width="4000" data-height="250"></figure> 
+<figure><img src="https://cdn-images-1.medium.com/max/800/1*75f3FyFy5_WnAC4joYEXJQ.png" data-width="4000" data-height="250"></figure>
 
 #### Organizing & Boosting Your Written Content with a Purpose-driven Schedule
 
 <b>_Summary:_</b> _As a freelance writer, it can be easy to think only in the short-term — Start utilizing a calendar the way big-name publishers do in order to consistently produce high-quality content for a more engaged audience!_
+
 <figure>
 
-<img src="https://cdn-images-1.medium.com/max/800/1*89KCIhYz12DKDRbMNvFA2Q.png" data-width="1400" data-height="148" /> </figure> 
+<img src="https://cdn-images-1.medium.com/max/800/1*89KCIhYz12DKDRbMNvFA2Q.png" data-width="1400" data-height="148" /> </figure>
 
 ### Introduction: The Reason for Using a Calendar
 
@@ -43,13 +44,13 @@ Having a calendar means you can be strategic while also remaining flexible —
 
 In order to compete for the <a href="https://medium.com/@brennanbrown/disrupting-the-attention-based-economy-e53182b37b75" target="_blank" rel="noopener noreferrer">attention of readers online</a>, you must act like a big-name publisher. This means that you need a <a href="https://writingcooperative.com/planning-fdebaab610a5" target="_blank" rel="noopener noreferrer"><strong>content strategy</strong></a>, which you can develop if you ask yourself the following questions:
 
-  1. <b>Who are you producing for?</b>
-  2. <b>What are your goals?</b>
-  3. <b>Which metrics will you use to view the progress of your goals?</b>
-  4. <b>Which kinds of content are going to be a priority?</b>
+1. <b>Who are you producing for?</b>
+2. <b>What are your goals?</b>
+3. <b>Which metrics will you use to view the progress of your goals?</b>
+4. <b>Which kinds of content are going to be a priority?</b>
 <figure>
 
-<img src="https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png" data-width="1400" data-height="62" /> </figure> 
+<img src="https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png" data-width="1400" data-height="62" /> </figure>
 
 ### Elements of a Good Calendar
 
@@ -86,22 +87,22 @@ When looking at content <b>distribution</b>, it’s important to understand rele
 <b>Create a consistent layout </b>— create and use a template so that all tasks on the calendar are similar from the start.
 
 <b>In order to keep organized, be sure to set limitations</b> —becoming overambitious with your schedule can cause you to become burned out too quickly and demotivated. Start small and make sure everything that’s written down is both actionable and specific!
+
 <figure>
 
-<img src="https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png" data-width="1400" data-height="62" /> </figure> 
+<img src="https://cdn-images-1.medium.com/max/800/1*A1HXExeRru-asgR6_gN4Sw.png" data-width="1400" data-height="62" /> </figure>
 
 #### SUMMARY:
 
 Creating an editorial calendar for your writing schedule can help change your perspective on the process and get more serious about it while also improving how you spend your time when working.
 
-  * <b>Start using a calendar!</b> Keep track of when you plan to write and share your work consistently on a dedicated calendar that you have constant access to.
-  * <b>Have two perspectives on your work</b> — the broad long-term overview of everything you plan on doing for the next twelve months, and the detail-oriented short-term for each individual task.
-  * <b>Separate the processes of creation and distribution.</b> Figure out the best time for you to write and the best time for you to share your work on social media, and what assets would be needed for both unique tasks.
-  * <b>Clarify the best use of your time.</b> Be mindful that your resources are limited, review past results to know what is and isn’t working, and figure out what your audience is looking for.
+- <b>Start using a calendar!</b> Keep track of when you plan to write and share your work consistently on a dedicated calendar that you have constant access to.
+- <b>Have two perspectives on your work</b> — the broad long-term overview of everything you plan on doing for the next twelve months, and the detail-oriented short-term for each individual task.
+- <b>Separate the processes of creation and distribution.</b> Figure out the best time for you to write and the best time for you to share your work on social media, and what assets would be needed for both unique tasks.
+- <b>Clarify the best use of your time.</b> Be mindful that your resources are limited, review past results to know what is and isn’t working, and figure out what your audience is looking for.
 <figure class="wp-caption">
 
-<img src="https://cdn-images-1.medium.com/max/800/1*pRon9UAtEO-JzTY-7mg1jA.png" data-width="2400" data-height="1800"><figcaption class="wp-caption-text"><b>Thanks for Reading!</b></figcaption></figure> 
-
+<img src="https://cdn-images-1.medium.com/max/800/1*pRon9UAtEO-JzTY-7mg1jA.png" data-width="2400" data-height="1800"><figcaption class="wp-caption-text"><b>Thanks for Reading!</b></figcaption></figure>
 
 <figure class="wp-caption">
 

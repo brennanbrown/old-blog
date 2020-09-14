@@ -14,9 +14,9 @@ tags:
   - Work
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="4739" data-height="3158" src="https://cdn-images-1.medium.com/max/2560/1*lWBvcW92AIgHjktntIyRNg.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://pixnio.com/miscellaneous/architect-work-desk-drawings-blueprint" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="4739" data-height="3158" src="https://cdn-images-1.medium.com/max/2560/1*lWBvcW92AIgHjktntIyRNg.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://pixnio.com/miscellaneous/architect-work-desk-drawings-blueprint" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Understanding discipline for doing difficult tasks.
 
@@ -37,7 +37,7 @@ The neuroplasticity of our minds only <a href="https://www.ncbi.nlm.nih.gov/pmc/
 #### 2. Self-forgiveness
 
 > “The best time to plant a tree was 20 years ago. The second best time is now.”_   
-> — Chinese Proverb_ 
+> — Chinese Proverb_
 
 <span>Y</span>ou may have been putting a lot of things off. You may have wasted a lot of time so far. That’s okay. The worst thing that people do is harbor guilt and self-deprecation due to the fact they’ve been neglecting to start what they’ve always wanted to do.
 

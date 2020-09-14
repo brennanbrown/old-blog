@@ -14,9 +14,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="3888" data-height="2592" src="https://cdn-images-1.medium.com/max/1200/1*OS9hHUJqhJ5AIlW3gRXPhQ.jpeg" /> <figcaption class="wp-caption-text">Helping Hands // <a href="https://www.flickr.com/photos/juditk/5655247429" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3888" data-height="2592" src="https://cdn-images-1.medium.com/max/1200/1*OS9hHUJqhJ5AIlW3gRXPhQ.jpeg" /> <figcaption class="wp-caption-text">Helping Hands // <a href="https://www.flickr.com/photos/juditk/5655247429" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 <span>W</span>hile I definitely think it’s healthy for people to have dialogues and get into disagreements — sometimes passionately — I also think those who constantly and solely bicker about the current state of affairs aren’t actually providing anything meaningful themselves.
 
@@ -30,15 +30,13 @@ Instead of nitpicking the current most popular writers on Medium, I thought it w
 
 I’d like to note that I’m a beginner myself and that I definitely don’t think I’m a better writer than most people in this community. I might even be hypocritical in some parts of this post. This is honestly just my attempt to contribute positively to an ongoing discussion.
 
-
-
 First off, if you’re in the business of writing for the sake of gaining notoriety, be it for yourself or a brand, or just plain money — then no amount of writing advice can help you.
 
-  1. Writing has never been known to be a get-rich-quick scheme without being completely unethical or incredibly lucky. Even then, it’s tremendously hard work.
-  2. If you want to simply market yourself, <a href="https://www.youtube.com/watch?v=rE3j_RHkqJc" target="_blank" rel="noopener noreferrer">angry viral videos</a> are the way to go.
-<figure class="wp-caption"> 
+1. Writing has never been known to be a get-rich-quick scheme without being completely unethical or incredibly lucky. Even then, it’s tremendously hard work.
+2. If you want to simply market yourself, <a href="https://www.youtube.com/watch?v=rE3j_RHkqJc" target="_blank" rel="noopener noreferrer">angry viral videos</a> are the way to go.
+<figure class="wp-caption">
 
-<img data-width="3925" data-height="2944" src="https://cdn-images-1.medium.com/max/800/1*9xltaKXtgCsi_43-yQbFAg.jpeg" /> <figcaption class="wp-caption-text">Writer’s Block // <a href="https://www.flickr.com/photos/dolmansaxlil/4487159833" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3925" data-height="2944" src="https://cdn-images-1.medium.com/max/800/1*9xltaKXtgCsi_43-yQbFAg.jpeg" /> <figcaption class="wp-caption-text">Writer’s Block // <a href="https://www.flickr.com/photos/dolmansaxlil/4487159833" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 ### Sincere Advice
 

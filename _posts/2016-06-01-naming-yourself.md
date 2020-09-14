@@ -12,9 +12,9 @@ tags:
   - Branding
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1280" data-height="960" src="https://cdn-images-1.medium.com/max/2560/1*BDwGsYPc7z-RC4icRPwX_w.jpeg" /> <figcaption class="wp-caption-text">Citizen Kane Microphone | <a href="https://en.wikipedia.org/wiki/The_Magnificent_Ambersons_%28film%29#/media/File:Citizen-Kane-Microphone.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1280" data-height="960" src="https://cdn-images-1.medium.com/max/2560/1*BDwGsYPc7z-RC4icRPwX_w.jpeg" /> <figcaption class="wp-caption-text">Citizen Kane Microphone | <a href="https://en.wikipedia.org/wiki/The_Magnificent_Ambersons_%28film%29#/media/File:Citizen-Kane-Microphone.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Is it a Rose by any other name, still?
 
@@ -27,8 +27,6 @@ Through-out my teenage years I used to try to come up with a better nickname or 
 There were also many attempts at naming side projects. I started solo bands called _Sunset Under Betrayal_, as well as _First Angel East._ The only one that really stuck was _Brennen S. Augustin_, which I then later shortened to <a href="https://augustin.bandcamp.com/" target="_blank" rel="noopener noreferrer">Augustin</a>.
 
 But wait — why am I bringing any of this up, in the first place?
-
-
 
 <span>O</span>ver the past few months, I’ve come to enjoy writing on Medium quite a lot, and decided that I wanted to get serious about it. I figured the best way to do that was to create a Twitter account and Facebook page just for my writing. Maybe grab a <a href="http://www.name.com/blog/news-2/2015/10/custom-domains-are-now-available-for-medium-writers/" target="_blank" rel="noopener noreferrer">custom domain</a>, too.
 

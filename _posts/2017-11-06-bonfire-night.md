@@ -12,9 +12,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="2580" data-height="1280" src="https://cdn-images-1.medium.com/max/2560/1*UU9-b1X7DrKvExGkaZzFgQ.png" /> <figcaption class="wp-caption-text"><a href="https://pixabay.com/en/campfire-bonfire-fire-fire-place-99058/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="2580" data-height="1280" src="https://cdn-images-1.medium.com/max/2560/1*UU9-b1X7DrKvExGkaZzFgQ.png" /> <figcaption class="wp-caption-text"><a href="https://pixabay.com/en/campfire-bonfire-fire-fire-place-99058/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Minor Thoughts & Trying to Figure Everything Out
 
@@ -53,7 +53,5 @@ Let’s look at this another way:
 > If I were to live 100 times, would I change the world significantly in any of those lifetimes?
 
 While it’s interesting to ponder such a question, it’s irrelevant. I don’t get one hundred tries at this. Nobody does. There’s only one shot to get it right. And I have to start aiming better.
-
-
 
 > Current Word Count: 7,435

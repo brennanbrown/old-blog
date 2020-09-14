@@ -14,14 +14,14 @@ tags:
   - Productivity
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1600" data-height="1067" src="https://cdn-images-1.medium.com/max/2560/1*3r2T5mPRtkLAUStN3se2Qw.jpeg" /> <figcaption class="wp-caption-text"><a href="https://www.pexels.com/photo/scrabble-resolutions-3297/" target="_blank" rel="noopener noreferrer">Image Credit</a></figcaption></figure> 
+<img data-width="1600" data-height="1067" src="https://cdn-images-1.medium.com/max/2560/1*3r2T5mPRtkLAUStN3se2Qw.jpeg" /> <figcaption class="wp-caption-text"><a href="https://www.pexels.com/photo/scrabble-resolutions-3297/" target="_blank" rel="noopener noreferrer">Image Credit</a></figcaption></figure>
 
 <b>Today is not your enemy.</b> There’s no need to complicate today (as in right now) with the uncertainty of the next five years. Every day when you get out of bed in the morning, you have two options:
 
-  1. Do what you want.
-  2. Don’t do what you want.
+1. Do what you want.
+2. Don’t do what you want.
 
 That’s all there is to it. You’re tricking yourself if you think that there’s something beyond the choice of doing what you love or not doing it.
 
@@ -39,8 +39,8 @@ It’s widely known that a large majority of New Year’s Resolutions essentiall
 
 And there’s just too much research and media regarding this for me to spout any more nonsense about it. Because every day when you get out bed, you have two options:
 
-  1. Be a person who is going to change.
-  2. Be a person who is not going to change.
+1. Be a person who is going to change.
+2. Be a person who is not going to change.
 
 This isn’t about capability, this isn’t about potential. This isn’t about test scores or past accomplishments or downfalls. This is about today. At the end of it, you’ll have either accomplished one of those two things. It’s plain binary.
 

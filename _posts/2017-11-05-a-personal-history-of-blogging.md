@@ -14,9 +14,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="2272" data-height="1704" src="https://cdn-images-1.medium.com/max/2560/1*fK7wCMIJlHQPIWlzQPP7iQ.jpeg" /> <figcaption class="wp-caption-text"><b>Desk Auditorium</b> | <a href="https://pxhere.com/en/photo/1009335" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="2272" data-height="1704" src="https://cdn-images-1.medium.com/max/2560/1*fK7wCMIJlHQPIWlzQPP7iQ.jpeg" /> <figcaption class="wp-caption-text"><b>Desk Auditorium</b> | <a href="https://pxhere.com/en/photo/1009335" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Trying to Understand the Democracy of the Internet
 
@@ -38,9 +38,9 @@ Sure, these posts might seem negligible. But in my mind, there’s a bigger pict
 
 November Writing, so far:
 
-  * <a href="https://medium.com/@brennanbrown/not-writing-a-novel-nanowrimo-3c1dba08f103" target="_blank" rel="noopener noreferrer">Day One</a>, I talked about NaNoWriMo and how I’m rebelling against it.
-  * <a href="https://medium.com/@brennanbrown/why-i-write-e425cdda0e10" target="_blank" rel="noopener noreferrer">Day Two</a>, I talked about why I find it important to write.
-  * <a href="https://medium.com/@brennanbrown/my-writing-process-4868f986f97f" target="_blank" rel="noopener noreferrer">Day Three</a>, I talked about how I structure my writing and gave helpful tips.
+- <a href="https://medium.com/@brennanbrown/not-writing-a-novel-nanowrimo-3c1dba08f103" target="_blank" rel="noopener noreferrer">Day One</a>, I talked about NaNoWriMo and how I’m rebelling against it.
+- <a href="https://medium.com/@brennanbrown/why-i-write-e425cdda0e10" target="_blank" rel="noopener noreferrer">Day Two</a>, I talked about why I find it important to write.
+- <a href="https://medium.com/@brennanbrown/my-writing-process-4868f986f97f" target="_blank" rel="noopener noreferrer">Day Three</a>, I talked about how I structure my writing and gave helpful tips.
 
 On day four, well to be perfectly honest with you, I’m not sure yet.  
 Transitioning from one or two articles per month to writing a complete one each day is a challenge.   
@@ -94,7 +94,5 @@ There’s no real takeaway here. No lesson, no actionable content. Just a story 
 It’s impossible to actually know if anything you create will be utilized the way you think it will be. I’ve been hit with inspiration from media in ways I know were wholly incorrect. But that doesn’t matter. The creator’s intent doesn’t matter. That’s the power of the audience. To create meaning wherever you see fit.
 
 Anyways, I’m going to bed. So I think I’ll end it there. Stay tuned for more questionable writing tomorrow.
-
-
 
 > Current Word Count: 6,575

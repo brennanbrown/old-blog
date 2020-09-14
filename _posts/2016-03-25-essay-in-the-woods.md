@@ -13,9 +13,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="5848" data-height="3899" src="https://cdn-images-1.medium.com/max/2560/1*KaVNFCzQ4K5IQXmMjn7_Uw.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/black-and-white-forest-trees-branches-4243/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="5848" data-height="3899" src="https://cdn-images-1.medium.com/max/2560/1*KaVNFCzQ4K5IQXmMjn7_Uw.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/black-and-white-forest-trees-branches-4243/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Writing for the Non-Writer
 

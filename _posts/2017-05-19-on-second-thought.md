@@ -14,9 +14,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="3118" data-height="1921" src="https://cdn-images-1.medium.com/max/2560/1*EIr-FykPoWQCDky-BXYRlA.jpeg" /> <figcaption class="wp-caption-text"><b>Technician in a Bangladesh Laboratory</b> | <a href="https://pixnio.com/vintage-photography/history-photography-pictures/technician-in-a-bangladesh-laboratory-who-was-in-the-process-of-creating-smallpox-vaccine" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3118" data-height="1921" src="https://cdn-images-1.medium.com/max/2560/1*EIr-FykPoWQCDky-BXYRlA.jpeg" /> <figcaption class="wp-caption-text"><b>Technician in a Bangladesh Laboratory</b> | <a href="https://pixnio.com/vintage-photography/history-photography-pictures/technician-in-a-bangladesh-laboratory-who-was-in-the-process-of-creating-smallpox-vaccine" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Working Towards Something Better
 

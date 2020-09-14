@@ -14,9 +14,9 @@ tags:
   - Self Improvement
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="3900" data-height="3097" src="https://cdn-images-1.medium.com/max/2560/1*mjoDxttmf0hiKFeoD4nSBw.jpeg" /> <figcaption class="wp-caption-text"><b>Untitled</b> | <a href="https://www.pexels.com/photo/hands-cup-hot-19586/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3900" data-height="3097" src="https://cdn-images-1.medium.com/max/2560/1*mjoDxttmf0hiKFeoD4nSBw.jpeg" /> <figcaption class="wp-caption-text"><b>Untitled</b> | <a href="https://www.pexels.com/photo/hands-cup-hot-19586/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### — And Getting There
 

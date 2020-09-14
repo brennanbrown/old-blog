@@ -1,6 +1,6 @@
 ---
 id: 162
-title: '23: Dying Without Seeing You Again'
+title: "23: Dying Without Seeing You Again"
 date: 2019-11-22T07:00:00+00:00
 author: Brennan K. Brown
 layout: post
@@ -15,6 +15,7 @@ tags:
   - Social Media
   - Storytelling
 ---
+
 ## Living on fire without putting yourself out — and cherishing the heat.
 
 <blockquote class="wp-block-quote">
@@ -25,9 +26,8 @@ tags:
   <cite>English translation of a purported traditional Chinese curse.</cite>
 </blockquote>
 
-
 <figure class="wp-block-image alignwide size-large">
-<img src="http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w.jpeg" alt="A message is written in graffiti on the campus of the Hong Kong Polytechnic University (PolyU) in Hong Kong" class="wp-image-163" srcset="http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w.jpeg 960w, http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w-300x200.jpeg 300w, http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w-768x512.jpeg 768w, http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w-900x600.jpeg 900w" sizes="(max-width: 960px) 100vw, 960px" /> <figcaption>A message is written in graffiti on the campus of the Hong Kong Polytechnic University (PolyU) in Hong Kong, China November 21, 2019. REUTERS/Athit Perawongmetha</figcaption></figure> 
+<img src="http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w.jpeg" alt="A message is written in graffiti on the campus of the Hong Kong Polytechnic University (PolyU) in Hong Kong" class="wp-image-163" srcset="http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w.jpeg 960w, http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w-300x200.jpeg 300w, http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w-768x512.jpeg 768w, http://wandernotebook.com/wp-content/uploads/2020/01/140Hh5Ol7kIUBb8Uj3FMV1w-900x600.jpeg 900w" sizes="(max-width: 960px) 100vw, 960px" /> <figcaption>A message is written in graffiti on the campus of the Hong Kong Polytechnic University (PolyU) in Hong Kong, China November 21, 2019. REUTERS/Athit Perawongmetha</figcaption></figure>
 
 My good friends! I would like to say hello, once again. For the past three years, I have written a birthday post. A sort of thematic idea that is supposed to encapsulate the idea I would like to live out this year. Small self-experiments just for fun. My fourth one, however, it is _very_ late. My twenty-third birthday was almost a year ago now, with my next birthday now creeping in.
 
@@ -35,7 +35,7 @@ My good friends! I would like to say hello, once again. For the past three years
 
 In truth I have been writing and rewriting this simple post with far too much thought, far too much rumination. The more time that goes by, the more heavy the weight of the idea becomes. What I write has to actually _matter_, to others beyond myself. Because that’s all that actually matters at the end of the day— other people.
 
-## The Story & The Storyteller 
+## The Story & The Storyteller
 
 <p class="has-drop-cap">
   An uneducated layman such as myself, acting as a reductionist, could say that everything we experience boils down to two things: 1) the Story and 2) other people AKA the Storyteller and Listener. Our seemingly lost ability to change the minds of others is within the emotional, fragile art of the story, and not the facts or science.
@@ -59,8 +59,7 @@ You agree to having a constant stream of information appear on a dashboard or fe
 
 Perhaps it’s cynical to say, but our ability to tell our story feels more like a convenient illusion that has been specifically created in order to keep real action from taking place. Your ability to hear and witness the stories of others is outside of your control, and is carefully curated by only a handful of people.
 
-
-<figure class="wp-block-image alignwide size-large"><img src="http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-1024x1024.jpeg" alt="Art for Awkward and Lonely People" class="wp-image-165" srcset="http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-1024x1024.jpeg 1024w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-300x300.jpeg 300w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-150x150.jpeg 150w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-768x768.jpeg 768w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-88x88.jpeg 88w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-900x900.jpeg 900w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw.jpeg 1160w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption><a href="https://forthmagazine.com/visual-art/2018/03/art-for-awkward-lonely-people-an-interview-with-qianqian-ye/" target="_blank" rel="noreferrer noopener"><em>Qianqian Ye</em></a></figcaption></figure> 
+<figure class="wp-block-image alignwide size-large"><img src="http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-1024x1024.jpeg" alt="Art for Awkward and Lonely People" class="wp-image-165" srcset="http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-1024x1024.jpeg 1024w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-300x300.jpeg 300w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-150x150.jpeg 150w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-768x768.jpeg 768w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-88x88.jpeg 88w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw-900x900.jpeg 900w, http://wandernotebook.com/wp-content/uploads/2020/01/1-5UT2gNMGN5-kB7zihHDmw.jpeg 1160w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption><a href="https://forthmagazine.com/visual-art/2018/03/art-for-awkward-lonely-people-an-interview-with-qianqian-ye/" target="_blank" rel="noreferrer noopener"><em>Qianqian Ye</em></a></figcaption></figure>
 
 This piece is not intended to be an eye-opening criticism on the ever-present corporatism and neoliberalism that has successfully penetrated the wild west of the Internet and transformed it into an addictive, political platform for monetary gain. Nothing I could say on that matter hasn’t already been said more eloquently by others. My intention is much more personal and perhaps more morbid in nature, with the idea being the title itself:
 

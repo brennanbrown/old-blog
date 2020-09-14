@@ -14,9 +14,9 @@ tags:
   - Minimalism
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="4608" data-height="2304" src="https://cdn-images-1.medium.com/max/2560/1*gcY3yiCVoz6YaxXayYYpYA.jpeg" /> <figcaption class="wp-caption-text">Solitude | <a href="https://www.flickr.com/photos/thomasleuthard/17829168268" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="4608" data-height="2304" src="https://cdn-images-1.medium.com/max/2560/1*gcY3yiCVoz6YaxXayYYpYA.jpeg" /> <figcaption class="wp-caption-text">Solitude | <a href="https://www.flickr.com/photos/thomasleuthard/17829168268" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Being happier with less.
 
@@ -40,19 +40,17 @@ And I think this can honestly be applied to anyone. No matter who you are or whe
 
 It’s important to meditate on this, because once you know what you have, you can begin to figure out what you no longer need.
 
-
-
 ### Discarding
 
 #### Things I’m cutting out from my life.
 
 <span>As</span> an extension of my previous article, I will be detailing a list of things that I personally think it best for me to stop and let go of. Eventually I’ll conglomerate this article, and more in the future, with the <a href="https://medium.com/everyday-essays/everyday-manifesto-4abe02363c33#.njsrfgtvy" target="_blank" rel="noopener noreferrer">Manifesto </a>as a whole. There’s probably enough information for each specific point that I could write entire articles about them in the future.
 
-  * <b>Junk.</b> Where you live is as much as a temple as your body is. Decluttering your kitchen, bedroom and living room of all the unnecessary objects is oddly therapeutic. A lot of people feel as though this is the _only_ thing you need to do when making space, but I think it’s just one step.
-  * <b>Cleaning products</b>. A surprising amount of housekeeping products are filled with chemicals that are actually <a href="http://davidsuzuki.org/issues/health/science/toxics/the-dirt-on-toxic-chemicals-in-household-cleaning-products/" target="_blank" rel="noopener noreferrer">bad for you</a>. You can pretty much get anything clean with either castile soap, vinegar, baking soda or Borax.
-  * <b>Unhealthy food.</b> Processed, glucose-fructose and <a href="http://www.livestrong.com/article/343850-why-isnt-white-bread-good-for-you/" target="_blank" rel="noopener noreferrer">white carbs</a> (flour, bread, etc.) are unnatural and our body has difficulty processing them. Multi-grain is a good alternative, but prioritizing other food groups like <a href="http://www.fitnessmagazine.com/weight-loss/plans/diets/the-slow-carb-diet/" target="_blank" rel="noopener noreferrer">protein and lentils is better</a>.
-  * <b>Social Media.</b> Anytime spent on Facebook, Reddit and even Medium (unless I’m writing) is essentially wasted time. There are better ways to catch up with people, and there’s no need to read up on new <a href="http://greatist.com/grow/benefits-of-missing-out" target="_blank" rel="noopener noreferrer">happenings <em>every day</em></a>_._ 
-  * <b>Smartphone Usage.</b> By extension, there’s time wasted mindlessly looking at your phone every fifteen minutes. Some people have gone to the extreme of replacing it with a <a href="http://www.huffingtonpost.com/entry/flip-phones-smartphones_us_55afd793e4b07af29d5729ae%5C" target="_blank" rel="noopener noreferrer">flip phone</a>, but my lack of direction causes me to rely on Google Maps too much to do that.
-  * <b>Television.</b> <a href="http://www.theverge.com/a/online-tv-stream-price-guide" target="_blank" rel="noopener noreferrer">Cord-cutting</a> is the phenomenon that is going to overtake modern cable as we know it. It’s easier and cheaper to stream what you enjoy from the internet. Not only that, but there’s a constant bombardment of advertising that promote the wasteful consumerism that I’m trying to avoid.
+- <b>Junk.</b> Where you live is as much as a temple as your body is. Decluttering your kitchen, bedroom and living room of all the unnecessary objects is oddly therapeutic. A lot of people feel as though this is the _only_ thing you need to do when making space, but I think it’s just one step.
+- <b>Cleaning products</b>. A surprising amount of housekeeping products are filled with chemicals that are actually <a href="http://davidsuzuki.org/issues/health/science/toxics/the-dirt-on-toxic-chemicals-in-household-cleaning-products/" target="_blank" rel="noopener noreferrer">bad for you</a>. You can pretty much get anything clean with either castile soap, vinegar, baking soda or Borax.
+- <b>Unhealthy food.</b> Processed, glucose-fructose and <a href="http://www.livestrong.com/article/343850-why-isnt-white-bread-good-for-you/" target="_blank" rel="noopener noreferrer">white carbs</a> (flour, bread, etc.) are unnatural and our body has difficulty processing them. Multi-grain is a good alternative, but prioritizing other food groups like <a href="http://www.fitnessmagazine.com/weight-loss/plans/diets/the-slow-carb-diet/" target="_blank" rel="noopener noreferrer">protein and lentils is better</a>.
+- <b>Social Media.</b> Anytime spent on Facebook, Reddit and even Medium (unless I’m writing) is essentially wasted time. There are better ways to catch up with people, and there’s no need to read up on new <a href="http://greatist.com/grow/benefits-of-missing-out" target="_blank" rel="noopener noreferrer">happenings <em>every day</em></a>_._
+- <b>Smartphone Usage.</b> By extension, there’s time wasted mindlessly looking at your phone every fifteen minutes. Some people have gone to the extreme of replacing it with a <a href="http://www.huffingtonpost.com/entry/flip-phones-smartphones_us_55afd793e4b07af29d5729ae%5C" target="_blank" rel="noopener noreferrer">flip phone</a>, but my lack of direction causes me to rely on Google Maps too much to do that.
+- <b>Television.</b> <a href="http://www.theverge.com/a/online-tv-stream-price-guide" target="_blank" rel="noopener noreferrer">Cord-cutting</a> is the phenomenon that is going to overtake modern cable as we know it. It’s easier and cheaper to stream what you enjoy from the internet. Not only that, but there’s a constant bombardment of advertising that promote the wasteful consumerism that I’m trying to avoid.
 
 <https://powered.by.rabbut.com/da4f511c-b320-4ca0-afd0-d5329614ca1b?c=8>

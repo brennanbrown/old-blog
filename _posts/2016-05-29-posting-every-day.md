@@ -13,9 +13,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1024" data-height="768" src="https://cdn-images-1.medium.com/max/2560/1*yoosKDRynWxHiHrB85mxtw.jpeg" /> <figcaption class="wp-caption-text">Stendig/Vignelli Wall Calendar | <a href="https://www.flickr.com/photos/abonamici/8314319704" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1024" data-height="768" src="https://cdn-images-1.medium.com/max/2560/1*yoosKDRynWxHiHrB85mxtw.jpeg" /> <figcaption class="wp-caption-text">Stendig/Vignelli Wall Calendar | <a href="https://www.flickr.com/photos/abonamici/8314319704" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Writing For the Challenge
 

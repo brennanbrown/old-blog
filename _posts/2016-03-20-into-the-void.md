@@ -14,9 +14,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="3552" data-height="2000" src="https://cdn-images-1.medium.com/max/2560/1*aZtNRCMPmdjg8U_gTx9eew.jpeg" /> <figcaption class="wp-caption-text">Darkness // <a href="https://commons.wikimedia.org/wiki/File:Darkness_%286962063643%29.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3552" data-height="2000" src="https://cdn-images-1.medium.com/max/2560/1*aZtNRCMPmdjg8U_gTx9eew.jpeg" /> <figcaption class="wp-caption-text">Darkness // <a href="https://commons.wikimedia.org/wiki/File:Darkness_%286962063643%29.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### “Perfectionism” is an excuse used often.
 
@@ -25,9 +25,10 @@ When we have to ask ourselves why we still haven’t put anything out there yet,
 <!--more-->
 
 And it’s difficult to let go of that feeling without also letting go of your integrity. How can you both care deeply about your work and not care at all about its consequences? It’s paradoxical by nature.
-<figure class="wp-caption"> 
 
-<img data-width="1291" data-height="1600" src="https://cdn-images-1.medium.com/max/600/1*JrrEv9EzE-tg0sNvgApNzg.jpeg" /> <figcaption class="wp-caption-text">Democritus by Hendrick ter Brugghen, 1628</figcaption></figure> 
+<figure class="wp-caption">
+
+<img data-width="1291" data-height="1600" src="https://cdn-images-1.medium.com/max/600/1*JrrEv9EzE-tg0sNvgApNzg.jpeg" /> <figcaption class="wp-caption-text">Democritus by Hendrick ter Brugghen, 1628</figcaption></figure>
 
 Democritus was a Greek philosopher, who contributed a great amount to the field. One of his hypothesis was about void, particularly in relation to atoms. He wrote that we are merely moving endlessly throughout an infinite void space.
 

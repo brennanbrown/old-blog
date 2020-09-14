@@ -12,9 +12,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1920" data-height="1440" src="https://cdn-images-1.medium.com/max/2560/1*YdpsLvQDB4I90ygLeDZ_Jg.jpeg" /> <figcaption class="wp-caption-text"><b>Type Typewriter</b> | <a href="https://pixabay.com/en/type-typewriter-font-writing-1161952/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1920" data-height="1440" src="https://cdn-images-1.medium.com/max/2560/1*YdpsLvQDB4I90ygLeDZ_Jg.jpeg" /> <figcaption class="wp-caption-text"><b>Type Typewriter</b> | <a href="https://pixabay.com/en/type-typewriter-font-writing-1161952/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Past and Future Writing
 
@@ -35,16 +35,16 @@ But that was over a year ago. And as fun as it was to finally write out all the 
 
 So I’m shifting gears moving forward. The distilled philosophy is that I’m going to try to write what matters. To replace navel-gazing with useful acumen. I’m going to try to benefit a potential audience. To <a href="https://medium.com/@brennanbrown/style-8a569353ad65" target="_blank" rel="noopener noreferrer">educate, inspire, & entertain</a>.
 
-But that’s still only abstract principles and ideals. It doesn’t really deal with the problem I described above, about finding the _what_ of the articles I write. Simply put, the what is an _idea_ — a good idea. (All stories really just boil down to nicely-decorated ideas.) A blog post should have a central thesis and focused.  
-   
+But that’s still only abstract principles and ideals. It doesn’t really deal with the problem I described above, about finding the _what_ of the articles I write. Simply put, the what is an *idea* — a good idea. (All stories really just boil down to nicely-decorated ideas.) A blog post should have a central thesis and focused.
+
+  
 And I believe there’s a common string between everything I’ve written so far — a theme. And I’ve slowly realized that what I have been doing is blogging a book. Each post being more of a rough draft with a sturdy idea behind it.
 
 Soon, I’ll be migrating to a new location. Despite it’s many changes over the years, I still enjoy Medium, and I’ll be cross-posting to it after I migrate. But I think having a piece of personally owned real-estate on the internet is important. Particularly as a web developer — and having the ability to create something of my own.
 
+<figure class="wp-caption">
 
-<figure class="wp-caption"> 
-
-<img data-width="3200" data-height="1800" src="https://cdn-images-1.medium.com/max/2560/1*gGpYbkly-KMqLAkcUKBKqA.jpeg" /> <figcaption class="wp-caption-text"><b>Brown Dwarf Backyardigans</b> | <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17259" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3200" data-height="1800" src="https://cdn-images-1.medium.com/max/2560/1*gGpYbkly-KMqLAkcUKBKqA.jpeg" /> <figcaption class="wp-caption-text"><b>Brown Dwarf Backyardigans</b> | <a href="https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17259" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 ### Addendum: The Future
 

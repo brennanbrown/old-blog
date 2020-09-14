@@ -14,9 +14,9 @@ tags:
   - Moving On
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1024" data-height="1024" src="https://cdn-images-1.medium.com/max/2560/1*2zX72MSv9E9KflUkYFOfVQ.jpeg" /> <figcaption class="wp-caption-text"><b>The loss of a lonely man never makes much of a sound.</b> | <a href="https://www.flickr.com/photos/aye_shamus/5468166652" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1024" data-height="1024" src="https://cdn-images-1.medium.com/max/2560/1*2zX72MSv9E9KflUkYFOfVQ.jpeg" /> <figcaption class="wp-caption-text"><b>The loss of a lonely man never makes much of a sound.</b> | <a href="https://www.flickr.com/photos/aye_shamus/5468166652" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### How lucky it is — to not be victorious.
 

@@ -1,6 +1,6 @@
 ---
 id: 103
-title: 'How to Create &#038; Plan Better'
+title: "How to Create &#038; Plan Better"
 date: 2017-04-26T19:49:32+00:00
 author: Brennan K. Brown
 layout: post
@@ -13,9 +13,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="2048" data-height="1536" src="https://cdn-images-1.medium.com/max/2560/1*NT3wGmhtWsqh_uQjtKkTPw.png" /> <figcaption class="wp-caption-text"><b>Compass Align</b> | <a href="https://commons.wikimedia.org/wiki/File:Compass_align.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="2048" data-height="1536" src="https://cdn-images-1.medium.com/max/2560/1*NT3wGmhtWsqh_uQjtKkTPw.png" /> <figcaption class="wp-caption-text"><b>Compass Align</b> | <a href="https://commons.wikimedia.org/wiki/File:Compass_align.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Using the Internet and Bees
 
@@ -55,8 +55,6 @@ Which leads to the two questions I want answered: 
  1) **How can good work be created consistently without burnout?  
  <b>2) **How can balance be found between creating and planning?</b>
 
-
-
 ### Reminders, Automation, and Graphs
 
 #### The Flaws of To-dos
@@ -65,10 +63,10 @@ I’ve always been a fan of innovate project management. There’s almost nothin
 
 I’ve tried many different productivity programs — Todoist, Trello, Omnifocus, etc. Even analogue methods, such as bullet journaling and dash/plus. However, once I finally finish writing up everything that needs to be done, I don’t feel motivated to start going through everything — I still feel that analysis paralysis — all planning and no creating. I’ve found that there are flaws inherent to the to-do list:
 
-1) Lack of visual progression  
- 2) Lack of sense of accomplishment  
- 3) Lack of urgency  
- 4) Manually checking what’s been done vs. not done
+1. Lack of visual progression  
+    2) Lack of sense of accomplishment  
+    3) Lack of urgency  
+    4) Manually checking what’s been done vs. not done
 
 These have always seemed like personal problems to me (and to an extent, they are) instead of something that could be ‘fixed’ with a radically different method of task management. But that changed.
 
@@ -78,23 +76,24 @@ Never in my life did I think I’d be advocating for a specific productivity too
 
 While I do still think that way, I also think Beeminder helps in a unique and powerful way. What makes it different?
 
-1) Keeping track of <b>systems** as opposed to </b>goals  
- **2) Using integrations to enter updates automatically  
- 3) Visually attractive and auto-generating graphs   
- 4) Constant, yet helpful, reminders
+1. Keeping track of <b>systems** as opposed to </b>goals  
+    **2) Using integrations to enter updates automatically  
+    3) Visually attractive and auto-generating graphs   
+    4) Constant, yet helpful, reminders
 
 Here are a few of my personal examples of things I’m tracking:
-<figure> 
+
+<figure>
 
 <img data-width="1005" data-height="545" src="https://cdn-images-1.medium.com/max/400/1*V1tvUNBUoI94dcaZpX51Ag.png" />  
 </figure> 
-<figure> 
+<figure>
 
 <img data-width="1005" data-height="545" src="https://cdn-images-1.medium.com/max/400/1*Q9bSdpzLXYUludEF0nUsOw.png" />  
 </figure> 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1005" data-height="545" src="https://cdn-images-1.medium.com/max/400/1*85cm2PJfkojmVQw0WYALzA.png" /> <figcaption class="wp-caption-text"><b>From Left-to-Right:</b> Tracking my French with Duolingo, my fitness with Runkeeper, and my productivity with RescueTime.</figcaption></figure> 
+<img data-width="1005" data-height="545" src="https://cdn-images-1.medium.com/max/400/1*85cm2PJfkojmVQw0WYALzA.png" /> <figcaption class="wp-caption-text"><b>From Left-to-Right:</b> Tracking my French with Duolingo, my fitness with Runkeeper, and my productivity with RescueTime.</figcaption></figure>
 
 There’s something about looking at this kind of progress that’s so much more motivating than a series of crossed-out and completed tasks. With Beeminder, each success is added on top of the previous. You can see the accumulation of your progress, you can stockpile your victories. These graphs include helpful scientific data as well, such as variance between data points, delta values, and the Akrasia horizon.
 
@@ -103,10 +102,11 @@ It also bombardes you with reminders via email, sms and even Slack when you’re
 The most important part, though, is that Beeminder forces you to work gradually — linearly — as opposed to impulsively doing a bunch of work at once. You take the middle path and find balance, while also having the ability to slowly push yourself as time goes on.
 
 For more on Beeminder, visit their <a href="http://beeminder.com/" target="_blank" rel="noopener noreferrer"><em>website</em></a>.
-<figure> 
+
+<figure>
 
 <img data-width="331" data-height="693" src="https://cdn-images-1.medium.com/max/600/1*8qAMU_21NfP7ER1REynnRA.png" />  
-</figure> 
+</figure>
 
 ### The Medium Challenge
 

@@ -14,13 +14,13 @@ tags:
   - Time
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="5162" data-height="3441" src="https://cdn-images-1.medium.com/max/2560/1*L0bb_m5eeXpGgEDsP3qgnQ.jpeg" /> <figcaption class="wp-caption-text"><b>Window and Clock</b>, Musée d’Orsay | <a href="https://commons.wikimedia.org/wiki/File:Window_and_clock,_Mus%C3%A9e_d%27Orsay_10_April_2013.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="5162" data-height="3441" src="https://cdn-images-1.medium.com/max/2560/1*L0bb_m5eeXpGgEDsP3qgnQ.jpeg" /> <figcaption class="wp-caption-text"><b>Window and Clock</b>, Musée d’Orsay | <a href="https://commons.wikimedia.org/wiki/File:Window_and_clock,_Mus%C3%A9e_d%27Orsay_10_April_2013.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 > “It is not that we have so little time but that we lose so much. … The life we receive is not short but we make it so; we are not ill provided but use what we have wastefully.”
 
-> — <b>Seneca**, **On the Shortness of Life</b> 
+> — <b>Seneca**, **On the Shortness of Life</b>
 
 <span>T</span>ime is all we have — and it is our only limited currency. You can always get more money, you can always get more energy, but you can never get back time that you’ve spent. No matter how healthy you live, no matter how good your genetics are, your time is rangebound.
 

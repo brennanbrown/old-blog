@@ -14,9 +14,9 @@ tags:
   - Passion
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="2304" data-height="1536" src="https://cdn-images-1.medium.com/max/2560/1*gUN93gdCDlNdkCtOQeg0nw.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://static.pexels.com/photos/1569/black-and-white-man-person-beach.jpeg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="2304" data-height="1536" src="https://cdn-images-1.medium.com/max/2560/1*gUN93gdCDlNdkCtOQeg0nw.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://static.pexels.com/photos/1569/black-and-white-man-person-beach.jpeg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### To be sincere and to have passion.
 
@@ -32,7 +32,7 @@ And I feel so lucky to stumble upon this kind of person because they seem like a
 
 <span><span>“</span>F</span>_ollow Your Passion”_ is a mantra that’s too-often spoken and seldom acted upon. It’s a bad idea — if not a dangerous one — to be chanting this to both ourselves and our youth. It’s far too easy to become anxious over the pressure of trying to not only _find_ what exactly your ‘passion’ is, but then to somehow jump through the hoops to make it your career.
 
-The regrettable result of this is that we submit to the pressure. If we aren’t able to reach the difficult goal and end up working elsewhere — heaven forbid _corporate —_ there’s an unneeded sense of failure that’s created. We succumb to the expectations of those around us instead of our own.
+The regrettable result of this is that we submit to the pressure. If we aren’t able to reach the difficult goal and end up working elsewhere — heaven forbid *corporate —* there’s an unneeded sense of failure that’s created. We succumb to the expectations of those around us instead of our own.
 
 In addition to this, once you find yourself actually having downtime, it’s used poorly instead. We spend our time in front of screens, consuming — whether it’s media, or sports, or our friend’s lives. It can be tempting to think of these as healthy pastimes, but they aren’t. They can be a nice wind-down from the work we don’t really enjoy, but you are instead witnessing the work of others instead of creating something for yourself.
 

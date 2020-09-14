@@ -14,9 +14,9 @@ tags:
   - Work
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="5532" data-height="3688" src="https://cdn-images-1.medium.com/max/2560/1*RijfP3sZSfQXb8V_43OzUA.jpeg" /> <figcaption class="wp-caption-text"><b>Person Making Clay Pot</b> | <a href="https://www.pexels.com/photo/ceramic-artisan-clay-mud-110144/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="5532" data-height="3688" src="https://cdn-images-1.medium.com/max/2560/1*RijfP3sZSfQXb8V_43OzUA.jpeg" /> <figcaption class="wp-caption-text"><b>Person Making Clay Pot</b> | <a href="https://www.pexels.com/photo/ceramic-artisan-clay-mud-110144/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### How to effectively go about doing what’s truly important.
 
@@ -27,7 +27,7 @@ This purpose comes from a place of realistic optimism and idealism. It’s a mes
 
 <!--more-->
 
-It’s a lot to ask, to a point where most people don’t even push themselves to even attempt it. And those that _d_o __attempt to achieve something grand usually stop after failing only once or twice.
+It’s a lot to ask, to a point where most people don’t even push themselves to even attempt it. And those that \_d_o \_\_attempt to achieve something grand usually stop after failing only once or twice.
 
 The reason so few people succeed in capturing the essence of a heartfelt purpose is a lack of faith. Having the faith in yourself that you’re truly capable of accomplishing that goal, no matter the obstacles, or opinions, or failures that you will inevitably face. It takes a fair amount of foolishness to ever succeed in accomplishing audacious.
 
@@ -36,8 +36,6 @@ Don’t back out of a goal as soon as it looks like it’s going to fail —�
 It is important to understand the context of where you currently stand in history. Research your contemporaries that have similar goals — especially if they’re currently doing far better than you are. Research the great thinkers and creators of the past, as well. Having this contextual model will not lead you to achievement, but will guide you in the right direction, like a compass.
 
 At the same time, you must not be rigid with your objectives, either. Do not let pride get in your way — redirect your efforts if you need too. Being agile is far more intelligent than abandoning your efforts altogether and starting from square one.
-
-
 
 **PART TWO: ELIMINATING EVERYTHING NON-ESSENTIAL  
 ** Simply understanding what you want to accomplish will not allow you to actually get it done. The _what_ of work is doing the technical and nitty-gritty, which is the contrary of the initial motivating and lofty goals.

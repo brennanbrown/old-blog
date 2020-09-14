@@ -14,9 +14,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="2667" data-height="2000" src="https://cdn-images-1.medium.com/max/2560/1*xKkxVF0e7Ic7To4T0fcHWQ.jpeg" /> <figcaption class="wp-caption-text">Placid Death | <a href="http://We%20have%20a%20finite%20amount%20of%20energy%20every%20day.%20It%E2%80%99s%20our%20fundamental%20physiological%20nature.%20You%20can%20only%20expend%20so%20many%20calories%20and%20thoughts%20before%20your%20entire%20body%20and%20mind%20is%20depleted." target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="2667" data-height="2000" src="https://cdn-images-1.medium.com/max/2560/1*xKkxVF0e7Ic7To4T0fcHWQ.jpeg" /> <figcaption class="wp-caption-text">Placid Death | <a href="http://We%20have%20a%20finite%20amount%20of%20energy%20every%20day.%20It%E2%80%99s%20our%20fundamental%20physiological%20nature.%20You%20can%20only%20expend%20so%20many%20calories%20and%20thoughts%20before%20your%20entire%20body%20and%20mind%20is%20depleted." target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 <span>T</span>here are a lot of online writers I’ve seen that post about the fact we can only make so many choices throughout the day before becoming fatigued. <a href="https://medium.com/life-learning/how-to-make-better-decisions-why-zuckerberg-and-obama-wear-the-same-outfit-daily-1b08366b76cd#.i4inqd54a" target="_blank" rel="noopener noreferrer">One recently</a> reached the top stories of Medium.
 
@@ -30,13 +30,9 @@ And even further than that, the amount of days we have are finite.
 
 This is beyond our willpower. It’s every single thought and emotion we feel — it’s where we decide to go or not go. Whether we are conscious of it or not, each day we wake up we are deciding our entire identity by the actions we take.
 
-
-
 ### A New Day
 
 While I’m not the biggest quote fanatic, when I was back in high school, I stumbled upon a large typographic poster that was about to be thrown out. It had no source, and searching for it lead to a lot of variants. It took awhile but I finally found the original source.
-
-
 
 <b>Written by an online friend, a few months before his death:</b>
 
@@ -51,8 +47,6 @@ While I’m not the biggest quote fanatic, when I was back in high school, I stu
 > Written a few months before his death from complications from AIDS
 
 <a href="http://eml.berkeley.edu/~olney/words/ric.html" target="_blank" rel="noopener noreferrer"><em>Original source</em></a> by Martha Olney on June 17th, 1998.
-
-
 
 <span>F</span>ar too often do we allow ourselves to waste the time we have. I can’t even count the amount of time I’ve wasted being mad at something or someone. Or wishing for something better than what I have instead of actually trying to obtain it.
 

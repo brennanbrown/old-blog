@@ -14,9 +14,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="4000" data-height="3000" src="https://cdn-images-1.medium.com/max/2560/1*QjBd3ycWZzvBL7LUcZ9PjA.jpeg" /> <figcaption class="wp-caption-text">Hardangerjøkulen | <a href="https://www.flickr.com/photos/neilbanas/8753651011" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="4000" data-height="3000" src="https://cdn-images-1.medium.com/max/2560/1*QjBd3ycWZzvBL7LUcZ9PjA.jpeg" /> <figcaption class="wp-caption-text">Hardangerjøkulen | <a href="https://www.flickr.com/photos/neilbanas/8753651011" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Different ways of thinking about the past and writing.
 
@@ -27,9 +27,10 @@ There’s also the occasional pang of regret, which seems more eye-rolling and s
 <!--more-->
 
 While I definitely believe there is wisdom in listening to the advice of those older than you, most of these articles are — sadly — just variously repeated cheesy lines and clichéd advice. _Spend less time on Facebook, travel around the world._ Okay, cool. How does that make me a better person, though?
-<figure class="wp-caption"> 
 
-<img data-width="1024" data-height="819" src="https://cdn-images-1.medium.com/max/800/1*AqTqAd76nI0zpMy0dPTfUg.jpeg" /> <figcaption class="wp-caption-text">playground, nighttime. | <a href="https://www.flickr.com/photos/brhefele/6321632934" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<figure class="wp-caption">
+
+<img data-width="1024" data-height="819" src="https://cdn-images-1.medium.com/max/800/1*AqTqAd76nI0zpMy0dPTfUg.jpeg" /> <figcaption class="wp-caption-text">playground, nighttime. | <a href="https://www.flickr.com/photos/brhefele/6321632934" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 <span>T</span>he most obvious lesson that I’ve actually retained, so far, is that it’s really impossible to stop yourself from making stupid mistakes. There are those of us too head-strong and stubborn to take the words of others, or our future selves, and instead enthusiastically headbutt our way through our regrettable actions instead.
 
@@ -39,10 +40,9 @@ So, instead of ruefully thinking of ways I could have prevented myself from bein
 
 Rather than rumination, or simply accepting and moving on, why not try the third alternative instead? Look at your past with fresh eyes, figure out a way you can do something _now_ that would affect your future.
 
+<figure class="wp-caption">
 
-<figure class="wp-caption"> 
-
-<img data-width="6510" data-height="4345" src="https://cdn-images-1.medium.com/max/600/1*DgDWvPwyoV3fgF3hytqo9w.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/black-and-white-apple-iphone-smartphone-5299/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="6510" data-height="4345" src="https://cdn-images-1.medium.com/max/600/1*DgDWvPwyoV3fgF3hytqo9w.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/black-and-white-apple-iphone-smartphone-5299/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Blank Page Syndrome
 
@@ -61,8 +61,6 @@ You just have to move on, and maybe become more aware of what you’re actually 
 For me, that’s accepting that in order not burn out, I should probably write less frequently. Specifically, aim for the goal of writing once a week, anytime of the week.
 
 As Anne Frank once wrote, paper has more patience than people. You can go to it whenever. It’s too easy for me to instead think of my journal as a friend — as though I would feel guilty about only coming to it when I felt emotional, and ranted ceaselessly without much sense. But you can do that. You should do that.
-
-
 
 <span>B</span>ut, that’s just one example. The point is that you have to use the future as a tool to fight against the past. Think of creative ways to re-imagine your blunders, and then go do just that. Find ways to take advantage of the life and opportunities you still have — no matter how hopeless things may seem right now.
 

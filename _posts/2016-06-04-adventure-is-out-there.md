@@ -13,9 +13,9 @@ tags:
   - Travel
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1024" data-height="1024" src="https://cdn-images-1.medium.com/max/2560/1*rSunkHXbnm1toQdOGEQaJQ.jpeg" /> <figcaption class="wp-caption-text">Adventure | <a href="https://www.flickr.com/photos/kome8/22690973705" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1024" data-height="1024" src="https://cdn-images-1.medium.com/max/2560/1*rSunkHXbnm1toQdOGEQaJQ.jpeg" /> <figcaption class="wp-caption-text">Adventure | <a href="https://www.flickr.com/photos/kome8/22690973705" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### We can all be explorers.
 
@@ -35,15 +35,11 @@ Whether it’s in nature or it’s urban exploration, it’s impossible to say w
 
 This is not a task that requires much time or energy, either. It’s quite surprising how far one can go in a dedicated weekend. All that’s really needed is to be able to let go of your worries, and instead traverse with a childlike curiosity. That’s all it takes.
 
-
-
 <span>Or</span> perhaps the next adventure comes from within — relying on your actions, instead. To take the bold action that you always tell yourself that you’ll _eventually_ do.
 
 There’s an honest adrenaline rush when we push ourselves, when we take the next step that seems dangerous. But it’s what we need to do if we’re going to live — why settle?
 
 A true spirit of adventures starts when you begin chasing your fears — the things that you might regret — instead of running away from them. Perhaps the next frontier you need to embark is within your own mind.
-
-
 
 <span>T</span>he beauty and importance of every day being an adventure is that you no longer have to yearn and wait. If you only view the romantized travel across continents as adventure, then how often are you going to be adventuring throughout your life? How much of your life are you, then, going to view as wasted?
 

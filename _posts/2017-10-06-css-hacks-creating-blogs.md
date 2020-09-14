@@ -1,6 +1,6 @@
 ---
 id: 92
-title: 'CSS Hacks &#038; Creating Blogs'
+title: "CSS Hacks &#038; Creating Blogs"
 date: 2017-10-06T15:36:35+00:00
 author: Brennan K. Brown
 layout: post
@@ -15,9 +15,9 @@ tags:
   - Web Development
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="1280" data-height="720" src="https://cdn-images-1.medium.com/max/2560/1*Li6bHIrfDgAG27H39y1kXw.jpeg" /> <figcaption class="wp-caption-text"><a href="https://fontsinuse.com/uses/5323/tumblr-logo-2007-2013" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="1280" data-height="720" src="https://cdn-images-1.medium.com/max/2560/1*Li6bHIrfDgAG27H39y1kXw.jpeg" /> <figcaption class="wp-caption-text"><a href="https://fontsinuse.com/uses/5323/tumblr-logo-2007-2013" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Solving Web Design Problems in a Clever Manner.
 
@@ -26,9 +26,10 @@ tags:
 Now, to some it might be a bit silly to use a platform that’s well past it’s heyday — with its parent company <a href="https://www.cnbc.com/2017/06/13/verizon-completes-yahoo-acquisition-marissa-mayer-resigns.html" target="_blank" rel="noopener noreferrer">Yahoo! being acquired by Verizon</a> awhile back, and having a rather uncertain future.
 
 The truth is that it’s more nostalgia than anything. I first got on the website five or six years ago, and tinkering with the layout was my first exposure to programming as a whole. With that said, I should note that all of these tips can be used in any web design and development!
-<figure class="wp-caption"> 
 
-<img data-width="1257" data-height="724" src="https://cdn-images-1.medium.com/max/1200/1*jYYH65tL1BuxwPRSDkTX_w.png" /> <figcaption class="wp-caption-text">All of your code in a single document on the left, with a semi-live preview on the right.</figcaption></figure> 
+<figure class="wp-caption">
+
+<img data-width="1257" data-height="724" src="https://cdn-images-1.medium.com/max/1200/1*jYYH65tL1BuxwPRSDkTX_w.png" /> <figcaption class="wp-caption-text">All of your code in a single document on the left, with a semi-live preview on the right.</figcaption></figure>
 
 <!--more-->
 
@@ -57,9 +58,10 @@ I had assumed that an element had an incorrectly set width, but nothing stood ou
 The answer <a href="https://stackoverflow.com/users/5511849/grey-li" target="_blank" rel="noopener noreferrer">Grey Li</a> was simple and brilliant. A few lines of CSS to add to the end of your styling that would show how much space each element was taking up:
 
     * {<br />    background: #000 !important;<br />    color: #0f0 !important;<br />    outline: solid #f00 1px !important;<br />}
-<figure class="wp-caption"> 
 
-<img data-width="1500" data-height="432" src="https://cdn-images-1.medium.com/max/2560/1*MhY_wzQQJqjwUd46mMae7w.png" /> <figcaption class="wp-caption-text">A prototype of my blog design utilizing the box-model hack.</figcaption></figure> 
+<figure class="wp-caption">
+
+<img data-width="1500" data-height="432" src="https://cdn-images-1.medium.com/max/2560/1*MhY_wzQQJqjwUd46mMae7w.png" /> <figcaption class="wp-caption-text">A prototype of my blog design utilizing the box-model hack.</figcaption></figure>
 
 ### 2. Sidebars Made Easy
 
@@ -85,10 +87,10 @@ Nowadays, clearfix isn’t really needed thanks to the <a href="https://css-tric
 
 There’s a lot more mathematics in CSS then people tend to realize. To determine the measurements of any element, five properties need to be accounted for:
 
-  * The initial <b>width** and **height</b>, which are used to set a specific size for the content box.
-  * The <b>padding</b>, which adjusts space _inside_ the element.
-  * The <b>margin</b>, which adjusts space _outside_ the element.
-  * And the <b>border</b>, which displays _between_ the padding and margin of the element.
+- The initial <b>width** and **height</b>, which are used to set a specific size for the content box.
+- The <b>padding</b>, which adjusts space _inside_ the element.
+- The <b>margin</b>, which adjusts space _outside_ the element.
+- And the <b>border</b>, which displays _between_ the padding and margin of the element.
 
 The way these properties are formulated together to calculate the total size of the element is the box model. (_Note:_ Inline elements do take padding and margin values, it will only push the other elements out horizontally, _not vertically_.)
 
@@ -120,8 +122,6 @@ A quick example: In my second tip when I was creating the sidebar example on Cod
 Emmet takes that shorthand, and converts it into the following:
 
 <https://gist.github.com/brennanbrown/153f8617f3aa5219c4105602d8650db8>
-
-
 
 #### The Result?
 

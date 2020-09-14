@@ -14,9 +14,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="3425" data-height="2146" src="https://cdn-images-1.medium.com/max/2560/1*0IumSMFiL0qKIZg1huhgVQ.jpeg" /> <figcaption class="wp-caption-text"><b>Currency, Money, before Euro. | </b><a href="https://commons.wikimedia.org/wiki/File:Currency,_Money,before_Euro.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3425" data-height="2146" src="https://cdn-images-1.medium.com/max/2560/1*0IumSMFiL0qKIZg1huhgVQ.jpeg" /> <figcaption class="wp-caption-text"><b>Currency, Money, before Euro. | </b><a href="https://commons.wikimedia.org/wiki/File:Currency,_Money,before_Euro.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### Yes, You’ll Have to Pay to Read This — And Here’s Why.
 
@@ -31,7 +31,7 @@ Yesterday, I didn’t post anything. I didn’t write anything, either. Technica
 > It’s not what you pay a man, but what he costs you that counts.   
 >  — Will Rogers
 
-<span>W</span>hy? Good question. To rephrase it: <b>When is your work good enough to ask people to pay for it?</b> Of course, I’m not making people pay solely for my work. It’s a small puddle in the vast ocean of Medium’s $5/month paywall.
+<span>W</span>hy? Good question. To rephrase it: <b>When is your work good enough to ask people to pay for it?</b> Of course, I’m not making people pay solely for my work. It’s a small puddle in the vast ocean of Medium’s \$5/month paywall.
 
 The truth is, if you aren’t paying for something with money, you’re paying for it in some other way. If you aren’t paying for the product, you are the product. Not to mention that time is also a currency itself, with such a bloated amount of information available constantly. Creating something good enough to retain somebody’s attention is almost more difficult than getting them to pay money for it.
 
@@ -108,14 +108,12 @@ Figure out your objectives and values and have your writing revolve around those
 
 ### SUMMARY | When Good Work Deserves Payment:
 
-  * <b>Separating Paid & Goodwill Work.</b> Make the work you want people to pay for and work you’re willing to put out completely for free to invoke goodwill distinct, be completely transparent with people about your marketing.
-  * <b>Being Willing to Fail.</b> Experiment with new topics and styles, and take a stance on topics that might get you flak. Take all criticism in stride, never lash out at somebody because you have a sensitive ego.
-  * <b>A Well-developed Style.</b> Be memorable and interesting — do things differently. Some people will hate it, some people will love it. That’s okay.
-  * <b>Not Repeating Yourself.</b> Expand and improve ideas where you can, but don’t regurgitate them for the sake of accumulating a larger audience.
-  * <b>Not Wasting People’s Time.</b> Don’t try to lure people into something. Don’t waste your own time, either — stop procrastinating.
-  * <b>Adding Value.</b> Most importantly, figure out what meaningful good you’re adding to people’s lives. Develop a personal mantra around your objectives and values and view it before the beginning of any project.
-  * <b>You’re Already Good Enough.</b> Finally, shake off the self-doubt and Impostor Syndrome. Have confidence that there’s an audience for you
-
-
+- <b>Separating Paid & Goodwill Work.</b> Make the work you want people to pay for and work you’re willing to put out completely for free to invoke goodwill distinct, be completely transparent with people about your marketing.
+- <b>Being Willing to Fail.</b> Experiment with new topics and styles, and take a stance on topics that might get you flak. Take all criticism in stride, never lash out at somebody because you have a sensitive ego.
+- <b>A Well-developed Style.</b> Be memorable and interesting — do things differently. Some people will hate it, some people will love it. That’s okay.
+- <b>Not Repeating Yourself.</b> Expand and improve ideas where you can, but don’t regurgitate them for the sake of accumulating a larger audience.
+- <b>Not Wasting People’s Time.</b> Don’t try to lure people into something. Don’t waste your own time, either — stop procrastinating.
+- <b>Adding Value.</b> Most importantly, figure out what meaningful good you’re adding to people’s lives. Develop a personal mantra around your objectives and values and view it before the beginning of any project.
+- <b>You’re Already Good Enough.</b> Finally, shake off the self-doubt and Impostor Syndrome. Have confidence that there’s an audience for you
 
 > Current Word Count: 10,326

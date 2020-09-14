@@ -12,9 +12,9 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="3000" data-height="2000" src="https://cdn-images-1.medium.com/max/2560/1*S8xlaxth2uIZecHTVMNpHw.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/laptop-notebook-working-outside-4778/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="3000" data-height="2000" src="https://cdn-images-1.medium.com/max/2560/1*S8xlaxth2uIZecHTVMNpHw.jpeg" /> <figcaption class="wp-caption-text">Untitled | <a href="https://www.pexels.com/photo/laptop-notebook-working-outside-4778/" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 <span>It</span> has been barely seven days since I’ve decided to let go of my fears and begin writing my thoughts publicly. (Well, not exactly. I wrote a few pieces in the months before, but I’ve been lurking Medium for a few years since it went public.)
 
@@ -41,8 +41,6 @@ I’ve already had great dialogues with some people — <a href="https://med
 We can’t ignore those we don’t like — and we shouldn’t try. But I think responding civilly and not taking it personally is vastly different from letting it get under your skin and retreating to another refuge.
 
 <a href="https://medium.com/u/59cb2e9f3b38" target="_blank" rel="noopener noreferrer">Your Friends @ Medium</a> are here, they exist. If you have concerns, communicate them directly to Medium. Don’t murmur your anxieties from the sidelines — that can just cause fearmongering.
-
-
 
 At the end of the day, though, as much as I like Medium it _is_ just a platform. It’s perfectly fine if people want to embark elsewhere _so long as_ they keep creating content. That’s what is vital. The world is too full of consumers and curators. Too few have the courage to be original and display it publicly.
 

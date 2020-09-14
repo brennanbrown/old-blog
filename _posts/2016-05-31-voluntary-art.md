@@ -14,13 +14,13 @@ tags:
   - Writing
 ---
 
-<figure class="wp-caption"> 
+<figure class="wp-caption">
 
-<img data-width="4256" data-height="2832" src="https://cdn-images-1.medium.com/max/2560/1*OpLEH1zDFVGaKopvYnLc7Q.jpeg" /> <figcaption class="wp-caption-text">Pinot’s Palette | <a href="https://en.wikipedia.org/wiki/Pinot%27s_Palette#/media/File:Pinots_Palette_Class.JPG" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure> 
+<img data-width="4256" data-height="2832" src="https://cdn-images-1.medium.com/max/2560/1*OpLEH1zDFVGaKopvYnLc7Q.jpeg" /> <figcaption class="wp-caption-text">Pinot’s Palette | <a href="https://en.wikipedia.org/wiki/Pinot%27s_Palette#/media/File:Pinots_Palette_Class.JPG" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
 
 #### An argument on doing work for free.
 
-> Author’s Note: This is an extension to a previous post, <a href="https://medium.com/everyday-essays/how-to-blog-379fb5eee26f" target="_blank" rel="noopener noreferrer"><em>How to Blog</em></a>_._ 
+> Author’s Note: This is an extension to a previous post, <a href="https://medium.com/everyday-essays/how-to-blog-379fb5eee26f" target="_blank" rel="noopener noreferrer"><em>How to Blog</em></a>_._
 
 <span>If</span> you ask most artists, writers and other creators, they will stress the importance of not doing work for free, particularly for others. They will tell you not to do internships for free, and they will tell you not to freelance for free, don’t do favors for free. They say it’s important to value your time and your effort. Or more chiefly — value yourself as a creator.
 
@@ -30,8 +30,6 @@ These are professionals that I’m talking about. People who make their liveliho
 
 But what that’s the wrong answer? What if we instead viewed our work in an entirely different light?
 
-
-
 #### Motivation
 
 <span>A</span> few years back, when I was volunteering at my local music festival, we had a group meeting, and one of the volunteer coordinators said something that I still think about to this day:
@@ -39,8 +37,6 @@ But what that’s the wrong answer? What if we instead viewed our work in an ent
 > If they paid me, I’d have to be here.
 
 When a price tag is put on something, it becomes obligatory. It has to meet certain criteria, and is subsequently no longer entirely of our own. It is a mistake to think of what you produce solely from monetary value, and you shouldn’t be creating in the first place if that’s your mindset from the get go.
-
-
 
 Often times, too, it’s more of an attempt to squeeze blood from a stone. Also awhile back, I ran an independent music review website, and made only a few dollars from AdSense in the span of months and dozens of articles.
 
