@@ -87,6 +87,10 @@
         padding: 5px;
         margin: 5px;
     }
+
+    .menu h2 {
+        padding-top: 30px;
+    }
 }
 
 @media only screen and (max-width: 999px) {
