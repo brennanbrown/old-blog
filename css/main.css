@@ -25,6 +25,8 @@
     .menu {
         width: 25%;
         float: left;
+        padding: 1em;
+        margin-top: -50px;
     }
 
     .post {
@@ -116,8 +118,8 @@
     }
 
     a {
-        color: #004;
-        background-color: #fffcdb;
+        color: rgb(24, 24, 126);
+        background-color: #fff9c1;
         padding: 3px;
     }
 
@@ -144,8 +146,6 @@
 }
 
 /* MAIN */
-
-
 
 body {
     background-color: #fff;
