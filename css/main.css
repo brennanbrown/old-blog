@@ -386,8 +386,11 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
 /* Ensure header/nav links are readable in light mode */
 .full-width a { color: var(--link); }
 .full-width a:hover { color: var(--link-hover); }
+.full-width a:visited { color: var(--link); }
 .site-title-a { color: var(--text); }
 .site-title-a:hover { color: var(--link); }
+.site-title-a:visited { color: var(--text); }
+.site-nav a:visited { color: var(--link); }
 
 /* Site header */
 .site-title { font-size: clamp(2rem, 1.5rem + 2vw, 3rem); }
@@ -496,6 +499,15 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
 /* Indent paragraphs for better long-form readability (not first paragraph) */
 .post-content p { text-indent: 0; }
 .post-content p + p { text-indent: 1.4em; }
+.post-content p { text-align: justify; text-justify: inter-word; }
+.menu p { text-align: justify; text-justify: inter-word; }
+
+/* Markdown-friendly spacing */
+.post-content h2, .post-content h3 { margin-top: var(--space-5); }
+.post-content ul, .post-content ol { margin: var(--space-3) 0 var(--space-3) var(--space-5); }
+.post-content li { margin-bottom: var(--space-2); }
+.post-content pre, .post-content code { font-family: var(--font-mono); }
+.post-content pre { background: var(--bg-alt); padding: var(--space-3); border-radius: var(--radius); overflow: auto; }
 
 /* Quotes */
 .quote { max-width: 68ch; margin: 0.5rem auto; color: var(--muted); }

@@ -22,7 +22,7 @@
 
   <h2>Tags</h2>
   <div class="tags-expo">
-    <select aria-label="Jump to a tag" onchange="if(this.value){ window.location.href='{{ '/tagged' | prepend: site.baseurl | prepend: site.url }}#'+this.value; }">
+    <select aria-label="Jump to a tag" onchange="if (this.value) { window.location.href='{{ '/tagged' | prepend: site.baseurl | prepend: site.url }}#' + this.value; }; return false;">
       <option value="">Browse tags…</option>
       {% assign sorted_tags = (site.tags | sort:0) %}
       {% for tag in sorted_tags %}
