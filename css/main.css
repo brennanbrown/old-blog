@@ -314,13 +314,19 @@ figcaption {
   --border: #e5e7eb;
   --accent: #ffb703;
 
-  --font-sans: 'Noto Sans', system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji';
+  --font-sans: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji';
   --font-serif: 'EB Garamond', ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
   --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 
   --maxw: 1120px;
   --gutter: clamp(16px, 2vw + 8px, 28px);
   --radius: 10px;
+  --space-1: 0.25rem; /* 4px */
+  --space-2: 0.5rem;  /* 8px */
+  --space-3: 0.75rem; /* 12px */
+  --space-4: 1rem;    /* 16px */
+  --space-5: 1.5rem;  /* 24px */
+  --space-6: 2rem;    /* 32px */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -422,6 +428,8 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
   box-shadow: 0 1px 2px rgba(0,0,0,0.04);
 }
 
+.post-summary { margin-bottom: var(--space-5); }
+
 .post-title { font-size: clamp(1.5rem, 1.1rem + 1.6vw, 2.2rem); }
 .post-subtitle { color: var(--muted); }
 
@@ -433,10 +441,10 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
 .post-summary p { font-size: 1rem; }
 
 .post-meta {
-  text-align: center;
+  text-align: left;
   background: transparent;
   border-radius: var(--radius);
-  padding: 0.5rem 0;
+  padding: 0 0 var(--space-3) 0;
   color: var(--muted);
 }
 
@@ -454,13 +462,14 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
   padding: clamp(16px, 2.5vw, 24px);
   box-shadow: 0 1px 2px rgba(0,0,0,0.04);
 }
-.menu h2 { padding-top: 0; text-align: left; }
+.menu h2 { padding-top: 0; text-align: left; margin: 0 0 var(--space-3) 0; }
+.menu > * + * { margin-top: var(--space-4); }
 .newsletter { margin: 0; }
 
 .tags-expo a { display: inline-block; margin: 0 0.35rem 0.35rem 0; }
 
 /* Pagination */
-.pagination { font-size: 1.1rem; display: flex; align-items: center; justify-content: center; gap: 1rem; margin-top: 1rem; }
+.pagination { font-size: 1rem; display: flex; align-items: center; justify-content: center; gap: 0.75rem; margin-top: var(--space-4); }
 .pagination a { color: var(--link); padding: 0.25rem 0.5rem; border-radius: 6px; border: 1px solid transparent; }
 .pagination a:hover { background: var(--bg-alt); border-color: var(--border); }
 .page_number { margin: 0; font-variant-numeric: tabular-nums; }
@@ -475,6 +484,17 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
   font-size: 0.95rem;
 }
 .post-summary-meta a { color: var(--link); }
+
+/* Keep summary meta left-aligned and consistent spacing */
+.post-summary .post-meta { display: flex; justify-content: flex-start; }
+.post-summary .tags a, .post-summary .categories a { margin-right: var(--space-2); }
+
+/* Hide legacy footer line within summaries */
+.post-summary .author { display: none; }
+
+/* Indent paragraphs for better long-form readability (not first paragraph) */
+.post-content p { text-indent: 0; }
+.post-content p + p { text-indent: 1.4em; }
 
 /* Quotes */
 .quote { max-width: 68ch; margin: 0.5rem auto; color: var(--muted); }
