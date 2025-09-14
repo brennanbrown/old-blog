@@ -1,3 +1,4 @@
+.post .post-content { max-width: 75ch; margin: 0 auto; }
 /* RESPONSIVE DESIGN */
 
 @media only screen and (min-width: 1000px) {
@@ -309,8 +310,8 @@ figcaption {
   --bg-alt: #f8f9fb;
   --text: #111318;
   --muted: #5b6470;
-  --link: #2b5fd6;
-  --link-hover: #1a3f99;
+  --link: #1f3aa3; /* darker for readability */
+  --link-hover: #112a7a;
   --border: #e5e7eb;
   --accent: #ffb703;
 
@@ -397,7 +398,7 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
 @media (min-width: 1000px) {
   .page-content {
     display: grid;
-    grid-template-columns: 1fr minmax(0, 720px) minmax(260px, 340px) 1fr;
+    grid-template-columns: 1fr minmax(0, 720px) minmax(280px, 360px) 1fr;
     gap: var(--gutter);
   }
   /* Override legacy floats/widths */

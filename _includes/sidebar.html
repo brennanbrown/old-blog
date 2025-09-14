@@ -20,8 +20,17 @@
 
   <br />
 
-  <h2>Categories</h2>
+  <h2>Tags</h2>
   <div class="tags-expo">
-    <p><a href="{{ '/tagged' | prepend: site.baseurl | prepend: site.url }}">Browse all categories →</a></p>
+    <select aria-label="Jump to a tag" onchange="if(this.value){ window.location.href='{{ '/tagged' | prepend: site.baseurl | prepend: site.url }}#'+this.value; }">
+      <option value="">Browse tags…</option>
+      {% assign sorted_tags = (site.tags | sort:0) %}
+      {% for tag in sorted_tags %}
+        {% assign t = tag | first %}
+        {% assign posts = tag | last %}
+        <option value="{{ t | slugify }}">{{ t }} ({{ posts | size }})</option>
+      {% endfor %}
+    </select>
+    <p style="margin-top: 0.5rem;"><a href="{{ '/tagged' | prepend: site.baseurl | prepend: site.url }}">See full tags page →</a></p>
   </div>
 </div>
