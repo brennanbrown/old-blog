@@ -10,11 +10,16 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
     href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="apple-touch-icon" sizes="180x180" href="/fav/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
-  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/fav/apple-touch-icon.png" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/fav/favicon-32x32.png" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/fav/favicon-16x16.png" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="manifest" href="{{ "/site.webmanifest" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
-    href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@600;700&display=swap"
+    href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Noto+Sans:wght@400;600;700&display=swap"
     rel="stylesheet">
+  {% if site.plugins contains 'jekyll-seo-tag' %}
+    {% seo %}
+  {% endif %}
 </head>
