@@ -2,32 +2,41 @@
 layout: default
 ---
 
+<div class="main">
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}"
-        itemprop="datePublished">{{ page.date | date: "%b %d, %Y" }}</time>
-      {% if page.author %} &middot; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span
-          itemprop="name">{{ page.author }} &middot;</span></span>{% endif %}
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %d, %Y" }}</time>
+      {% if page.author %}
+        &middot; <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
+      {% endif %}
+
+      {% comment %} Reading time calculation: words/200 rounded up {% endcomment %}
+      {% assign words = content | number_of_words %}
+      {% assign minutes_float = words | divided_by:200.0 %}
+      {% assign minutes = minutes_float | ceil %}
+      &middot; <span class="reading-time">{{ minutes }} min read</span>
+
+      {% if page.categories and page.categories.size > 0 %}
+        &middot; <span class="categories">
+          {% for c in page.categories %}<a href="{{ site.baseurl }}{{ site.url }}/{{ c | slugify }}/">{{ c }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+        </span>
+      {% endif %}
 
       <br />
 
       {% assign post = page %}
       {% if post.tags.size > 0 %}
-
-      {% assign tags_content = "" %}
-      {% for post_tag in post.tags %}
-      {% capture tags_content_temp %}
-      {{ tags_content }}<a href="{{ site.url }}{{ site.baseurl }}/tagged#{{ post_tag | slugify }}">#{{ post_tag }}</a>
-      {% endcapture %}
-      {% assign tags_content = tags_content_temp %}
-      {% endfor %}
-
-      <span class="tags" itemprop="tags">{{ tags_content }}</span>
-
+        {% assign tags_content = "" %}
+        {% for post_tag in post.tags %}
+          {% capture tags_content_temp %}
+          {{ tags_content }}<a href="{{ site.url }}{{ site.baseurl }}/tagged#{{ post_tag | slugify }}">#{{ post_tag }}</a>
+          {% endcapture %}
+          {% assign tags_content = tags_content_temp %}
+        {% endfor %}
+        <span class="tags" itemprop="tags">{{ tags_content }}</span>
       {% endif %}
-
     </p>
   </header>
   <div class="post-content" itemprop="articleBody">
@@ -36,3 +45,4 @@ layout: default
   <hr>
   {% include disqus.html %}
 </article>
+</div>
