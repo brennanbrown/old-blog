@@ -25,9 +25,21 @@ description: >- # this means to ignore newlines until "baseurl:"
   sharing resources, creating things, and
   trying to be better.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://brennan-archive.netlify.app" # the base hostname & protocol for your site
 twitter_username: brennankbrown
 github_username: brennanbrown
+
+# SEO metadata
+author: "Brennan K. Brown"
+twitter:
+  username: brennankbrown
+  card: summary_large_image
+social:
+  name: "Brennan K. Brown"
+  links:
+    - https://brennan-archive.netlify.app
+    - https://twitter.com/brennankbrown
+    - https://github.com/brennanbrown
 
 paginate: 4
 paginate_path: "/page/:num/"
@@ -35,9 +47,18 @@ excerpt_separator: <!--more-->
 
 # Build settings
 
+timezone: America/Winnipeg
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Analytics and comments
+# Set your GA4 Measurement ID (e.g., G-XXXXXXXXXX) to enable analytics.
+ga4_measurement_id: "G-49BH4DQMC2"
+disqus_shortname: "brennan-archive"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
