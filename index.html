@@ -36,11 +36,9 @@ layout: default
       {{ post.excerpt | strip_html | truncatewords: 40 }}
     </div>
     {% endif %}
-    <br />
-    <p class="author">
-      <p class="readmore"><a href="{{ post.url }}" aria-label="Read more: {{ post.title }}">Read More ⮕</a></p><br />
-      <span class="date">Posted On: {{ post.date | date: "%A, %B %d, %Y"}}</span>
-    </p>
+    <div class="summary-footer">
+      <a class="readmore-link" href="{{ post.url }}" aria-label="Read more: {{ post.title }}">Read More ⮕</a>
+    </div>
   </div>
   <hr>
   {% endfor %}

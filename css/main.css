@@ -506,3 +506,19 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
 @media (prefers-color-scheme: dark) {
   img { filter: brightness(0.95) contrast(1.05); }
 }
+
+/* --- Overrides to normalize summary hierarchy and alignment --- */
+.post-summary h2 { margin-bottom: var(--space-2); font-family: var(--font-serif); }
+.post-summary .post-meta { 
+  text-align: left !important; /* override legacy .post-meta centering */
+  display: flex; 
+  flex-wrap: wrap; 
+  gap: 0.35rem 0.6rem; 
+  align-items: center; 
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-bottom: var(--space-3);
+}
+.post-summary .post-subtitle { margin-top: var(--space-2); }
+.summary-footer { display: flex; justify-content: flex-end; margin-top: var(--space-3); }
+.summary-footer .readmore-link { font-weight: 600; }
