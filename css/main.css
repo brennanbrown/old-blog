@@ -485,8 +485,8 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
 }
 .post-summary-meta a { color: var(--link); }
 
-/* Keep summary meta left-aligned and consistent spacing */
-.post-summary .post-meta { display: flex; justify-content: flex-start; }
+/* Post summary meta alignment */
+.post-summary .post-meta { display: flex; justify-content: center; text-align: center !important; }
 .post-summary .tags a, .post-summary .categories a { margin-right: var(--space-2); }
 
 /* Hide legacy footer line within summaries */
@@ -500,7 +500,7 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
 .quote { max-width: 68ch; margin: 0.5rem auto; color: var(--muted); }
 
 /* Footer */
-.copyright { font-size: 1rem; color: var(--muted); }
+.copyright { font-size: 1rem; color: var(--muted); margin-top: var(--space-6); padding-top: var(--space-4); border-top: 1px solid var(--border); }
 
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
@@ -510,7 +510,7 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
 /* --- Overrides to normalize summary hierarchy and alignment --- */
 .post-summary h2 { margin-bottom: var(--space-2); font-family: var(--font-serif); }
 .post-summary .post-meta { 
-  text-align: left !important; /* override legacy .post-meta centering */
+  text-align: center !important; /* override legacy centering/left rules */
   display: flex; 
   flex-wrap: wrap; 
   gap: 0.35rem 0.6rem; 

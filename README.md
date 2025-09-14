@@ -1,18 +1,14 @@
-# Notebook de Casa: Notes on Everyday Life
+# Brennan's Old Blog
 
 > A personal collection of essays I've written. A personal journey of lifelong learning, sharing resources, creating things, and trying to be better.
 
-[![Issues](https://img.shields.io/github/issues/brennanbrown/blog?style=flat-square)](https://github.com/brennanbrown/blog/issues)
-[![Forks](https://img.shields.io/github/forks/brennanbrown/blog?style=flat-square)](https://github.com/brennanbrown/blog/forks)
-[![Stars](https://img.shields.io/github/stars/brennanbrown/blog?style=flat-square)](https://github.com/brennanbrown/blog/)
-[![Gem Version](http://img.shields.io/gem/v/suchgem.svg)](https://rubygems.org/gems/suchgem)
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+This is an archive of my earlier writing and experiments in web design.
 
 ## History
 
 This blog was originally started in 2015 on [Medium](https://medium.com/brennanbrown) called _Everyday Essays_ after I graduated from high school, after years of telling myself _"I really wanna start a blog!"_
 
-Since then, I have migrated to WordPress with the name Wander Notebook, (still available to view [here](http://wandernotebook.com/)) to now self-hosting on GitHub using a bare-bones layout and design I made myself, under the name [Notebook Casa](https://brenblog.netlify.app/).
+Since then, I have migrated to WordPress with the name Wander Notebook, (still available to view [here](http://wandernotebook.com/)) to self-hosting on GitHub using a bare-bones layout and design I made myself. This repository now powers the archived site at [brennan-archive.netlify.app](https://brennan-archive.netlify.app).
 
 With no expertise or formal education, I have written a multitude of posts on various topics over the years. My most frequented topics are happiness, creativity, productivity, and writing itself.
 
@@ -28,12 +24,12 @@ Although the age of (poorly designed) Geocities and Livejournal are over, people
 
 ## Recommended Reading
 
-If you haven't read any of my work before, here are my favorite pieces:
+If you haven't read any of my work before, here are a few pieces:
 
-- [My Writing Process: Five steps to go from brainstorming to completed work.](https://brenblog.netlify.app/my-writing-process/)
-- [The Way of Work: Understanding discipline for doing difficult tasks.](https://brenblog.netlify.app/the-way-of-work/)
-- [Zen of Housekeeping: Life as a kitchen sink.](https://brenblog.netlify.app/zen-of-housekeeping/)
-- [Our Finite Everything: The Limited Amount We Have.](https://brenblog.netlify.app/our-finite-everything/)
+- [My Writing Process: Five steps to go from brainstorming to completed work.](https://brennan-archive.netlify.app/my-writing-process/)
+- [The Way of Work: Understanding discipline for doing difficult tasks.](https://brennan-archive.netlify.app/the-way-of-work/)
+- [Zen of Housekeeping: Life as a kitchen sink.](https://brennan-archive.netlify.app/zen-of-housekeeping/)
+- [Our Finite Everything: The Limited Amount We Have.](https://brennan-archive.netlify.app/our-finite-everything/)
 
 ## Contributing
 
@@ -49,10 +45,10 @@ Specifically, this means that you may use or reuse anything I create (including 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
-<span>Notebook de Casa</span> by <a href="https://brenblog.netlify.app" rel="cc:attributionURL">Brennan K. Brown</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<span>Brennan's Old Blog</span> by <a href="https://brennan-archive.netlify.app" rel="cc:attributionURL">Brennan K. Brown</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 The web design and code for this repository are written under the GNU General Public License v3
 
 ## Acknowledgements
 
-This website is powered by [Jekyll!](https://jekyllrb.com/), a simple, blog-aware, static site generator that was created by Tom Preston-Werner, GitHub's co-founder.
+This website is powered by [Jekyll](https://jekyllrb.com/), a simple, blog-aware, static site generator.
