@@ -509,6 +509,51 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 2rem 0; }
 .post-content pre, .post-content code { font-family: var(--font-mono); }
 .post-content pre { background: var(--bg-alt); padding: var(--space-3); border-radius: var(--radius); overflow: auto; }
 
+/* Rich blockquotes for Markdown */
+.post-content blockquote {
+  position: relative;
+  margin: var(--space-5) auto;
+  padding: var(--space-4) var(--space-5);
+  background: var(--bg-alt);
+  border-left: 4px solid var(--link);
+  border-radius: var(--radius);
+  color: var(--text);
+}
+.post-content blockquote p {
+  margin: 0 0 var(--space-3) 0;
+  text-indent: 0; /* override long-form indent inside quotes */
+  text-align: justify;
+}
+.post-content blockquote p:last-child { margin-bottom: 0; }
+.post-content blockquote em { font-style: italic; }
+.post-content blockquote strong { font-weight: 600; }
+.post-content blockquote cite {
+  display: block;
+  margin-top: var(--space-3);
+  color: var(--muted);
+  font-style: normal;
+  font-size: 0.95rem;
+}
+
+/* Optional decorative quote mark */
+.post-content blockquote::before {
+  content: "\201C"; /* Left double quotation mark */
+  position: absolute;
+  top: -14px;
+  left: 10px;
+  font-family: var(--font-serif);
+  font-size: 3rem;
+  line-height: 1;
+  color: var(--link);
+  opacity: 0.18;
+}
+
+@media (max-width: 680px) {
+  .post-content blockquote {
+    padding: var(--space-3) var(--space-4);
+  }
+}
+
 /* Quotes */
 .quote { max-width: 68ch; margin: 0.5rem auto; color: var(--muted); }
 
