@@ -7,9 +7,7 @@ layout: page
 guid: http://lastremark.wordpress.com/?page_id=1
 ---
 
-<div class="wp-block-image is-style-circle-mask">
-  <figure class="alignright size-medium is-resized"><img src="/img/avatar.png" alt="" class="wp-image-191" width="300" height="200" /></figure>
-</div>
+<img class="avatar" src="/img/avatar.png" alt="Brennan's Face" width="96" height="96">
 
 Hi! I'm Brennan. A web developer and content strategist with a primary aim to utilize technologies to empower marginalized voices, emphasize storytelling, and create long-lasting community. Looking to help those that need development skills, or searching for ideas/management for their next content project!
 

@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file.
 - Unified branding across `license.md` and `about.markdown` (previously stale "Notebook de Casa" / `brenblog.netlify.app` references) to "Brennan's Old Blog" / `brennan-archive.netlify.app`.
 - Replaced dead `wandernotebook.com` links in `README.md` and `about.markdown` with Wayback Machine archive links; replaced the hotlinked (and now-broken) author photo in `author.markdown` with the local `/img/avatar.png`.
 - Fixed mismatched Twitter handle in `_includes/sidebar.html` and removed unused `twitter_username`/`twitter` SEO fields from `_config.yml`; replaced Twitter links site-wide with Mastodon (`social.lol/@brennan`).
-- Rewrote the sidebar bio to remove stale age/location details, framing the site as a 2015-2021 archive, and added a link to the current site, [brennan.day](https://brennan.day).
+- Rewrote the sidebar bio to remove stale age/location details, framing the site as a personal archive, and added a link to the current site, [brennan.day](https://brennan.day).
 - Fixed invalid `<em>`/`<q>` tag nesting in `_includes/header.html`.
 - Populated empty `name`/`short_name` fields in `site.webmanifest`.
 - Removed unused `badgerbadgerbadger` gem from `Gemfile`.
@@ -24,6 +24,14 @@ All notable changes to this project will be documented in this file.
 ### Removed
 - Disqus commenting system entirely (`_includes/disqus.html`, `disqus_shortname`, and its use in `post.html`).
 - Google Analytics (GA4) entirely (`_includes/google_analytics.html`, `ga4_measurement_id`, and its use in `default.html`) — the site now ships with no analytics/tracking scripts.
+
+### Added
+- Re-imported all posts from a newer, better-formatted export tool (`_posts/new-better-import/`), replacing the 76 posts it had improved matches for and adding 69 new posts (2015-2024) that weren't previously on this site, expanding the archive's range from 2015-2021 to 2015-2024.
+- Merged in Jekyll-required metadata (`permalink`, `categories`, `tags`) from the old versions of replaced posts so historical URLs are preserved; new tags were additionally derived from `_data/lists/*.json` (Medium reading lists) matched by `medium_id`.
+- Wired the new import's `subtitle`, `image`/`image_caption`, and `canonical_url` fields into `_layouts/post.html`: a subtitle line under the title, a hero image with caption, and an "Originally published on Medium" attribution link.
+
+### Changed
+- Updated the "2015-2021 archive" framing in `README.md`, `about.markdown`, and `_includes/sidebar.html` to "2015-2024" to reflect the expanded post range.
 
 ### Planned
 - Improve tags page rendering and site-wide heading hierarchy.

@@ -10,7 +10,7 @@ This blog was originally started in 2015 on [Medium](https://medium.com/brennanb
 
 Since then, I have migrated to WordPress with the name Wander Notebook, (now offline, but archived [here](https://web.archive.org/web/20211205111210/https://wandernotebook.com/)) to now self-hosting on GitHub using a bare-bones layout and design I made myself, under the name Brennan's Old Blog.
 
-**Note:** This site is an archive of my writing from 2015-2021. My current writing lives at [brennan.day](https://brennan.day).
+**Note:** This site is an archive of my writing from 2015-2024. My current writing lives at [brennan.day](https://brennan.day).
 
 With no expertise or formal education, I have written a multitude of posts on various topics over the years. My most frequented topics are happiness, creativity, productivity, and writing itself.
 
