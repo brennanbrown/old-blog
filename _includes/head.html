@@ -4,7 +4,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ site.description }}">
-  <link rel="stylesheet" href="{{ "/css/normalize.css" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
@@ -13,11 +12,6 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/fav/favicon-32x32.png" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ "/fav/favicon-16x16.png" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="manifest" href="{{ "/site.webmanifest" | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Inter:wght@400;500;600;700&display=swap"
-    rel="stylesheet">
   {% if site.plugins contains 'jekyll-seo-tag' %}
     {% seo %}
   {% endif %}

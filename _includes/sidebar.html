@@ -1,28 +1,34 @@
 <div class="menu">
   <h2>About Me</h2>
-  <img src="/img/avatar.png" alt="Brennan's Face" height="150" width="150">
-  <p>Hi, I'm Brennan. I'm a 24-year-old web developer and content strategist from Winnipeg, Manitoba and currently residing in
-    Calgary, Alberta. My current main focuses in my writing include self-development, community, and my experiences with
-    programming. </p>
-
-  <br />
+  <img class="avatar" src="/img/avatar.png" alt="Brennan's Face" height="96" width="96">
+  <p>Hi, I'm Brennan Kenneth Brown. This site is an archive of my writing spanning the years 2015 to 2021. I wrote on a wide range of topics, such as self-development, community, and my experiences with
+    programming. For my current writing, visit <a href="https://brennan.day">brennan.day</a>.</p>
 
   <h2>Contact Me</h2>
   <p>Interested in having a chat? Feel free to shoot me a DM anytime on <a
-      href="https://twitter.com/bkennethbrown/">Twitter.</a> I'm also always updating projects on <a
+      href="https://social.lol/@brennan">Mastodon.</a> I'm also always updating projects on <a
       href="https://github.com/brennanbrown/">GitHub</a> if you wanna follow me there!</p>
 
   <br />
 
   <h2 class="newsletter">Sign Up!</h2>
-  <iframe src="https://brennan.substack.com/embed" width="100%" height="270" frameborder="0" scrolling="no" title="
-  Substack Newsletter Sign-up Form"></iframe>
+  <div class="newsletter-signup">
+    <p class="newsletter-copy">Get new posts delivered to your inbox. No spam or selling, ever.</p>
+    <form action="https://buttondown.com/api/emails/embed-subscribe/brennanbrown" method="post" class="embeddable-buttondown-form">
+      <label for="bd-email" class="visually-hidden">Enter your email</label>
+      <input type="email" name="email" id="bd-email" inputmode="email" enterkeyhint="send" autocomplete="email" placeholder="you@example.com" required>
+      <input type="submit" value="Subscribe">
+      <p>
+        <a href="https://buttondown.com/refer/brennanbrown" target="_blank" rel="external">Powered by Buttondown.</a>
+      </p>
+    </form>
+  </div>
 
   <br />
 
   <h2>Tags</h2>
   <div class="tags-expo">
-    <select aria-label="Jump to a tag" onchange="if (this.value) { window.location.href='{{ '/tagged' | prepend: site.baseurl | prepend: site.url }}#' + this.value; }; return false;">
+    <select aria-label="Jump to a tag" data-tagged-url="{{ '/tagged' | prepend: site.baseurl | prepend: site.url }}" onchange="if (this.value) { window.location.href = this.dataset.taggedUrl + '#' + this.value; }">
       <option value="">Browse tags…</option>
       {% assign sorted_tags = (site.tags | sort:0) %}
       {% for tag in sorted_tags %}
