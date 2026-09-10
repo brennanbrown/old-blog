@@ -6,6 +6,9 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    {% if page.subtitle %}
+      <p class="post-subtitle-full">{{ page.subtitle }}</p>
+    {% endif %}
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %d, %Y" }}</time>
       {% if page.author %}
@@ -39,8 +42,17 @@ layout: default
       {% endif %}
     </p>
   </header>
+  {% if page.image %}
+    <figure class="post-hero">
+      <img src="{{ page.image }}" alt="{{ page.image_caption | default: page.title }}">
+      {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+    </figure>
+  {% endif %}
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  {% if page.canonical_url %}
+    <p class="post-origin">Originally published on <a href="{{ page.canonical_url }}">Medium</a>.</p>
+  {% endif %}
 </article>
 </div>
