@@ -8,7 +8,7 @@ guid: http://lastremark.wordpress.com/?page_id=1
 ---
 
 <div class="wp-block-image is-style-circle-mask">
-  <figure class="alignright size-medium is-resized"><img src="http://wandernotebook.com/wp-content/uploads/2020/02/Brennan-Brown-300x200.jpg" alt="" class="wp-image-191" width="300" height="200" srcset="http://wandernotebook.com/wp-content/uploads/2020/02/Brennan-Brown-300x200.jpg 300w, http://wandernotebook.com/wp-content/uploads/2020/02/Brennan-Brown-1024x682.jpg 1024w, http://wandernotebook.com/wp-content/uploads/2020/02/Brennan-Brown-768x512.jpg 768w, http://wandernotebook.com/wp-content/uploads/2020/02/Brennan-Brown-900x600.jpg 900w, http://wandernotebook.com/wp-content/uploads/2020/02/Brennan-Brown.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
+  <figure class="alignright size-medium is-resized"><img src="/img/avatar.png" alt="" class="wp-image-191" width="300" height="200" /></figure>
 </div>
 
 Hi! I'm Brennan. A web developer and content strategist with a primary aim to utilize technologies to empower marginalized voices, emphasize storytelling, and create long-lasting community. Looking to help those that need development skills, or searching for ideas/management for their next content project!

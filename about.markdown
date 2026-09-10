@@ -8,7 +8,9 @@ permalink: /about/
 
 This blog was originally started in 2015 on [Medium](https://medium.com/brennanbrown) called _Everyday Essays_ after I graduated from high school, after years of telling myself _"I really wanna start a blog!"_
 
-Since then, I have migrated to WordPress with the name Wander Notebook, (still available to view [here](http://wandernotebook.com/)) to now self-hosting on GitHub using a bare-bones layout and design I made myself, under the name [Notebook Casa](https://brenblog.netlify.app/).
+Since then, I have migrated to WordPress with the name Wander Notebook, (now offline, but archived [here](https://web.archive.org/web/20211205111210/https://wandernotebook.com/)) to now self-hosting on GitHub using a bare-bones layout and design I made myself, under the name Brennan's Old Blog.
+
+**Note:** This site is an archive of my writing from 2015-2021. My current writing lives at [brennan.day](https://brennan.day).
 
 With no expertise or formal education, I have written a multitude of posts on various topics over the years. My most frequented topics are happiness, creativity, productivity, and writing itself.
 

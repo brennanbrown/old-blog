@@ -3,10 +3,31 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
-- Add GA4 Measurement ID to `_config.yml`.
-- Verify Disqus shortname and behavior on production.
+### Fixed
+- Unified branding across `license.md` and `about.markdown` (previously stale "Notebook de Casa" / `brenblog.netlify.app` references) to "Brennan's Old Blog" / `brennan-archive.netlify.app`.
+- Replaced dead `wandernotebook.com` links in `README.md` and `about.markdown` with Wayback Machine archive links; replaced the hotlinked (and now-broken) author photo in `author.markdown` with the local `/img/avatar.png`.
+- Fixed mismatched Twitter handle in `_includes/sidebar.html` and removed unused `twitter_username`/`twitter` SEO fields from `_config.yml`; replaced Twitter links site-wide with Mastodon (`social.lol/@brennan`).
+- Rewrote the sidebar bio to remove stale age/location details, framing the site as a 2015-2021 archive, and added a link to the current site, [brennan.day](https://brennan.day).
+- Fixed invalid `<em>`/`<q>` tag nesting in `_includes/header.html`.
+- Populated empty `name`/`short_name` fields in `site.webmanifest`.
+- Removed unused `badgerbadgerbadger` gem from `Gemfile`.
+
+### Changed
+- Replaced `css/main.css` with a minimal, brutalist stylesheet: no decorative borders/dividers, no monospace type, no centered/justified text, no list or paragraph indentation, system fonts only (dropped the Google Fonts and normalize.css dependencies).
+- Enforced accessible link styling everywhere: always underlined, a clearly different hover color, and a distinct visited-link color.
+- Header, footer, and nav remain centered (`.full-width`).
+- Sidebar avatar is now square (not circular), greyscale, and floated left with body text wrapping around it.
+- Replaced the Substack newsletter embed with a Buttondown form (matching brennan.day).
+- Fixed a Liquid quirk on the homepage where whitespace-only `{% unless %}` blocks were silently dropped, causing post tags to render with no space between them.
+- Added spacing between the sidebar and pagination when stacked on mobile.
+
+### Removed
+- Disqus commenting system entirely (`_includes/disqus.html`, `disqus_shortname`, and its use in `post.html`).
+- Google Analytics (GA4) entirely (`_includes/google_analytics.html`, `ga4_measurement_id`, and its use in `default.html`) — the site now ships with no analytics/tracking scripts.
+
+### Planned
 - Improve tags page rendering and site-wide heading hierarchy.
-- Consider updating/resetting CSS baseline and adding dark mode.
+- Audit in-post links/images (imgur, YouTube, Tumblr, old WordPress `wp-content` embeds) for dead links.
 
 ## [2025-09-13] Modernization pass
 ### Added
