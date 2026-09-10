@@ -17,7 +17,7 @@ This document tracks planned work for modernizing and maintaining the blog.
 - [x] Populate `ga4_measurement_id` in `_config.yml`. *(superseded — GA removed entirely, see Stage 3)*
 - [x] Add `jekyll-seo-tag` metadata: author, social links, and defaults.
 - [ ] Validate sitemap output and canonical links after build.
-- [ ] Consider switching to `jekyll-paginate-v2` in the future (keeping legacy for now).
+- [x] Switch to `jekyll-paginate-v2`; homepage feed now shows posts chronologically (oldest first, starting from the 2015 post) via `sort_reverse: false`.
 
 ## Stage 2.5 — Content audit (Completed)
 - [x] Unify branding (site name/domain) across `README.md`, `about.markdown`, `license.md`.

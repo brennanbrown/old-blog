@@ -32,6 +32,10 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 - Updated the "2015-2021 archive" framing in `README.md`, `about.markdown`, and `_includes/sidebar.html` to "2015-2024" to reflect the expanded post range.
+- Added `height: auto` to the global `img` rule so images with explicit HTML `width`/`height` attributes still scale proportionally under `max-width: 100%`, regardless of where they're embedded.
+- Applied the sidebar's avatar treatment (square, greyscale, floated left) to the photo on `author.markdown`; made the `.avatar` CSS rule global instead of sidebar-only.
+- Converted 9 in-post `![image](url)` + plain-text-caption pairs (across 6 posts) into proper `<figure>`/`<figcaption markdown="span">` blocks, using a conservative pattern match to avoid mislabeling body prose or headings as captions; added matching CSS for `.post-figure`/`figcaption` and `.post-subtitle-full`/`.post-origin`.
+- Switched from `jekyll-paginate` to `jekyll-paginate-v2` so the homepage feed can be sorted independently of `site.posts`; the homepage now lists posts chronologically (oldest first, starting from the 2015 post) via `sort_reverse: false`, while the RSS feed and tags page remain newest-first/unaffected.
 
 ### Planned
 - Improve tags page rendering and site-wide heading hierarchy.

@@ -37,8 +37,12 @@ social:
     - https://social.lol/@brennan
     - https://github.com/brennanbrown
 
-paginate: 4
-paginate_path: "/page/:num/"
+pagination:
+  enabled: true
+  per_page: 4
+  permalink: "/page/:num/"
+  sort_field: "date"
+  sort_reverse: false
 excerpt_separator: <!--more-->
 
 # Build settings
@@ -47,7 +51,7 @@ timezone: America/Winnipeg
 
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-seo-tag
 
