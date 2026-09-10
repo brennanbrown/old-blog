@@ -1,0 +1,824 @@
+{
+  "users": [
+    {
+      "username": "@brendle.w.joseph",
+      "url": "https://medium.com/@brendle.w.joseph"
+    },
+    {
+      "username": "@kepferj",
+      "url": "https://medium.com/@kepferj"
+    },
+    {
+      "username": "@kassandrawrites",
+      "url": "https://medium.com/@kassandrawrites"
+    },
+    {
+      "username": "@zulie",
+      "url": "https://medium.com/@zulie"
+    },
+    {
+      "username": "@nsgeoai",
+      "url": "https://medium.com/@nsgeoai"
+    },
+    {
+      "username": "@ceearr33",
+      "url": "https://medium.com/@ceearr33"
+    },
+    {
+      "username": "@traci-lindsten",
+      "url": "https://medium.com/@traci-lindsten"
+    },
+    {
+      "username": "@calebdugue",
+      "url": "https://medium.com/@calebdugue"
+    },
+    {
+      "username": "@deanna.house",
+      "url": "https://medium.com/@deanna.house"
+    },
+    {
+      "username": "@StudentOfReality",
+      "url": "https://medium.com/@StudentOfReality"
+    },
+    {
+      "username": "@xroadscoven",
+      "url": "https://medium.com/@xroadscoven"
+    },
+    {
+      "username": "@hammond.a.johns",
+      "url": "https://medium.com/@hammond.a.johns"
+    },
+    {
+      "username": "@jburt06",
+      "url": "https://medium.com/@jburt06"
+    },
+    {
+      "username": "@rachelburnette_36541",
+      "url": "https://medium.com/@rachelburnette_36541"
+    },
+    {
+      "username": "@stonewalljacksoncollins",
+      "url": "https://medium.com/@stonewalljacksoncollins"
+    },
+    {
+      "username": "@lifeofcompoundinterest",
+      "url": "https://medium.com/@lifeofcompoundinterest"
+    },
+    {
+      "username": "@efigments",
+      "url": "https://medium.com/@efigments"
+    },
+    {
+      "username": "@klrowan",
+      "url": "https://medium.com/@klrowan"
+    },
+    {
+      "username": "@b_48623",
+      "url": "https://medium.com/@b_48623"
+    },
+    {
+      "username": "@shadowfaxridesagain",
+      "url": "https://medium.com/@shadowfaxridesagain"
+    },
+    {
+      "username": "@cinalenee",
+      "url": "https://medium.com/@cinalenee"
+    },
+    {
+      "username": "@Inkadaisy",
+      "url": "https://medium.com/@Inkadaisy"
+    },
+    {
+      "username": "@monicasineaddd",
+      "url": "https://medium.com/@monicasineaddd"
+    },
+    {
+      "username": "@hinasherali",
+      "url": "https://medium.com/@hinasherali"
+    },
+    {
+      "username": "@V.Muggridge",
+      "url": "https://medium.com/@V.Muggridge"
+    },
+    {
+      "username": "@tomas.ca.garrett",
+      "url": "https://medium.com/@tomas.ca.garrett"
+    },
+    {
+      "username": "@kimiarudi",
+      "url": "https://medium.com/@kimiarudi"
+    },
+    {
+      "username": "@lauren.a.pink",
+      "url": "https://medium.com/@lauren.a.pink"
+    },
+    {
+      "username": "@berrygoodwriter",
+      "url": "https://medium.com/@berrygoodwriter"
+    },
+    {
+      "username": "@albertomiller360",
+      "url": "https://medium.com/@albertomiller360"
+    },
+    {
+      "username": "@hannahscafe",
+      "url": "https://medium.com/@hannahscafe"
+    },
+    {
+      "username": "@Medium",
+      "url": "https://medium.com/@Medium"
+    },
+    {
+      "username": "@buster",
+      "url": "https://medium.com/@buster"
+    },
+    {
+      "username": "@hermionewilds",
+      "url": "https://medium.com/@hermionewilds"
+    },
+    {
+      "username": "@cathi.harris",
+      "url": "https://medium.com/@cathi.harris"
+    },
+    {
+      "username": "@loriramey",
+      "url": "https://medium.com/@loriramey"
+    },
+    {
+      "username": "@Iamsureyoureright",
+      "url": "https://medium.com/@Iamsureyoureright"
+    },
+    {
+      "username": "@KWidadM",
+      "url": "https://medium.com/@KWidadM"
+    },
+    {
+      "username": "@bluebeams",
+      "url": "https://medium.com/@bluebeams"
+    },
+    {
+      "username": "@emili.314",
+      "url": "https://medium.com/@emili.314"
+    },
+    {
+      "username": "@TheSpiritualBigBrother",
+      "url": "https://medium.com/@TheSpiritualBigBrother"
+    },
+    {
+      "username": "@thadrasheridan",
+      "url": "https://medium.com/@thadrasheridan"
+    },
+    {
+      "username": "@pitcraftstory",
+      "url": "https://medium.com/@pitcraftstory"
+    },
+    {
+      "username": "@ammcknight",
+      "url": "https://medium.com/@ammcknight"
+    },
+    {
+      "username": "@clamshell",
+      "url": "https://medium.com/@clamshell"
+    },
+    {
+      "username": "@ChikeOnyeoguzoro",
+      "url": "https://medium.com/@ChikeOnyeoguzoro"
+    },
+    {
+      "username": "@wingsai",
+      "url": "https://medium.com/@wingsai"
+    },
+    {
+      "username": "@mediumwriters",
+      "url": "https://medium.com/@mediumwriters"
+    },
+    {
+      "username": "@joshspilker",
+      "url": "https://medium.com/@joshspilker"
+    },
+    {
+      "username": "@AmperSandGeorges",
+      "url": "https://medium.com/@AmperSandGeorges"
+    },
+    {
+      "username": "@curtisdave86",
+      "url": "https://medium.com/@curtisdave86"
+    },
+    {
+      "username": "@kyhana",
+      "url": "https://medium.com/@kyhana"
+    },
+    {
+      "username": "@stanleyc414",
+      "url": "https://medium.com/@stanleyc414"
+    },
+    {
+      "username": "@gutbloom",
+      "url": "https://medium.com/@gutbloom"
+    },
+    {
+      "username": "@miscellaneplans",
+      "url": "https://medium.com/@miscellaneplans"
+    },
+    {
+      "username": "@stuart_ml",
+      "url": "https://medium.com/@stuart_ml"
+    },
+    {
+      "username": "@tuckerlieberman",
+      "url": "https://medium.com/@tuckerlieberman"
+    },
+    {
+      "username": "@olgawefler",
+      "url": "https://medium.com/@olgawefler"
+    },
+    {
+      "username": "@echoes.of.omens",
+      "url": "https://medium.com/@echoes.of.omens"
+    },
+    {
+      "username": "@dmontoya37",
+      "url": "https://medium.com/@dmontoya37"
+    },
+    {
+      "username": "@chanliangjun",
+      "url": "https://medium.com/@chanliangjun"
+    },
+    {
+      "username": "@katerinacharisi",
+      "url": "https://medium.com/@katerinacharisi"
+    },
+    {
+      "username": "@lorrain.grey",
+      "url": "https://medium.com/@lorrain.grey"
+    },
+    {
+      "username": "@bhaydu16",
+      "url": "https://medium.com/@bhaydu16"
+    },
+    {
+      "username": "@theleadershipguide",
+      "url": "https://medium.com/@theleadershipguide"
+    },
+    {
+      "username": "@stephaniepeers_untamed",
+      "url": "https://medium.com/@stephaniepeers_untamed"
+    },
+    {
+      "username": "@AngelMeadows",
+      "url": "https://medium.com/@AngelMeadows"
+    },
+    {
+      "username": "@loriaa",
+      "url": "https://medium.com/@loriaa"
+    },
+    {
+      "username": "@liminals",
+      "url": "https://medium.com/@liminals"
+    },
+    {
+      "username": "@qsky",
+      "url": "https://medium.com/@qsky"
+    },
+    {
+      "username": "@MediumStaff",
+      "url": "https://medium.com/@MediumStaff"
+    },
+    {
+      "username": "@aliciadearn",
+      "url": "https://medium.com/@aliciadearn"
+    },
+    {
+      "username": "@jeffhaywardwriting",
+      "url": "https://medium.com/@jeffhaywardwriting"
+    },
+    {
+      "username": "@zulie_at_medium",
+      "url": "https://medium.com/@zulie_at_medium"
+    },
+    {
+      "username": "@emilygertenbach",
+      "url": "https://medium.com/@emilygertenbach"
+    },
+    {
+      "username": "@coachtony",
+      "url": "https://medium.com/@coachtony"
+    },
+    {
+      "username": "@jamesprivett29",
+      "url": "https://medium.com/@jamesprivett29"
+    },
+    {
+      "username": "@misaligned-markets",
+      "url": "https://medium.com/@misaligned-markets"
+    },
+    {
+      "username": "@lachlan.dixon",
+      "url": "https://medium.com/@lachlan.dixon"
+    },
+    {
+      "username": "@chasingadyingempire",
+      "url": "https://medium.com/@chasingadyingempire"
+    },
+    {
+      "username": "@finch.charlie",
+      "url": "https://medium.com/@finch.charlie"
+    },
+    {
+      "username": "@jl_millis",
+      "url": "https://medium.com/@jl_millis"
+    },
+    {
+      "username": "@swingbatterbundts",
+      "url": "https://medium.com/@swingbatterbundts"
+    },
+    {
+      "username": "@hdansin",
+      "url": "https://medium.com/@hdansin"
+    },
+    {
+      "username": "@timothybonner9",
+      "url": "https://medium.com/@timothybonner9"
+    },
+    {
+      "username": "@curious.bytes",
+      "url": "https://medium.com/@curious.bytes"
+    },
+    {
+      "username": "@pajayhaykins48",
+      "url": "https://medium.com/@pajayhaykins48"
+    },
+    {
+      "username": "@mariarattray",
+      "url": "https://medium.com/@mariarattray"
+    },
+    {
+      "username": "@thoughtclearing",
+      "url": "https://medium.com/@thoughtclearing"
+    },
+    {
+      "username": "@ashwinisriikrishna",
+      "url": "https://medium.com/@ashwinisriikrishna"
+    },
+    {
+      "username": "@asgero",
+      "url": "https://medium.com/@asgero"
+    },
+    {
+      "username": "@sprawlcalgary",
+      "url": "https://medium.com/@sprawlcalgary"
+    },
+    {
+      "username": "@nankumar0210",
+      "url": "https://medium.com/@nankumar0210"
+    },
+    {
+      "username": "@dr-keiko-mccullough",
+      "url": "https://medium.com/@dr-keiko-mccullough"
+    },
+    {
+      "username": "@rgay",
+      "url": "https://medium.com/@rgay"
+    },
+    {
+      "username": "@christianbriones.work",
+      "url": "https://medium.com/@christianbriones.work"
+    },
+    {
+      "username": "@sarahhornehighvibrations",
+      "url": "https://medium.com/@sarahhornehighvibrations"
+    },
+    {
+      "username": "@Veda-Qi",
+      "url": "https://medium.com/@Veda-Qi"
+    },
+    {
+      "username": "@Avner_17989",
+      "url": "https://medium.com/@Avner_17989"
+    },
+    {
+      "username": "@elizabeth.mendy2013",
+      "url": "https://medium.com/@elizabeth.mendy2013"
+    },
+    {
+      "username": "@cynthiafriedlob",
+      "url": "https://medium.com/@cynthiafriedlob"
+    },
+    {
+      "username": "@_Katabatic",
+      "url": "https://medium.com/@_Katabatic"
+    },
+    {
+      "username": "@lonshapiro",
+      "url": "https://medium.com/@lonshapiro"
+    },
+    {
+      "username": "@ibanvdz",
+      "url": "https://medium.com/@ibanvdz"
+    },
+    {
+      "username": "@Omercanacioglu",
+      "url": "https://medium.com/@Omercanacioglu"
+    },
+    {
+      "username": "@piatroustories",
+      "url": "https://medium.com/@piatroustories"
+    },
+    {
+      "username": "@dailynewsletter",
+      "url": "https://medium.com/@dailynewsletter"
+    },
+    {
+      "username": "@pafingl_86582",
+      "url": "https://medium.com/@pafingl_86582"
+    },
+    {
+      "username": "@kriszty.business",
+      "url": "https://medium.com/@kriszty.business"
+    },
+    {
+      "username": "@deannabug",
+      "url": "https://medium.com/@deannabug"
+    },
+    {
+      "username": "@kathanjali0224",
+      "url": "https://medium.com/@kathanjali0224"
+    },
+    {
+      "username": "@doctorow",
+      "url": "https://medium.com/@doctorow"
+    },
+    {
+      "username": "@andersmond",
+      "url": "https://medium.com/@andersmond"
+    },
+    {
+      "username": "@jennysuri",
+      "url": "https://medium.com/@jennysuri"
+    },
+    {
+      "username": "@makarenko.roman121",
+      "url": "https://medium.com/@makarenko.roman121"
+    },
+    {
+      "username": "@wordsbyegypt",
+      "url": "https://medium.com/@wordsbyegypt"
+    },
+    {
+      "username": "@izabela.shopova.me",
+      "url": "https://medium.com/@izabela.shopova.me"
+    },
+    {
+      "username": "@azzerae",
+      "url": "https://medium.com/@azzerae"
+    },
+    {
+      "username": "@annamercury",
+      "url": "https://medium.com/@annamercury"
+    },
+    {
+      "username": "@justincox",
+      "url": "https://medium.com/@justincox"
+    },
+    {
+      "username": "@JustMeDee",
+      "url": "https://medium.com/@JustMeDee"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Fourth Wave",
+      "url": "https://medium.com/fourth-wave"
+    },
+    {
+      "name": "A Village for Grown-Ups",
+      "url": "https://medium.com/a-village-for-grown-ups"
+    },
+    {
+      "name": "Music For Thought",
+      "url": "https://medium.com/music-for-thought"
+    },
+    {
+      "name": "ZORA",
+      "url": "https://zora.medium.com"
+    },
+    {
+      "name": "Obsidian Observer",
+      "url": "https://medium.com/obsidian-observer"
+    },
+    {
+      "name": "Data Science Collective",
+      "url": "https://medium.com/data-science-collective"
+    },
+    {
+      "name": "The Medium Blog",
+      "url": "https://medium.com/blog"
+    },
+    {
+      "name": "750 Words",
+      "url": "https://medium.com/750-words"
+    },
+    {
+      "name": "THOSE PEOPLE",
+      "url": "https://medium.com/thsppl"
+    },
+    {
+      "name": "The Memoirist",
+      "url": "https://medium.com/the-memoirist"
+    },
+    {
+      "name": "Slackjaw",
+      "url": "https://medium.com/slackjaw"
+    },
+    {
+      "name": "The Medium Handbook",
+      "url": "https://medium.com/medium-handbook"
+    },
+    {
+      "name": "Medium Release Notes",
+      "url": "https://medium.com/medium-release-notes"
+    },
+    {
+      "name": "Small Tech",
+      "url": "https://medium.com/small-tech"
+    },
+    {
+      "name": "Cultured",
+      "url": "https://medium.com/cultured-network"
+    },
+    {
+      "name": "Ideas I’m Mulling",
+      "url": "https://medium.com/blagenflorble"
+    },
+    {
+      "name": "The Writing Cooperative",
+      "url": "https://writingcooperative.com"
+    }
+  ],
+  "topics": [
+    {
+      "name": "Money",
+      "url": "https://medium.com/topic/money"
+    },
+    {
+      "name": "Freelancing",
+      "url": "https://medium.com/topic/freelancing"
+    },
+    {
+      "name": "Creativity",
+      "url": "https://medium.com/topic/creativity"
+    },
+    {
+      "name": "Books",
+      "url": "https://medium.com/topic/books"
+    },
+    {
+      "name": "Fiction",
+      "url": "https://medium.com/topic/fiction"
+    },
+    {
+      "name": "Outdoors",
+      "url": "https://medium.com/topic/outdoors"
+    },
+    {
+      "name": "Film",
+      "url": "https://medium.com/topic/film"
+    },
+    {
+      "name": "Machine Learning",
+      "url": "https://medium.com/topic/machine-learning"
+    },
+    {
+      "name": "Science",
+      "url": "https://medium.com/topic/science"
+    },
+    {
+      "name": "Work",
+      "url": "https://medium.com/topic/work"
+    },
+    {
+      "name": "Culture",
+      "url": "https://medium.com/topic/culture"
+    },
+    {
+      "name": "Photography",
+      "url": "https://medium.com/topic/photography"
+    },
+    {
+      "name": "Health",
+      "url": "https://medium.com/topic/health"
+    },
+    {
+      "name": "History",
+      "url": "https://medium.com/topic/history"
+    },
+    {
+      "name": "Psychology",
+      "url": "https://medium.com/topic/psychology"
+    },
+    {
+      "name": "Politics",
+      "url": "https://medium.com/topic/politics"
+    },
+    {
+      "name": "Equality",
+      "url": "https://medium.com/topic/equality"
+    },
+    {
+      "name": "Self",
+      "url": "https://medium.com/topic/self"
+    },
+    {
+      "name": "Leadership",
+      "url": "https://medium.com/topic/leadership"
+    },
+    {
+      "name": "Lifestyle",
+      "url": "https://medium.com/topic/lifestyle"
+    },
+    {
+      "name": "Programming",
+      "url": "https://medium.com/topic/programming"
+    },
+    {
+      "name": "Product Management",
+      "url": "https://medium.com/topic/product-management"
+    },
+    {
+      "name": "Religion",
+      "url": "https://medium.com/topic/religion"
+    },
+    {
+      "name": "Software Engineering",
+      "url": "https://medium.com/topic/software-engineering"
+    },
+    {
+      "name": "World",
+      "url": "https://medium.com/topic/world"
+    },
+    {
+      "name": "Future",
+      "url": "https://medium.com/topic/future"
+    },
+    {
+      "name": "Family",
+      "url": "https://medium.com/topic/family"
+    },
+    {
+      "name": "Media",
+      "url": "https://medium.com/topic/media"
+    },
+    {
+      "name": "Javascript",
+      "url": "https://medium.com/topic/javascript"
+    },
+    {
+      "name": "Mindfulness",
+      "url": "https://medium.com/topic/mindfulness"
+    },
+    {
+      "name": "Neuroscience",
+      "url": "https://medium.com/topic/neuroscience"
+    },
+    {
+      "name": "Data Science",
+      "url": "https://medium.com/topic/data-science"
+    },
+    {
+      "name": "Disability",
+      "url": "https://medium.com/topic/disability"
+    },
+    {
+      "name": "Spirituality",
+      "url": "https://medium.com/topic/spirituality"
+    },
+    {
+      "name": "Travel",
+      "url": "https://medium.com/topic/travel"
+    },
+    {
+      "name": "Basic Income",
+      "url": "https://medium.com/topic/basic-income"
+    },
+    {
+      "name": "Accessibility",
+      "url": "https://medium.com/topic/accessibility"
+    },
+    {
+      "name": "Mental Health",
+      "url": "https://medium.com/topic/mental-health"
+    },
+    {
+      "name": "Podcasts",
+      "url": "https://medium.com/topic/podcasts"
+    },
+    {
+      "name": "Space",
+      "url": "https://medium.com/topic/space"
+    },
+    {
+      "name": "Race",
+      "url": "https://medium.com/topic/race"
+    },
+    {
+      "name": "Addiction",
+      "url": "https://medium.com/topic/addiction"
+    },
+    {
+      "name": "Relationships",
+      "url": "https://medium.com/topic/relationships"
+    },
+    {
+      "name": "Remote Work",
+      "url": "https://medium.com/topic/remote-work"
+    },
+    {
+      "name": "Digital Life",
+      "url": "https://medium.com/topic/digital-life"
+    },
+    {
+      "name": "Productivity",
+      "url": "https://medium.com/topic/productivity"
+    },
+    {
+      "name": "Cities",
+      "url": "https://medium.com/topic/cities"
+    },
+    {
+      "name": "Music",
+      "url": "https://medium.com/topic/music"
+    },
+    {
+      "name": "Philosophy",
+      "url": "https://medium.com/topic/philosophy"
+    },
+    {
+      "name": "Fitness",
+      "url": "https://medium.com/topic/fitness"
+    },
+    {
+      "name": "Education",
+      "url": "https://medium.com/topic/education"
+    },
+    {
+      "name": "Startups",
+      "url": "https://medium.com/topic/startups"
+    },
+    {
+      "name": "Design",
+      "url": "https://medium.com/topic/design"
+    },
+    {
+      "name": "Marketing",
+      "url": "https://medium.com/topic/marketing"
+    },
+    {
+      "name": "Business",
+      "url": "https://medium.com/topic/business"
+    },
+    {
+      "name": "Climate Change",
+      "url": "https://medium.com/topic/climate-change"
+    },
+    {
+      "name": "Writing",
+      "url": "https://medium.com/topic/writing"
+    },
+    {
+      "name": "Poetry",
+      "url": "https://medium.com/topic/poetry"
+    },
+    {
+      "name": "Math",
+      "url": "https://medium.com/topic/math"
+    },
+    {
+      "name": "Art",
+      "url": "https://medium.com/topic/art"
+    },
+    {
+      "name": "Technology",
+      "url": "https://medium.com/topic/technology"
+    },
+    {
+      "name": "Humor",
+      "url": "https://medium.com/topic/humor"
+    },
+    {
+      "name": "Makers",
+      "url": "https://medium.com/topic/makers"
+    },
+    {
+      "name": "Sexuality",
+      "url": "https://medium.com/topic/sexuality"
+    },
+    {
+      "name": "Economy",
+      "url": "https://medium.com/topic/economy"
+    },
+    {
+      "name": "Visual Design",
+      "url": "https://medium.com/topic/visual-design"
+    }
+  ]
+}
