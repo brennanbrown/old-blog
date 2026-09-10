@@ -13,6 +13,6 @@ I'm a strong advocate for open-source, including realms beyond software. Because
         <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
 </div>
-<span>Notebook de Casa</span> by <a href="https://brenblog.netlify.app" rel="cc:attributionURL">Brennan K. Brown</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<span>Brennan's Old Blog</span> by <a href="https://brennan-archive.netlify.app" rel="cc:attributionURL">Brennan K. Brown</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-Based on a work at <a href="https://brenblog.netlify.app/" rel="dct:source">https://brenblog.netlify.app/</a>.
+Based on a work at <a href="https://brennan-archive.netlify.app/" rel="dct:source">https://brennan-archive.netlify.app/</a>.

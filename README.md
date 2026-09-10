@@ -8,7 +8,9 @@ This is an archive of my earlier writing and experiments in web design.
 
 This blog was originally started in 2015 on [Medium](https://medium.com/brennanbrown) called _Everyday Essays_ after I graduated from high school, after years of telling myself _"I really wanna start a blog!"_
 
-Since then, I have migrated to WordPress with the name Wander Notebook, (still available to view [here](http://wandernotebook.com/)) to self-hosting on GitHub using a bare-bones layout and design I made myself. This repository now powers the archived site at [brennan-archive.netlify.app](https://brennan-archive.netlify.app).
+Since then, I have migrated to WordPress with the name Wander Notebook, (now offline, but archived [here](https://web.archive.org/web/20211205111210/https://wandernotebook.com/)) to self-hosting on GitHub using a bare-bones layout and design I made myself. This repository now powers the archived site at [brennan-archive.netlify.app](https://brennan-archive.netlify.app).
+
+> **Note:** This is an archive of posts from 2015-2021. For my current writing, visit [brennan.day](https://brennan.day).
 
 With no expertise or formal education, I have written a multitude of posts on various topics over the years. My most frequented topics are happiness, creativity, productivity, and writing itself.
 
@@ -31,9 +33,24 @@ If you haven't read any of my work before, here are a few pieces:
 - [Zen of Housekeeping: Life as a kitchen sink.](https://brennan-archive.netlify.app/zen-of-housekeeping/)
 - [Our Finite Everything: The Limited Amount We Have.](https://brennan-archive.netlify.app/our-finite-everything/)
 
+## Development
+
+This site is built with [Jekyll](https://jekyllrb.com/) and requires Ruby and [Bundler](https://bundler.io/).
+
+```bash
+# Install dependencies
+bundle install
+
+# Serve locally with live reload at http://localhost:4000
+bundle exec jekyll serve
+
+# Build the static site into _site/
+bundle exec jekyll build
+```
+
 ## Contributing
 
-If you have an question, idea, or would like to guest post, please send me a DM on [Twitter](https://twitter.com/brennankbrown) and we'll be able to work something out.
+If you have an question, idea, or would like to guest post, please send me a DM on [Mastodon](https://social.lol/@brennan) and we'll be able to work something out.
 
 If you would like to contribute, I'd guide you to the [Contribution Page](https://jekyllrb.com/docs/contributing/) on Jekyll's website for more information.
 
