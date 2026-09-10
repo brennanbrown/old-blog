@@ -1,28 +1,28 @@
 ---
-id: 128
-title: Dawn of Ursa Minor
-date: 2016-04-05T09:31:01+00:00
-author: Brennan K. Brown
 layout: post
-guid: https://lastremark.wordpress.com/2016/04/05/dawn-of-ursa-minor/
-permalink: /dawn-of-ursa-minor/
+title: Dawn of Ursa Minor
+subtitle: The detritus of the forest had already begun to cool down in Nelson. Autumn
+  had bled throughout the coast, leaving a film of frost on the…
+date: '2016-04-05T15:31:01.515Z'
+author: Brennan K. Brown
+permalink: "/dawn-of-ursa-minor/"
 categories:
-  - Blogging
+- Blogging
 tags:
-  - Fiction
-  - Nature
-  - Short Story
+- Fiction
+- Nature
+- Short Story
+image: https://cdn-images-1.medium.com/max/2560/1*arw9RbC4Wsg1skWI6tCi7Q.jpeg
+image_caption: Morning in Pine Forest | Source
+canonical_url: https://medium.com/@brennanbrown/dawn-of-ursa-minor-c092f5082627
+medium_id: c092f5082627
+id: 128
+guid: https://lastremark.wordpress.com/2016/04/05/dawn-of-ursa-minor/
 ---
 
-<figure class="wp-caption">
-
-<img data-width="5668" data-height="3840" src="https://cdn-images-1.medium.com/max/2560/1*arw9RbC4Wsg1skWI6tCi7Q.jpeg" /> <figcaption class="wp-caption-text">Morning in Pine Forest | <a href="https://en.wikipedia.org/wiki/Morning_in_a_Pine_Forest#/media/File:Utro_v_sosnovom_lesu.jpg" target="_blank" rel="noopener noreferrer">Source</a></figcaption></figure>
-
-<span>T</span>he detritus of the forest had already begun to cool down in Nelson. Autumn had bled throughout the coast, leaving a film of frost on the leaves of fallen trees. Branches the shade of crude oil littered the trails; more clutter was left flailing aimlessly in the wind. The sky stung with darkness, still not having fully cleared.
+The detritus of the forest had already begun to cool down in Nelson. Autumn had bled throughout the coast, leaving a film of frost on the leaves of fallen trees. Branches the shade of crude oil littered the trails; more clutter was left flailing aimlessly in the wind. The sky stung with darkness, still not having fully cleared.
 
 This past summer had brought an excess of forest fires that not only slaughtered the trees, prey as well. It left many animals desperate in search of nutrition.
-
-<!--more-->
 
 A family of black bears was nestled behind a group of still-standing trees in a cave surrounded by an ocean of large boulders. They were neatly hidden, protected, and warm, far from any humans that may come, seeking game. The cave dripped with frost and debris, but leaves and moss covered the ground bringing much-needed warmth and comfort. This family of black bears consisting of a mother and father bear, and two female cubs; grumbled quietly amongst themselves.
 
@@ -50,7 +50,9 @@ Matari and Storme sat in silence, not making eye contact with one another, moonl
 
 “We have to go find something. They’ve lost weight on their haunches. That meat is enough for one and it’ll be gone tomorrow. I know that it’s dangerous…but even if it means I don’t eat, they have to. To grow.”
 
-<span>M</span>atari glanced down at his large paws examining the scratches on his pads from searching earlier that day all around the forest close to their home. Storme was trying to think of something clever to protest with before she was interrupted by the low grumble of Kadee’s stomach. Storme swallowed harshly and nodded. Storme and Matari quietly made their way out of the cave trying their hardest to avoid making the slightest sound. Their noses were cold. They made their way past the rocks and through the rubble towards the campgrounds. Those areas had been repaired, or had been saved, and were sure to hold some kind of gem to bring home to their daughters.
+---
+
+Matari glanced down at his large paws examining the scratches on his pads from searching earlier that day all around the forest close to their home. Storme was trying to think of something clever to protest with before she was interrupted by the low grumble of Kadee’s stomach. Storme swallowed harshly and nodded. Storme and Matari quietly made their way out of the cave trying their hardest to avoid making the slightest sound. Their noses were cold. They made their way past the rocks and through the rubble towards the campgrounds. Those areas had been repaired, or had been saved, and were sure to hold some kind of gem to bring home to their daughters.
 
 Kala, the more active and alert of the cubs awoke as her parents turned a corner behind some trees.
 
@@ -66,7 +68,9 @@ Kadee who had still been behind the trees made her appearance afraid for her sis
 
 Before returning, Storme walked further up to the Hunter’s site. As they mourned through their voices and made their way back to their cave, they returned with a multitude of human food, easily enough throughout the rest of the year.
 
-<span>T</span>he debris of the forest had already begun to be covered by the juvenile greens of the forest. The trails cracked with rainbows of flowers, spurting.
+---
+
+The debris of the forest had already begun to be covered by the juvenile greens of the forest. The trails cracked with rainbows of flowers, spurting.
 
 Two springs have passed since her sister was shot and killed, but Kala continued to persevere independently. She still lived near where her parents raised her, sometimes burrowing in the same cave where she played with her sister.
 

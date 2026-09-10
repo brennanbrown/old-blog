@@ -1,33 +1,33 @@
 ---
-id: 107
-title: The Best Time to Start a New Year’s Resolution is Right Now
-date: 2015-12-13T11:05:10+00:00
-author: Brennan K. Brown
 layout: post
-guid: https://lastremark.wordpress.com/2015/12/13/the-best-time-to-start-a-new-years-resolution-is-right-now/
-permalink: /the-best-time-to-start-a-new-years-resolution-is-right-now/
+title: The Best Time to Start a New Year’s Resolution is Right Now
+subtitle: Just slap anything on when you see a blank canvas staring you in the face
+  like some imbecile.
+date: '2015-12-13T18:05:10.756Z'
+author: Brennan K. Brown
+permalink: "/the-best-time-to-start-a-new-years-resolution-is-right-now/"
 categories:
-  - Blogging
+- Blogging
 tags:
-  - Habit Building
-  - Inspiration
-  - Productivity
+- Habit Building
+- Inspiration
+- Productivity
+image: https://cdn-images-1.medium.com/max/2560/1*3r2T5mPRtkLAUStN3se2Qw.jpeg
+image_caption: Image Credit
+canonical_url: https://medium.com/@brennanbrown/the-best-time-to-start-a-new-year-s-resolution-is-right-now-ffdd389fbf01
+medium_id: ffdd389fbf01
+id: 107
+guid: https://lastremark.wordpress.com/2015/12/13/the-best-time-to-start-a-new-years-resolution-is-right-now/
 ---
 
-<figure class="wp-caption">
+**Today is not your enemy.** There’s no need to complicate today (as in right now) with the uncertainty of the next five years. Every day when you get out of bed in the morning, you have two options:
 
-<img data-width="1600" data-height="1067" src="https://cdn-images-1.medium.com/max/2560/1*3r2T5mPRtkLAUStN3se2Qw.jpeg" /> <figcaption class="wp-caption-text"><a href="https://www.pexels.com/photo/scrabble-resolutions-3297/" target="_blank" rel="noopener noreferrer">Image Credit</a></figcaption></figure>
-
-<b>Today is not your enemy.</b> There’s no need to complicate today (as in right now) with the uncertainty of the next five years. Every day when you get out of bed in the morning, you have two options:
-
-1. Do what you want.
-2. Don’t do what you want.
+1.  Do what you want.
+2.  Don’t do what you want.
 
 That’s all there is to it. You’re tricking yourself if you think that there’s something beyond the choice of doing what you love or not doing it.
 
-But I won’t be dishonest in saying it’s very easy to get caught up in thinking that there’s some sort of _oasis of productivity_ that’s just a few more miles away, all the time. That we’re just one epiphany away from no longer struggling, a few more articles away from the missing link.
-
-<!--more-->
+But I won’t be dishonest in saying it’s very easy to get caught up in thinking that there’s some sort of *oasis of productivity* that’s just a few more miles away, all the time. That we’re just one epiphany away from no longer struggling, a few more articles away from the missing link.
 
 And before we know it, another year has passed. Or maybe it was another important—albeit sentimental — day. Perhaps this birthday marked the last year of your life where you muddled around. You’re getting older, we’re all getting older.
 
@@ -39,8 +39,8 @@ It’s widely known that a large majority of New Year’s Resolutions essentiall
 
 And there’s just too much research and media regarding this for me to spout any more nonsense about it. Because every day when you get out bed, you have two options:
 
-1. Be a person who is going to change.
-2. Be a person who is not going to change.
+1.  Be a person who is going to change.
+2.  Be a person who is not going to change.
 
 This isn’t about capability, this isn’t about potential. This isn’t about test scores or past accomplishments or downfalls. This is about today. At the end of it, you’ll have either accomplished one of those two things. It’s plain binary.
 
